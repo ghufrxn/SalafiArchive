@@ -1,0 +1,110 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("flaticonace3.ttf?320467ea7625946845781f044a95980b") format("truetype"),
+url("flaticonace3.woff?320467ea7625946845781f044a95980b") format("woff"),
+url("flaticonace3.woff2?320467ea7625946845781f044a95980b") format("woff2"),
+url("flaticonace3.eot?320467ea7625946845781f044a95980b#iefix") format("embedded-opentype"),
+url("flaticonace3.svg?320467ea7625946845781f044a95980b#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-fast-forward:before {
+    content: "\f101";
+}
+.flaticon-back:before {
+    content: "\f102";
+}
+.flaticon-loupe:before {
+    content: "\f103";
+}
+.flaticon-heart:before {
+    content: "\f104";
+}
+.flaticon-soundcloud:before {
+    content: "\f105";
+}
+.flaticon-spotify:before {
+    content: "\f106";
+}
+.flaticon-apple-black-logo:before {
+    content: "\f107";
+}
+.flaticon-right-arrow:before {
+    content: "\f108";
+}
+.flaticon-left-arrow:before {
+    content: "\f109";
+}
+.flaticon-right-arrow-1:before {
+    content: "\f10a";
+}
+.flaticon-left-arrow-1:before {
+    content: "\f10b";
+}
+.flaticon-play-button:before {
+    content: "\f10c";
+}
+.flaticon-coin:before {
+    content: "\f10d";
+}
+.flaticon-headphones:before {
+    content: "\f10e";
+}
+.flaticon-microphone:before {
+    content: "\f10f";
+}
+.flaticon-letter:before {
+    content: "\f110";
+}
+.flaticon-clock:before {
+    content: "\f111";
+}
+.flaticon-email:before {
+    content: "\f112";
+}
+.flaticon-pulse:before {
+    content: "\f113";
+}
+.flaticon-phone-call:before {
+    content: "\f114";
+}
+.flaticon-microphone-1:before {
+    content: "\f115";
+}
+.flaticon-showman:before {
+    content: "\f116";
+}
+.flaticon-chapter:before {
+    content: "\f117";
+}
+.flaticon-subscribe:before {
+    content: "\f118";
+}
+.flaticon-download-to-storage-drive:before {
+    content: "\f119";
+}
+.flaticon-check:before {
+    content: "\f11a";
+}
+.flaticon-check-1:before {
+    content: "\f11b";
+}
+.flaticon-quotation-mark:before {
+    content: "\f11c";
+}
+.flaticon-telephone-call:before {
+    content: "\f11d";
+}
+.flaticon-maps-and-flags:before {
+    content: "\f11e";
+}

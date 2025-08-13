@@ -1,0 +1,76 @@
+/* Base styles for the audio player */
+.ovau-single-player {
+  display: flex;
+  flex-wrap: wrap;
+  /* position: relative; Needed for absolute positioning of pseudo-element 
+  border-radius: 7px;
+  overflow: hidden; 
+  font-family: "Montserrat", sans-serif;
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)),
+    url("/wp-content/uploads/2024/06/studio-microphone-audio-waveform-on-260nw-1994964344.webp") !important;
+  background-repeat: no-repeat !important;
+  background-position: center right !important;
+  background-size: cover !important;*/
+  margin: 0 !important;
+  background-color: transparent !important;
+}
+
+.ovau-duration,
+.ovamejs-duration {
+  color: #e6c352 !important;
+  font-weight: bold;
+}
+
+.ovamejs-time > .ovamejs-currenttime,
+.episode,
+.seperate {
+  color: #ffff !important;
+}
+
+.btn-play,
+.skip-back,
+.jump-forward,
+.ovamejs-button.ovamejs-speed-button button,
+.ovamejs-controls .ovamejs-volume-button > button {
+  background: #5d4a43 !important;
+  color: #fff !important;
+}
+
+.btn-play:hover,
+.skip-back:hover,
+.jump-forward:hover,
+.ovamejs-button.ovamejs-speed-button > button:hover,
+.ovamejs-controls.ovamejs-volume-button > button:hover {
+  background-color: #fff !important;
+  color: #3c3130 !important;
+  border: solid 1px #5d4a43 !important;
+}
+
+.single-audio
+  .ovau-single-player
+  .ovau-progress
+  .audio-progress
+  .ovamejs-container
+  .ovamejs-controls
+  .ovamejs-time-rail
+  .ovamejs-time-total
+  .ovamejs-time-handle
+  .ovamejs-time-handle-content {
+  border-color: #e6c352 !important;
+}
+
+.single-audio
+  .ovau-single-player
+  .ovau-progress
+  .audio-progress
+  .ovamejs-container
+  .ovamejs-controls
+  .ovamejs-time-rail
+  .ovamejs-time-total
+  .ovamejs-time-current {
+  background-color: #e6c352 !important;
+}
+
+.ovamejs-time-handle-content:hover {
+  background-color: #e6c352 !important;
+}

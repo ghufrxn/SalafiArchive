@@ -1,0 +1,15 @@
+<svg id="Lines" xmlns="http://www.w3.org/2000/svg" width="1143" height="734" viewBox="0 0 1143 734">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+        opacity: 0.15;
+      }
+    </style>
+  </defs>
+  <path id="_04" data-name="04" class="cls-1" d="M1531,859.988h1V126.007h-1V859.988Z" transform="translate(-389 -126)"/>
+  <path id="_03" data-name="03" class="cls-1" d="M1150,859.988h1V126.007h-1V859.988Z" transform="translate(-389 -126)"/>
+  <path id="_02" data-name="02" class="cls-1" d="M770,859.988h1V126.007h-1V859.988Z" transform="translate(-389 -126)"/>
+  <path id="_01" data-name="01" class="cls-1" d="M389,859.988h1V126.007h-1V859.988Z" transform="translate(-389 -126)"/>
+</svg>
