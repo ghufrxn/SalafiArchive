@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>noblequraan</ShortName>
+	<Description>Search Noble Qur&#039;an - Listen, Understand and Memorize the speech of Allaah</Description>
+	<Contact>help@wordpress.com</Contact>
+	<Url type="application/atom+xml" template="https://noblequraan.abdurrahman.org/?s={searchTerms}&amp;feed=atom" />
+	<Url type="rss+xml" template="https://noblequraan.abdurrahman.org/?s={searchTerms}&amp;feed=rss2" />
+	<Url type="text/html" template="https://noblequraan.abdurrahman.org/?s={searchTerms}" method="GET" />
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://noblequraan.abdurrahman.org/osd.xml" />
+	<LongName>Noble Qur&#039;an</LongName>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://secure.gravatar.com/blavatar/e931bfee5b1e646f185cbac65a9b01b8f01901c9166320928ecb11dca65d17e5?s=16&#038;d=https%3A%2F%2Fnoblequraan.abdurrahman.org%2Ffavicon.ico</Image>
+	<Image height="64" width="64" type="image/jpeg">https://secure.gravatar.com/blavatar/e931bfee5b1e646f185cbac65a9b01b8f01901c9166320928ecb11dca65d17e5?s=64&#038;d=https%3A%2F%2Fs-ssl.wordpress.com%2Fi%2Flogo%2Fgray-white-transparent-64.png</Image>
+	<Query role="example" searchTerms="photography" />
+	<Tags>quran surah quraan surat muhsin-khan ash-shams exceptional-recitations qari-khalid-al-wassabee recitations the-criterian</Tags>
+	<Developer>Automattic</Developer>
+	<SyndicationRight>open</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Language>en</Language>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+	<moz:SearchForm>https://noblequraan.abdurrahman.org</moz:SearchForm>
+</OpenSearchDescription>

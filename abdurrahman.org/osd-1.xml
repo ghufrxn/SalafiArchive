@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>Great Rewards</ShortName>
+	<Description>Search Great Rewards - Great Rewards for Easy Actions in Islam. (GreatRewards.wordpress.com)</Description>
+	<Contact>help@wordpress.com</Contact>
+	<Url type="application/atom+xml" template="https://greatrewards.abdurrahman.org/?s={searchTerms}&amp;feed=atom" />
+	<Url type="rss+xml" template="https://greatrewards.abdurrahman.org/?s={searchTerms}&amp;feed=rss2" />
+	<Url type="text/html" template="https://greatrewards.abdurrahman.org/?s={searchTerms}" method="GET" />
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://greatrewards.abdurrahman.org/osd.xml" />
+	<LongName>Great Rewards</LongName>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://secure.gravatar.com/blavatar/de76f16071f0ee9efb3246a9681ca5c691394dd6994e9937382494eaaf003216?s=16&#038;d=https%3A%2F%2Fgreatrewards.abdurrahman.org%2Ffavicon.ico</Image>
+	<Image height="64" width="64" type="image/jpeg">https://secure.gravatar.com/blavatar/de76f16071f0ee9efb3246a9681ca5c691394dd6994e9937382494eaaf003216?s=64&#038;d=https%3A%2F%2Fs-ssl.wordpress.com%2Fi%2Flogo%2Fgray-white-transparent-64.png</Image>
+	<Query role="example" searchTerms="photography" />
+	<Tags>islam allah muslim jumuah dhikr allaah salafi muhsin-khan great-reward fasting</Tags>
+	<Developer>Automattic</Developer>
+	<SyndicationRight>open</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Language>en</Language>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+	<moz:SearchForm>https://greatrewards.abdurrahman.org</moz:SearchForm>
+</OpenSearchDescription>
