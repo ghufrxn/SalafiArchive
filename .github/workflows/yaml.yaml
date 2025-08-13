@@ -7,8 +7,15 @@ on:
 
 jobs:
   build:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
-      - run: echo "Running on self-hosted runner"
+
+      - name: Make script executable
+        run: chmod +x ./free_disk_space.sh
+
+      - name: Check free disk space
+        run: ./free_disk_space.sh
+
+      - run: echo "Running on GitHub-hosted runner"
