@@ -1,6 +1,9 @@
   foo:
     runs-on: ubuntu-latest
     steps:
+      - name: delete more unnecesarry stuff
+        run: .github/scripts/free_disk_space.sh
+
       - name: Delete huge unnecessary tools folder
         run: rm -rf /opt/hostedtoolcache
 
