@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=50&amp;t=405" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-09-18T21:59:21+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=50&amp;t=405</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-09-18T21:59:21+01:00</updated>
+<published>2016-09-18T21:59:21+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=405&amp;p=434#p434</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=405&amp;p=434#p434"/>
+<title type="html"><![CDATA[Calling The Common Person “Shaykh” Explained by Shaykh Uthaymeen]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=405&amp;p=434#p434"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal"><span style="color: #0000FF">Calling The Common Person “Shaykh” Explained by Shaykh Uthaymeen</span></span></strong><br /><br /><span style="color: #FF0000">Questioner:</span> Is it correct to apply the term ‘Shaykh’ to everyone from amongst the people? Especially since this term has become widely used, so we hope for some clarity in this.<br /><br /><span style="color: #FF0000">Shaykh Uthaymeen:</span> The term ‘Shaykh’ in the Arabic language is not used except upon the kabeer (elder), either due to their being elder in age, or senior due to the level of knowledge they possess, or due to his wealth, and what is similar to this; and it is not applied to the sagheer (little one, i.e.: little in age, knowledge, etc.) But as you have stated, it has become widespread now such that the ignorant person or the one who doesn’t know anything is referred to as ‘Shaykh’; and this in my view is not befitting.<br /><br />Because if you applied to this person the term ‘Shaykh’ and his is ignorant and doesn’t know, the people will be deceived by him. And they will think he has some knowledge with him, and they will consult him for fatwas (Islamic rulings) and other than that, and a great harm will result because of this.<br /><br />And many of the people—we ask Allah to guide us and to guide them—they don’t mind to give a fatwa if they are asked, even if they answer without knowledge. Because he thinks that if he says, “I don’t know” this will decrease his status. But in reality if the person says about that which he does not know, “I don’t know”, then that is the completeness of his status. But the souls are accustomed to want to impress others, except those whom Allah the Mighty and Majestic protects from this. So what I see is that the term ‘Shaykh’ is not applied except to those that deserve it, either by his age, or by his nobility, or due to sovereignty over his people, or because of his knowledge.<br /><br />And in a like fashion some of the people apply the term ‘Imam’ to the common scholars, even if this scholar is from the blind followers: they say he is an ‘Imam’.  And this also is not befitting; it’s befitting that the term ‘Imam’ should not be applied except on the one, who deserves to be an ‘Imam’, and he has followers, and his statements are held in high regard amongst the Muslims.<br /><br />And finally, you gave the salaams as did the brother before you when you wanted to ask a question, and this is not from the Sunnah. Because the Companions, may Allah be pleased with them, when they wanted to present a question to the Messenger of Allah peace and blessings are upon him, they would not give him the salaams except for the one who was arriving at the sitting; this is the one who would give the salaams.<br /><br />Translated by Rasheed ibn Estes Barbee<br /><br />Source: <!-- m --><a class="postlink" href="http://mtws.posthaven.com/calling-the-common-person-shaykh-explained-by-shaykh-uthaymeen">http://mtws.posthaven.com/calling-the-c ... -uthaymeen</a><!-- m --><br /><br />A summary translation taken from Sahab.net<br /><!-- m --><a class="postlink" href="http://www.sahab.net/forums/showthread.php?t=337788">http://www.sahab.net/forums/showthread.php?t=337788</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Sun Sep 18, 2016 9:59 pm</p><hr />
+]]></content>
+</entry>
+</feed>

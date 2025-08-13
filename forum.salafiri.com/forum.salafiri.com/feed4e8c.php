@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=9&amp;t=712" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-11-25T23:44:58+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=9&amp;t=712</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-11-25T23:44:58+01:00</updated>
+<published>2016-11-25T23:44:58+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=712&amp;p=756#p756</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=712&amp;p=756#p756"/>
+<title type="html"><![CDATA[Aqeeqah (Slaughtering on the occasion of a newborn baby)]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=712&amp;p=756#p756"><![CDATA[
+<strong><span style="font-size: 150%; line-height: normal"><span style="color: #0000FF">Aqeeqah (Slaughtering on the occasion of a newborn baby) is recommended</span></span></strong>[1].<br /><br />It is two sheep for the male and one for the female[2], slaughtered seven days after their birth[3]. On this day the baby is to be named[4] and shaved[5]. Gold or silver weighing the weight of the baby’s shaved hair is to be given out as charity[6].<br /><br /><strong><span style="text-decoration: underline">References:</span></strong><br /><br />[1] <strong><span style="text-decoration: underline">Sahih</span></strong>: It was narrated from Samurah ibn Jundub (may Allaah have mercy on him) that the Messenger of Allaah (peace and blessings of Allaah be upon him) said: “Every child is in pledge for his ‘Aqeeqah, which should be slaughtered on his behalf on the seventh day, and he should be shaved and given a name.” Recorded by Abu Dawood. Graded Saheeh by al-Albani in Saheeh Abi Dawood.<br /><br />[2] <strong><span style="text-decoration: underline">Sahih</span></strong>: A’ishah said, “The Messenger of Allah (peace and blessings of Allaah be upon him) told us to have an Aqeeqah, for a boy two sheep and for a girl one sheep.” Recorded by Ibn Majah and Tirmizi. Graded Sahih by sheikh albani<br /><br />[3] <strong><span style="text-decoration: underline">Sahih</span></strong>: Buraydah narrated that the Prophet (ﷺ) said, “The Aqeeqah is to be slaughtered on the 7th or the 14th or the 21st.”Recorded by Bayhaqi. Graded Sahih by sheikh albani<br /><br /><strong><span style="text-decoration: underline">Sahih</span></strong>: Al-Hasan narrated from Samurah that the Prophet (peace and blessings of Allaah be upon him) said, “Every boy is a pledge for his Aqeeqah, to be slaughtered on the seventh day, his hair is to be shaved and he given a name.” Recorded by Ibn Majah, Abu Dawud, Tirmizi and Nasa’i. Graded Sahih by sheikh albani<br /><br />[4] <strong><span style="text-decoration: underline">Hasan</span></strong>: It was narrated from ‘Amr ibn Shu’ayb, from his father, from his grandfather, that the Prophet (peace and blessings of Allaah be upon him) enjoined naming the newborn on the seventh day, and removing the impurity from him, and offering the ‘Aqeeqah.Recorded by Tirmidhi who said: This is a Hasan Ghareeb hadeeth. It was also classed as Hasan by al-Albani in Saheeh al-Tirmidhi.<br /><br />[5] <strong><span style="text-decoration: underline">Sahih</span></strong>: Al-Hasan narrated from Samurah that the Prophet () said, “Every boy is a pledge for his Aqeeqah, to be slaughtered on the 7th day, his hair is to be shaved and he is given a name.”Recorded by Ibn Majah, Abu Dawud, Tirmizi and Nasa’i. Graded Sahih by sheikh albani<br /><br />[6] <strong><span style="text-decoration: underline">Hasan</span></strong>: Abu Rafi narrated that the Prophet (ﷺ) said to Fatimah when she gave birth to al-Hasan, “Shave his head and give in silver the weight of his hair in charity to the poor.”Recorded by Ahmad and Bayhaqi and graded Hasan by sheikh albani<br /><br />Source: <!-- m --><a class="postlink" href="https://researchcenterforhadith.wordpress.com/2014/05/24/fiqh-series-rulings-of-aqeeqah-slaughtering-on-the-occasion-of-a-newborn-babyfrom-the-book-ad-durar-al-bahiyah-fi-masaail-al-fiqhiyyah-the-beautiful-pearls-of-islamic-jurispr/">https://researchcenterforhadith.wordpre ... c-jurispr/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Fri Nov 25, 2016 10:44 pm</p><hr />
+]]></content>
+</entry>
+</feed>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=14&amp;t=154" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-08-25T19:09:36+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=14&amp;t=154</id>
+<entry>
+<author><name><![CDATA[ابو عبدالرحمز]]></name></author>
+<updated>2016-08-25T19:09:36+01:00</updated>
+<published>2016-08-25T19:09:36+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=154&amp;p=159#p159</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=154&amp;p=159#p159"/>
+<title type="html"><![CDATA[Prophet’s (صلى الله عليه و سلم) Marriage with Young Aisha (may Allaah be pleased with her)]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=154&amp;p=159#p159"><![CDATA[
+<strong><span style="font-size: 150%; line-height: normal">Prophet’s (صلى الله عليه و سلم) Marriage with Young Aisha (may Allaah be pleased with her)</span></strong><br /><br />Question: Some haters of Islam often say that the Prophet (صلى الله عليه و سلم) married a “six-years old child,” referring to ‘Aisha, may Allah be pleased with her. What is the response?<br /><br />The Answer: ‘Aisha’s covenant of marriage was conducted when she was six years old, but the actual commencement of the marriage took place when she was nine-years of age. She was the only virgin he married. Marrying at such young age was not the exception in Arabia at that time. In fact many were married in the young age period of 9-12 when they were physically mature. Furthermore, had this been something degrading and immoral, the enemies of the Prophet (صلى الله عليه و سلم) from the Pagans would have loved to use this against the character of the Prophet (صلى الله عليه و سلم) and ‘Aisha’s father (Abu Bakr, may Allah be please with him), the first one to believe the Prophet (صلى الله عليه و سلم) and support his propagation of Islam. Not to mention this would have been a major block against the spread of Islam amongst the Arabs if the Prophet (صلى الله عليه و سلم) would appear as a man of “uncontrolled sexual drive.”<br /><br />This would have been obvious to resort to, especially when it is known that they accused the Prophet (صلى الله عليه و سلم) of many other things like being a magician, a poet, etc. The fact that they did not attempt even to consider this marriage as a tool against the integrity of the Prophet (صلى الله عليه و سلم) stands as a strong irrefutable evidence that such marriages were of the norm, not the exception. In so many societies, it was even considered that the girl who does not get married before she reaches fifteen years of age as someone being “late” on the scale of marriage timing! In fact such marriages were common in Asia, East Europe, Spain and Portugal.<br /><br />On the other hand, it was known that one of the Pagans (Jubair bin Mut’im bin ‘Adiye) was interested to marry ‘Aaisha before her engagement to the Prophet (صلى الله عليه و سلم), but her mother (Umm Romaan, may Allah be please with her), rejected him. This proves that she was physically mature for marriage. Her family sought the Prophet (صلى الله عليه و سلم) because of his noble character as her mother asserted when she told her husband (Abu Bakr صلى الله عليه و سلم) of her intent.<br /><br />There was a great wisdom in her marriage whereby ‘Aaisha witnessed the revelation and the rulings of Islam pertaining to the most particular and private matters of women, transmitting that to the men and women of the world. She reported about 2100 narrations from the Prophet (صلى الله عليه و سلم) covering rulings, worships, and transactions . She was the greatest woman scholar in Islam and she had many students of knowledge from the companions of the Prophet (صلى الله عليه و سلم).<br /><br /><strong>Source: <!-- m --><a class="postlink" href="http://salaf-us-saalih.com/2015/02/13/prophets-marriage-with-young-ayesha-may-allaah-be-pleased-with-her-dr-saleh-as-saleh/">http://salaf-us-saalih.com/2015/02/13/p ... -as-saleh/</a><!-- m --><br /></strong><br />Share this and receive reward.<p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=61">ابو عبدالرحمز</a> — Thu Aug 25, 2016 7:09 pm</p><hr />
+]]></content>
+</entry>
+</feed>

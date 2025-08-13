@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=50&amp;t=1306" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-03-23T15:06:44+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=50&amp;t=1306</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-03-23T15:06:44+01:00</updated>
+<published>2017-03-23T15:06:44+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1306&amp;p=1387#p1387</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1306&amp;p=1387#p1387"/>
+<title type="html"><![CDATA[Advice To Those Who Are Always On The Internet]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1306&amp;p=1387#p1387"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal">Advice To Those Who Are Always On The Internet</span></strong><br /><em>Shaykh Muhammad ibn Saalih Al-‘Uthaymeen</em><br /><br /><strong><span style="color: #0000FF">Question:</span></strong><br /><br />Noble Shaykh, we would like for you to give some golden advices to some of the religious youth who are constantly using the internet, may Allaah reward you with good.<br /><br /><strong><span style="color: #0000FF">Answer:</span></strong><br /><br />Na’am. It is known that the internet contains good and it contains evil. The one who desires good therein shall find it. It contains legislative sciences, linguistic sciences, the knowledge of industry, and other than it. It also contains unadulterated evil; in it are many evils. It has reached me that its dangers are more severe than that of the satellite channels.<br /><br />So my advice to my brothers as it relates to the internet or the satellite channels is that they have Taqwaa of Allaah within themselves and that they know that they were not created for this. They were created for the worship of Allaah, the Mighty and Majestic. And that when they reduce themselves to that which resembles animals—and this is by way of fulfilling lusts and desires—then they have lost this life and the Hereafter, and the refuge is with Allaah. So it is upon my Muslim brothers to preserve their religion and to preserve their time and to not waste this precious, precious, precious life. By Allaah, one minute is greater than a thousand Dirhams. Don’t you see, that when death comes, if it were said to the person: “Would you like to give us the entire Dunyaa so that We would delay (death) for one minute?” He would say: “Yes!” Due to this, Allaah, the Mighty and Majestic, says:<br /><br />حَتَّى إِذَا جَاء أَحَدَهُمُ الْمَوْتُ قَالَ رَبِّ ارْجِعُونِ ٩٩ لَعَلِّي أَعْمَلُ صَالِحًا فِيمَا تَرَكْتُ كَلَّا إِنَّهَا كَلِمَةٌ هُوَ قَائِلُهَا وَمِن وَرَائِهِم بَرْزَخٌ إِلَى يَوْمِ يُبْعَثُونَ<br /><br />Until, when death comes to one of them, he says: “My Lord! Send me back so that I may do good in that which I have left behind!” No! It is but a word that he speaks, and behind them is Barzakh (a barrier) until the Day when they will be resurrected. (Al-Mu’minun 23:99-100)<br /><br />I ask Allaah for us all to have a good ending. Due to this, there has come within a Hadeeth:<br /><br />ما من ميت يموت إلا ندم، إن كان محسناً ندم ألا يكون ازداد، وإن كان مسيئاً ندم ألا يكون استعتب<br /><br />“There is none who dies except that he has regret. If he was a good-doer then he regrets that he did not do more. If he was a sinner then he regrets that he did not repent.”<br /><br />Preserve your lifespan, my brother. By Allaah, it is more precious than gold and silver. If a person would not squander a single Dirham, then how could he squander this lifespan upon which revolves (his) happiness or misery?<br /><br />O Allaah, make us from those who are happy. O Allaah, make us from those who are happy; O Allaah, make us from those who are happy, O Lord of all that exists.<br /><br /><em>Translated by Raha ibn Donald Batts</em><br /><strong><span style="color: #0000FF">Source: Silsilah Al-Liqaa’ Ash-Shahree (no. 72)</span></strong><br /><br />Source: <!-- m --><a class="postlink" href="https://mtws.posthaven.com/">https://mtws.posthaven.com/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Thu Mar 23, 2017 2:06 pm</p><hr />
+]]></content>
+</entry>
+</feed>

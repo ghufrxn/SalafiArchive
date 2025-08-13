@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=9&amp;t=1614" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2020-07-25T15:52:30+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=9&amp;t=1614</id>
+<entry>
+<author><name><![CDATA[AbuDahlia]]></name></author>
+<updated>2020-07-25T15:52:30+01:00</updated>
+<published>2020-07-25T15:52:30+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1614&amp;p=1803#p1803</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1614&amp;p=1803#p1803"/>
+<title type="html"><![CDATA[What is better, the recitation of the Qur'aan or the Takbeeraat in the first 10 Days of Dhul-Hijjah?]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1614&amp;p=1803#p1803"><![CDATA[
+What is better, reciting the Qur’aan or saying the Takbeeraat in the first 10 Days of Dhul-Hijjah and the days of Tashreeq (the three days following Eid al-Adhha, i.e. 11th, 12th, 13th of Dhul-Hijjah)?<br /><br />FIRST: People often make a comparison between the recitation of the Qur’aan and doing Dhikr, which they should not be doing. There is nothing that can be compared to the recitation of the Qur’aan, and as the Prophet ﷺ had said, the best Speech is the Book of Allaah.<br /><br />The Messenger of Allaah ﷺ said: <br />❝The best talk (speech) is Allaah’s Book (the Qur’aan), and the best way (for guidance) is the way of Muhammad, and the worst matters are the heresies (those new things which are introduced into the religion).❞<br />[Saheeh Muslim]<br /><br />Moreover, the recitation of the Qur’aan itself is Dhikr (remembrance of Allaah). <br /><br />Furthermore, and the words of Dhikr are from the Qur’aan itself as the Prophet ﷺ had said:<br /><br />Samurah Ibn Jundub رضي الله عنه narrated that the Messenger of Allaah ﷺ said: <br />❝The best talk after the Qur’aan – and it is from the Qur’aan – are four, and it doesn’t matter with which you begin:<br /><br />سُبْحَانَ اللهِ <br />Subhaan-Allaah (Glory is to Allaah), <br /><br />وَالْحَمْدُ لِلَّهِ<br />wal-hamdu-lillaah (praise is to Allaah), <br /><br />وَلَا إِلَهَ إِلَّا اللهُ<br />wa laa ilaaha illallaah (none has the right to be worshiped but Allaah), <br /><br />وَاللهُ أَكْبَرُ<br />wa Allaahu Akbar (and Allaah is the Most Great).❞<br />[Musnad Ahmad (20223) and the wording is his, Saheeh Muslim (2137), Sunan Ibn Maajah (3811)]<br /><br />SECOND: In general, the precedence is given to the recitation of the Qur’aan and the contemplation of its meaning, then to Dhikr (remembrance of Allaah), and then Du`aa (supplication). <br /><br />The recitation of the Qur’aan is general, meaning one can recite the Qur’aan at any time. But as for Dhikr, there are certain Dhikr which are bounded by time and place. So, preference is given to the actions which have been specifically mentioned for that period of time or place. Therefore, in these days saying the Takbeer should be given precedence as this has been recorded from the actions of the Sahaabah and the Salaf.<br /><br />Imaam al-Bukhaaree رحمه الله mentioned that Ibn `Umar and Abu Hurairah رضي الله عنهما used to go out to the market place and say aloud: “ALLAAHU AKBAR, ALLAAHU AKBAR” and the people would emulate them.<br /><br />And Shaikh Ibn al-`Uthaymeen رحمه الله had said that preference should be given to saying the Takbeer, but if one recites the Qur’aan then no one should stop him or criticize him, because the Qur’aan is Dhikr, rather the best of Dhikr. But saying the Takbeer has been specifically assigned for this period, whereas the recitation of the Qur’aan is for all time (and not bounded or limited by time). – end of quote.<br /><br />In the end, the best is to combine between all the different acts of `Ibaadah, and a person should spend some time in reciting the Qur’aan, then doing Dhikr and making Du`aa.<br /><br />And Allaah is the One who grants success.<p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=46440">AbuDahlia</a> — Sat Jul 25, 2020 3:52 pm</p><hr />
+]]></content>
+</entry>
+</feed>

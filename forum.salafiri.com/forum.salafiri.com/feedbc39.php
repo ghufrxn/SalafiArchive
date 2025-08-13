@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=40&amp;t=1096" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-02-10T00:14:44+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=40&amp;t=1096</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-02-10T00:14:44+01:00</updated>
+<published>2017-02-10T00:14:44+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1096&amp;p=1160#p1160</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1096&amp;p=1160#p1160"/>
+<title type="html"><![CDATA[The “Muthakkiraat” Culture]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1096&amp;p=1160#p1160"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal">The “Muthakkiraat” Culture</span></strong><br /><br /><em>Prepared by Aboo Shaybah</em><br /><br />The following is a passage I had read several years ago dealing with learning in the early and formative stages of one’s studies. However, it should be noted that what follows does not necessarily apply to advanced stages of studies and using sections of various resources as references, as that stage is of a completely different nature. Nonetheless, I remembered the passage recently in light of the method some teachers and students utilise to teach and study subjects while still in the early stages of learning.<br /><br />In many courses taught at universities in various parts of the world, there is not always a specific textbook used. Rather, there are selected readings from a number of different resources and sometimes these selections are copied and compiled into a course kit, manual, reader, or handbook (or whatever term a specific university chooses to use for them). In some Arab countries these compiled resources and course materials are referred to as Muthakkiraat. Sometimes they are compiled by a professor or student, or they may also take the form of copied sections from one or several published sources. Reading in such a piecemeal fashion does not always give a sense of what is contained in the original source of the material. It neither conveys the context in which the material was mentioned, nor does it convey the entire thought process of the author as to why he wrote what he wrote and placed it where he placed it for a particular objective. Knowing such things, among others, is especially important for basic texts read in the formative stages of one’s studies in Islamic disciplines, in addition to memorizing the texts as well. This is sometimes referred to as the “traditional” way of studying.<br /><br />There is a section in the book Hilyah Taalib al-‘Ilm by ash-Shaykh Bakr Aboo Zayd where he outlines books recommended to study in various disciplines (the interested reader can refer to the book in al-Majmoo’ah al-‘Ilmiyyah, pg. 156-157). After mention of those books he says the following:<br /><br /><ul>“…In this manner, time was fully spent studying and attending classes – after Fajr prayer until mid-morning, then a short nap before Thuhr prayer, and classes were held following each of the five prayers. Both sides [i.e. teacher and student] used to observe exemplary manners, respect, and holding each other in high esteem according to the conduct of the Salaf (may Allaah have mercy upon them). This is why a great number of them attained their goals and became accomplished scholars and authorities in knowledge. And all praise is due to Allaah.</ul><br /><ul>When will there be a return to the true essence of seeking knowledge: by studying reliable concise books and not from muthakkiraat; by memorizing [those concise books] rather than relying just on mere comprehension – something which has wasted students such that they come away with neither memorization nor comprehension; and [a return to] keeping the method of instruction free from being falsely manipulated, disfigured, and tarnished – proceeding along the course followed by the Salaf? And help is sought from Allaah.”</ul><br />Source &amp; References in Arabic: <!-- m --><a class="postlink" href="https://qaryah.wordpress.com/">https://qaryah.wordpress.com/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Thu Feb 09, 2017 11:14 pm</p><hr />
+]]></content>
+</entry>
+</feed>

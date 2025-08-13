@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=21&amp;t=1379" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-03-26T00:47:33+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=21&amp;t=1379</id>
+<entry>
+<author><name><![CDATA[AbuKhuzaimahAnsari]]></name></author>
+<updated>2017-03-26T00:47:33+01:00</updated>
+<published>2017-03-26T00:47:33+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1379&amp;p=1463#p1463</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1379&amp;p=1463#p1463"/>
+<title type="html"><![CDATA[Ahmad Raza Khan and his ijazat....]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1379&amp;p=1463#p1463"><![CDATA[
+By now the avid readers is well acquainted with the oft repeated and reverberating delusional echo of where are the ijazat of Shaikh Muhammad Nasir al-Din al-Albani (1420H) and the fallacious allegation that he had no teachers etc etc and other such allegations are never ending from the sufi Deobandi Barelwi Ash'ari quarters. Despite numerous detailed answers one can only but present the truth and facts without coercing the academic minds from amongst them to accept the truth.<br /><br />so we thought perhaps a different and interactive approach could be utilised. Two common allegations levied against Shaikh Muhammad Nasir al-Din al-Albani are<br /><br />i) he only learnt from his father who was of hanafi jurisprudence<br />ii) he was self taught, no teachers, no scholarship, etc. <br /><br />but<br /><br />how about the following, and we attach the video for the benefit of those who understand urdu (we had to trawl through many many videos to find this). It is absolutely staggering to see the Barelwi's and the Barelwi sufi sympathisers hurl such allegations against Shaikh al-Albani when their own Ahmad Raza Khan 'Ala Hazrat' is in actual fact worthy of the same allegations (as per their own house members). Please do not be confused that this does not mean the allegations levied sheikh sheikh al-Albani are in anyway for or shape true, because they have been answered many times.<br /><br />here is a gist of what the speaker (Pir Syed Muzaffar Shah Sahab) says<br /><br /><center> <strong>iframe</strong> </center><br /><br />Ahmad Raza Khan learnt all of his knowledge from his father Naqi Ali Khan, as Ahmad Raza Khan himself testifies and mentions, i.e. as per the speaker, Ahmad Raza Khan learnt ALL of his knowledge from his Father (time stamp (18seconds+)<br /><br />He goes onto say we were talking about knowledge that was given and self achieved, therefore Ahmad Raza Khan learnt 21 sciences and disciplines from his father and that <br /><br /><strong><span style="color: #FF0000">&quot;ALLAH GAVE HIM KNOWLEDGE OF A FURTHER 34 SCIENCES AND DISCIPLINES&quot;</span></strong><br /><br />....and wait for it, he further says, <br /><br /><span style="color: #FF0000"><strong>&quot;WITHOUT A TEACHER....AND SELF TAUGHT&quot;</strong></span><br /><br />(time stamp 18seconds - 1:12)<br /><br />and if this was not bad, he goes onto to say, there was a contentious issue pertaining to currency and there were 12 questions and Ahmad Raza Khan answered a fatwa in one and half day to such difficult questions that numerous scholars could not even formulate points. One of the scholars of Makkah (Ismail Makki) at the time said<br /><br /><span style="color: #FF0000"><strong> IF ABU HANIFAH HAD SEEN THIS FATWA HE WOULD HAVE TAKEN AHMAD RAZA KHAN AS HIS STUDENT </strong></span> (time stamp 3:05+)<br /><br />this is the extreme veneration of Ahmad Raza Khan amongst the Sufi Barelwis that they put Ahmad Raza Khan on par with the other students of Abu Hanifah, the likes of Muhammad Shaybani, Abu yusuf, Zuffar etc. Im sure the deobandi's might something to say about this, just as they ran to the defence of their sufi Barelwi brother after the debate they were subdued!!!<br /><br />he goes onto mention other such exaggerative statements....<br /><br />So we ask Ahmad Raza Khan was self taught and only leant from his teacher and as per this vide he learns only from his father.....i wonder what the Barelwis will say about their Muddied  e Millat and Ala Hazrat...<p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=48">AbuKhuzaimahAnsari</a> — Sat Mar 25, 2017 11:47 pm</p><hr />
+]]></content>
+</entry>
+</feed>

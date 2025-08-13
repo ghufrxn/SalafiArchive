@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=50&amp;t=369" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-09-14T03:39:35+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=50&amp;t=369</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-09-14T03:39:35+01:00</updated>
+<published>2016-09-14T03:39:35+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=369&amp;p=398#p398</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=369&amp;p=398#p398"/>
+<title type="html"><![CDATA[Careless with regards to the Fajr Prayer / Shaykh Abdur Razzaq Al Badr]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=369&amp;p=398#p398"><![CDATA[
+Careless with regards to the Fajr Prayer / Shaykh Abdur Razzaq Al Badr<br /><br /><center> <strong>iframe</strong> </center><br /><br />Shaykh Abdur Razzaq: Perhaps some of the people may be frequently immersed in various fields of knowledge, memorization, and studying; but they are negligent, especially concerning the Fajr prayer; they are very negligent concerning it.<br /><br />If this is an obligation, a great obligation, and it is the greatest pillar of Islam after the two testimonies of faith, and the first affair the person will be questioned about on the Day of Judgment; the first affair the person will be questioned about is the prayer; if the person is negligent concerning it, (negligent concerning) this obligation, then where are the effects of knowledge?!<br /><br />He misses the Fajr prayer?! While the Companions may Allah be pleased with them, as it has been narrated by ibn Masood, he said:<br />If a man missed Fajr prayer they would accuse him of hypocrisy. The heaviest prayers upon the hypocrites are the Fajr prayer and Isha prayer.<br /><br />And during this time of ours, the era of staying awake throughout the night, many people miss the Fajr prayer, and many people pray it alone.<br /><br />And perhaps some of them spend the night engaged in knowledge based discussions concerning various issues or subjects then he sleeps through Fajr prayer.<br /><br /><strong>If a person spent the entire night with the Quran, memorizing it and reciting it; if this is at the cost of the Fajr prayer, then his staying awake is haram and it is not permissible for him, and he is sinning for staying awake throughout the night.</strong><br /><br />And the prayer which is neglected the most during this day and time is the greatest of all the prayers without exception. Do you know which prayer it is?<br /><br />It appears in a hadith, and Shaykh Al Albani has declared it hasan in some of his books.  The Prophet, prayers and peace are upon him said:<br /><br /><em>The best of all the prayers is the Fajr prayer on Friday, in congregation.</em><br /><br />The Fajr prayer, on Friday, in congregation. Shaykh Al Albani declared it to be hasan with this wording.<br /><br />The (Fajr prayer) on Friday in congregation is now the prayer which is neglected the most. And the Imaams of the Masjids will be asked about this.<br /><br />This is because the night before Friday, is the night for relaxation, the night to stay awake. The people remain awake until late into the night then go to sleep late, and then they sleep through Fajr prayer.<br /><br />And the best of them go to the Fajr prayer late, and in lazy fashion. He comes while his head is heavy with sleep, he is tired. Thus he does not perform this prayer as it is befitting.<br /><br />And if he knows that the Imaam of that Masjid is going to recite Soorah Sajdah and Soorah Al Insaan, then he does not come until the end of the second rakat.<br /><br />Where is the benefit of knowledge if he takes this position with the first thing he will be questioned about on the Day of Judgment?! As for the one who is negligent concerning it then he will be more negligent concerning other affairs.<br /><br />Source: <!-- m --><a class="postlink" href="http://mtws.posthaven.com/careless-with-regards-to-the-fajr-prayer">http://mtws.posthaven.com/careless-with ... ajr-prayer</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Wed Sep 14, 2016 3:39 am</p><hr />
+]]></content>
+</entry>
+</feed>

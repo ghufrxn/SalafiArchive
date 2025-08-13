@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=9&amp;t=272" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-09-06T01:23:35+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=9&amp;t=272</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-09-06T01:23:35+01:00</updated>
+<published>2016-09-06T01:23:35+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=272&amp;p=281#p281</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=272&amp;p=281#p281"/>
+<title type="html"><![CDATA[The Encouragement for the Youth to Stand for Tahajjud/Taraweeh]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=272&amp;p=281#p281"><![CDATA[
+حدثنا عبد الرحمن ، نا أبي ، نا أحمد بن إبراهيم الدورقي ، نا العباس بن عبد الله ، نا محمد بن يوسف ، قال : كان سفيان الثوري يقيمنا بالليل ، يقول : قوموا يا شباب صلوا ما دمتم شبابا.<br /><br />Muhammad ibn Yusuf said: “Sufyan ath-Thawri used to lead us in the night prayer. He said: Stand up, oh Youth, and pray as long as you are young”<br /><br />[Reported by Ibn Abi Hatim in Jarh wa-Ta’deel and the chain is Saheeh]<br /><br />So this is an encouragement for youth to pray the night prayer, especially in Ramadan when you see the youth hanging around the corridors or the doors of the masjid instead of praying. Some may even be doing evil instead of participating in the Taraweeh which is the Sunnah.<br /><br />So stand, oh youth, and do not be lazy and mislead. You are young. If you cannot stand, then sit. And if you choose not pray the Taraweeh at all, then go home to your bed and sleep!<br /><br />انَ عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ يَقُولُ إِذَا دَخَلَ شَهْرُ رَمَضَانَ: ” أَلَا إِنَّ هَذَا كَتَبَ اللَّهُ عَلَيْكُمْ صِيَامَهُ، وَلَمْ يَكْتُبْ عَلَيْكُمْ قِيَامَهُ، فَمَنْ قَامَ مِنْكُمْ فَإِنَّهَا مِنْ نَوَافِلِ الْخَيْرِ الَّتِي قَالَ اللَّهُ عَزَّ وَجَلَّ، وَمَنْ لَا فَلْيَنَمْ عَلَى فِرَاشِهِ،<br /><br />If the month of Ramadan entered, Umar ibn al-Khattab radiallahu anhu used to say: “Verily in this month Allah has prescribed fasting upon you and he did not prescribe standing for prayer upon you. So whoever stands among you, then it is a voluntary good which Allah said to do. Whoever will not stand, then let him sleep on his bed…”<br /><br />Reported by Ibn Abi Dunya in Fadaail ul-Ramadaan no. 31 and others.The Muhaqiq of the book: Abdullah ibn Ahmed Mansur graded it Saheeh.]<br /><br />So the advice of Umar radiallahu anhu for anyone who does not want to stand and pray is to go home and sleep on his bed. So we extend the same advice to the youth who do not want to pray the Taraweeh in the Masjid and would rather hang around. This will protect them from causing trouble in this blessed month and relieve those who are worshiping Allah from any disturbances.<br /><br />May Allah grant us beneficial Knowledge<br /><br />Translated by<br /><br />Faisal Ibn Abdul Qaadir Ibn Hassan<br />Abu Sulaymaan<br /><br />Source: <!-- m --><a class="postlink" href="http://torontodawah.com/?p=1254">http://torontodawah.com/?p=1254</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Tue Sep 06, 2016 1:23 am</p><hr />
+]]></content>
+</entry>
+</feed>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=40&amp;t=542" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-10-28T23:20:22+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=40&amp;t=542</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-10-28T23:20:22+01:00</updated>
+<published>2016-10-28T23:20:22+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=542&amp;p=584#p584</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=542&amp;p=584#p584"/>
+<title type="html"><![CDATA[Recommended Books by Shaykh Zayd al-Madkhalee]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=542&amp;p=584#p584"><![CDATA[
+<strong><span style="color: #0000FF">Question:</span></strong><br /><br />Noble Shaykh, we desire that you give us the names of the valuable books in Tawheed and Fiqh?<br /><br /><strong><span style="color: #0000FF">Answer:</span></strong><br /><br />The books in the science of Tawheed and Islaamic Fiqh of old and of today are numerous, and that which I direct you all to read in the [science of] Tawheed are the following:<br /><br /><span style="color: #0000FF">al-Usool uth-Thalaatha</span>, and <span style="color: #0000FF">Kashf ush-Shubuhaat</span>, and <span style="color: #0000FF">al-Qawaa’id ul-‘Arba’ah</span>, and <span style="color: #0000FF">al-Usool ul-‘Eemaan Sitta</span>h, and <span style="color: #0000FF">Masaa’il al-Jaahiliyyah</span>, and <span style="color: #0000FF">Kitaab ut-Tawheed</span>, and all of them are from Shaykh Muhammad ibn ‘Abdul Wahhaab (rahimahullaah). And after that <span style="color: #0000FF">Kitaab al-Aqeedatul Waasitiyyah</span>, and <span style="color: #0000FF">Kitaabul Hamawiyyah</span>, and both of them are from Shaykh ul-Islaam ibn Taymiyyah (rahimahullaah). And the <span style="color: #0000FF">Nooniyyah</span> of Ibn Qayyim (rahimahullaah) with it’s explanation, and <span style="color: #0000FF">al-Hayyaat Fee Dhillil Aqeedatil Islaamiyyah</span> by the writer of these letters [meaning the author is the Shaykh himself], and <span style="color: #0000FF">al-Irshaad</span> by Shaykh Saalih al-Fawzaan, and <span style="color: #0000FF">al-Aqeedatus Saheehah wa Maa Yudaaduhaa</span> by the Noble Shaykh ‘Abdul ‘Azeez ibn Baaz (rahimahullaah), and <span style="color: #0000FF">Qawlul Mufeed</span> by al-Fawzaan also, and <span style="color: #0000FF">Kitaab ut-Tawheed</span> of Ibn Khuzaymah, and <span style="color: #0000FF">Kutubus-Sunnah</span> that have been written [and or recorded] in the science of ‘Aqeedah are numerous, as I have previously mentioned some of them.<br /><br />As for the Islaamic Fiqh, likewise the books are numerous, but begin with:<br /><br /><span style="color: #0000FF">al-Umdah</span> and it’s explanation, and the summarized versions of the books of the Hanaabilah, and the <span style="color: #0000FF">Mulakhas al-Fiqhee</span> of al-Fawzaan, and the books of hadeeth that have been explained like the explanation of Umdatul Ahkaam, and <span style="color: #0000FF">Subulus-Salaam</span> [which is the explanation of] <span style="color: #0000FF">Bulughul Maraam</span>, and <span style="color: #0000FF">al-Muntaqaa</span> and it’s explanation like <span style="color: #0000FF">Naylul Awtaar</span>, then you precede in the reading of the books while exerting ones’ self with the utmost exertion in seeking counsel with those who follow the Salaf in the books that you love to read either by way of telephone or through sending messages.<br /><br />May Allaah make you all successful in that which pleases Him.<br /><br />Taken From <span style="color: #FF0000">“al-Iqdul Munaddad al-Jadeed Fil Ijaabati ‘Ala Masaa’ili Fil Fiqhi wa Manaahij wat-Tawheed,”</span> pp. 20-21. Compiled and Prepared By: Fawwaaz ibn ‘Alee ibn ‘Alee Al-Madkhaalee.<br /><br />Shaykh Zayd ibn Muhammad ibn Haadee al-Madkhalee<br /><br />Translated By: Abu Ukkaasha<br /><br />Source: <!-- m --><a class="postlink" href="http://salaf-us-saalih.com/2014/01/15/booksmadkhalee/">http://salaf-us-saalih.com/2014/01/15/booksmadkhalee/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Fri Oct 28, 2016 11:20 pm</p><hr />
+]]></content>
+</entry>
+</feed>

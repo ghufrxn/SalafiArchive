@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=14&amp;t=1398" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-03-30T22:49:50+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=14&amp;t=1398</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-03-30T22:49:50+01:00</updated>
+<published>2017-03-30T22:49:50+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1398&amp;p=1484#p1484</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1398&amp;p=1484#p1484"/>
+<title type="html"><![CDATA[Did Abu Hurayrah (Radhiallahu Anhu) Taunt Or Disrespect The Other Sahaabah (RadhiAllahu Anhum) Who Knew Less Than Him?]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1398&amp;p=1484#p1484"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal">Did Abu Hurayrah (Radhiallahu Anhu) Taunt Or Disrespect The Other Sahaabah (RadhiAllahu Anhum) Who Knew Less Than Him? </span></strong><br /><br />Abu Khaithama narrated to us, saying: Sufyaan Ibn ‘Uyainah reported to us from Az-Zuhree from Al-A’araj that he said: I heard Abu Hurairah (radyAllaahu ‘anhu) say:<br /><br />&quot;Indeed, you claim that Abu Hurairah has memorized many ahaadeeth from Allaah’s Messenger. I swear by Allaah, I used to be a poor man and I would serve Allaah’s Messenger (sallAllaahu ‘alayhi wa sallam) in order to fill my belly (with food). The Muhaajiroon would be involved with their business transactions in the market places40 and the Ansaar would be preoccupied with directing their funds.[1] So the Messenger of Allaah (sallAllaahu ‘alayhi wa sallam) said: 'Whosoever outspreads his garment, then he will never forget anything that he hears from me.' So, I spread my garment out until he finished (narrating) his hadeeth and I then gathered it up to myself. And I did not forget anything that I heard after that.'&quot;<br /><br /><em>[1] The shi`as use this particular point to argue as mentioned in the subject. Though they can be refuted using other narrations but why do that when we can refute them from a similar narration.</em> <br /><br />So, know that there is not found in this description (by Abu Hurayra) of the Muhaajireen, and likewise this description of the Ansaar, any reviling or derogation of them, as many of the contemporary writers that slander Abu Hurairah (radhiallaahu ‘anhu) without due right claim. This goes as well for those who interpret his sayings in a way contrary to what he intended. Indeed, doing an action in addition to seeking the halaal is from the Way of Allaah, as has been reported authentically in some ahaadeeth. And Abu Hurairah (radyAllaahu ‘anhu) was aware of this, for he was one of the reporters. Thus, he made excuses for them in regard to that matter for (their lack) of memorizing hadeeth the way he was able to memorize.<br /><br />Al-Haakim (3/511-512) reported from Talha Ibn 'Ubaidillaah, one of the ten who were given the glad tidings of Paradise, and one of the Muhaajireen and first Muslims, that he (radyAllaahu ‘anhu) said concerning the Muhaajireen and Abu Hurairah something similar to this hadeeth: <br /><br />&quot;By Allaah, I have no doubt that Abu Hurairah heard from the Messenger of Allaah, that which we did not hear and he learned that which we did not learn. Verily, we were rich people, in possession of houses and large families. We used to go and stay with the Prophet until the end of the day, then we used to go back. And Abu Hurairah was a poor person. He had no money nor family nor children. His hand was only where the Prophet's hand was. And he used to stay over wherever he resided. And we have no doubt that he learned what we didn't learn and that he heard what we didn't hear. And no one among us accuses him.&quot; <br /><br /><em>Al-Haakim authenticated it and Al-Haafidh mentioned a supporting evidence for it in Fath-ul-Baaree (1/191).</em><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Thu Mar 30, 2017 10:49 pm</p><hr />
+]]></content>
+</entry>
+</feed>

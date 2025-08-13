@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=27&amp;t=502" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-10-06T23:43:26+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=27&amp;t=502</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-10-06T23:43:26+01:00</updated>
+<published>2016-10-06T23:43:26+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=502&amp;p=537#p537</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=502&amp;p=537#p537"/>
+<title type="html"><![CDATA[A Supplication For More Wealth and Children]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=502&amp;p=537#p537"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal"><span style="color: #0000FF">A Supplication For More Wealth and Children</span></span></strong><br /><br />The Prophet (Sallallaahu Alayhi Wassallam) recommended the Muslims to have many children. In a hadith recorded by Abu Dawud (Hadith 2050), the Messenger of Allah (Sallallaahu Alayhi Wassallam) said:<br /><strong><em><span style="color: #0000FF">“Marry those who are loving and fertile for I will be proud of your great numbers before the other nations!”</span></em></strong> <br /> <br />So if your hoping for many children and for Allah to bless you in them, then consider the supplication of the Prophet (Sallallaahu Alayhi Wassallam) for Anas b. Malik!<br /> <br />Imam al-Bukhari reports that Anas was given to the Prophet (Sallallaahu Alayhi Wassallam) as a servant by his mother (Umm Sulaim). She said to the Prophet (Sallallaahu Alayhi Wassallam): “Anas is your servant; supplicate to Allah for him?” The Messenger of Allah (Sallallaahu Alayhi Wassallam) then supplicated:<br /><br />اللهُمَّ أَكْثِرْ مَالَهُ وَوَلَدَهُ وَبَارِكْ لَهُ فِيمِا أَعْطَيْتَهُ<br /><strong><em><span style="color: #0000FF">(Allahumma akthir maalahu wa waladahu, wa baarik lahu fee maa a’taitahu)<br />“O Allah! Increase his wealth and progeny, and bless him in whatever you bestow him!”</span></em></strong> <br /><br />Al-Bukhari recorded this in several places in his Sahih, including under the chapter heading “The supplication for plentiful wealth and progeny along with blessings.” See hadiths 6334 and 6380 for example.<br /> <br />By the will of Allah, and then the Prophet’s beautiful supplication, Anas, may Allah be pleased with him, attained a great amount of wealth and over 100 children!<br /> <br />To make this supplication for yourself, read the supplication as follows:<br /><br />اللهُمَّ أَكْثِرْ مَالي وَوَلَدَيِ وَبَارِكْ ليِ فِيمِا أَعْطَيْتَنِي<br /><strong><em><span style="color: #0000FF">(Allahumma akthir maali wa waladi, wa baarik li fee maa a’taitani)<br />“O Allah! Increase my wealth and progeny, and bless me in whatever you bestow me!”</span></em></strong><br /> <br />May Allah make us blessed in all that we do! Ameen…<br />Source: <!-- m --><a class="postlink" href="http://www.prophetic-medicine.com/more-wealth-and-children/">http://www.prophetic-medicine.com/more- ... -children/</a><!-- m --><br /><br />Prophetic-Medicine.com is a non-profit based reference website which is dedicated to spreading awareness of holistic treatments preserved in the Quran and Sunna.<br /><br />Prophetic medicine, or al-tibb al-nawabi in Arabic (الطب النبوي), has seen a revival in recent times through the republishing and even translation of classic works by Ibn Sina, Ibn al-Qayyim, Al-Suyuti, etc. That being said, these texts still remain difficult to access by the vast majority of Muslims due to their size, difficulty and even lack of clarity on authentic and non-authentic medicines and applications. With this in mind, prophetic-medicine.com was set up in order to make this priceless information and research easily accessible and comprehendible in today’s age. We aspire to simplify and contextualise all forms of Islamic medicines, treatments and lifestyle. Join us as we add to our ever-growing library!<p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Thu Oct 06, 2016 11:43 pm</p><hr />
+]]></content>
+</entry>
+</feed>

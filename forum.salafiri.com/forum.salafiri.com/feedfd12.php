@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=13&amp;t=1584" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2020-06-16T04:49:59+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=13&amp;t=1584</id>
+<entry>
+<author><name><![CDATA[AbuDahlia]]></name></author>
+<updated>2020-06-16T04:49:59+01:00</updated>
+<published>2020-06-16T04:49:59+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1584&amp;p=1725#p1725</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1584&amp;p=1725#p1725"/>
+<title type="html"><![CDATA[Bid`ah: The Highway to Hellfire]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1584&amp;p=1725#p1725"><![CDATA[
+<span style="font-size: 125%; line-height: normal">بـسـم الله والحـمـد لله والـصلاة والـسـلام عــلى رسـول الله، وبـعـد<br /><br /><strong>Shaikh al-Albaanee رحمه ﷲ said:</strong><br /><br />The foundations of Bid`ah are four:<br /><br /> <strong>First:</strong><br />(Following) the Weak Ahaadeeth, which can neither be relied upon nor permissible to be attributed to the Prophet ﷺ. So, it is not permissible to follow/implement such narrations, as we have mentioned in the introduction of the book: &quot;صفة الصلاة النبي&quot; (Description of the Prophet's prayer). And this is what a group of scholars like Ibn Taymiyyah and others follow.<br /><br /> <strong>Second:</strong><br />Following fabricated Ahaadeeth, or those narrations which have no basis, the unauthenticity of which was hidden from some of the Fuqahaa' (jurists), and on the basis of which they made some of their rulings. It is from the worst type of Bid`ah and newly invented matters.<br /><br /> <strong>Third:</strong><br />Giving judgments and forming opinions by some of the Fuqahaa' - especially by those of the latter times - without having any Shar`ee (legislated) evidence (from the Kitaab and the Sunnah). But rather they are based on assumptions, (and they become so widespread) until they are assumed to be established Sunnah, and implemented by the people. But it is not hidden from the one who has an insight of his religion, that it is not permissible to follow such acts which are not legislated.<br /><br /> <strong>Fourth:</strong><br />Habits and superstitions which have no proof in the Sharee`ah, nor any logical basis.<br /><br /> One should know that not all Bid`aat are of the same level. Rather, they have different levels; some are Shirk, some are clear Kufr, and some are less than that.<br /><br /> One should also know that even the smallest Bid`ah which a person does in the religion, it becomes Haraam (sinful, having no excuse) after it has been established for him that it is a Bid`ah.<br /><br /> There is nothing regarding Bid`ah which can be considered as something &quot;disliked&quot; - like how some people think. How can they claim this when the Prophet ﷺ said: <span style="color: #000080"><strong>❝The most evil of affairs are those that are newly invented, and every newly-invented thing is an innovation, and every innovation is misguidance, and every misguidance is in the Fire.❞</strong></span> [Sunan al-Nasaee (1578)and graded as &quot;Saheeh&quot; by Shaikh al-Albaanee]<br /><br /> And the best and most comprehensive research work on this was done by Imaam al-Shaatibee, in his book, &quot;al-I`tesaam&quot;.<br /><br /> Bid`ah in religion is a very dangerous affair, but many people are ignorant about this. And no one knows about its severity except for a small group of people who have been given knowledge. Sufficient is the following Hadeeth as evidence about the danger of falling into Bid`ah, the Prophet ﷺ said: <span style="color: #000080"><strong>❝Allaah does not accept the repentance of an innovator until he abandons his innovation.❞</strong></span>  [al-Saheehah (1620) and graded as &quot;Saheeh&quot; by Shaikh al-Albaanee]<br /><br /><strong> [Hajjatun-Nabiy by Shaikh al-Albaanee (1/101-103)]</strong></span><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=46440">AbuDahlia</a> — Tue Jun 16, 2020 4:49 am</p><hr />
+]]></content>
+</entry>
+</feed>

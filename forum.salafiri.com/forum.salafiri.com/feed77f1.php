@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=27&amp;t=1505" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-07-30T00:55:45+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=27&amp;t=1505</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-07-30T00:55:45+01:00</updated>
+<published>2017-07-30T00:55:45+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1505&amp;p=1606#p1606</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1505&amp;p=1606#p1606"/>
+<title type="html"><![CDATA[Speaking Kindly To The Wife And Having A Concern With Ones Appearance]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1505&amp;p=1606#p1606"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal">Speaking Kindly To The Wife And Having A Concern With Ones Appearance</span></strong><br /><br />Shaykh Muhammad Ali Farkoos:<br /><br />❝Speaking kindly to the wife and Having a Concern with Ones Appearance in front of her: this is something which she likes in you just as you like in her.<br /><br />Ibn Katheer [رحمه الله] said describing the condition of the Prophet [ﷺ] with his wives the Mothers of the believers whereby he said:<br /><br />‘From the manners of the Prophet [ﷺ] was that he would have beautiful companionship and would always be joyful, he would be playful with his family and treat them affectionately, he would be generous in spending on them, he would make his wives laugh, he would even run a race with ‘Aeysha the mother of the believers to show love towards her.’ [Tafseer Ibn Katheer, (1/466)]<br /><br />There is no doubt that hurting and victimisation by words and actions, having a frown and sulky face, scowling and frowning when one sees his wife, keeping away from her and inclining to spending time with other people negates good companionship.<br /><br />Qurtubi [رحمه الله] said about the meaning of the Ayaah:<br /><br /><ul>﴿وَعَاشِرُوهُنَّ بِالْمَعْرُوفِ﴾</ul><br />«And live with them in kindness» [Nisa: 19]<br /><br />'It means: to live with them with good companionship upon what Allaah has commanded with … and that is to fulfill her rights from the dowry and to spend upon her, not to frown in her face except if she has committed a sin, to be cheerful whilst speaking and not coarse and crude, or harsh-hearted, nor appearing to incline to other than her… Allaah [سبحانه و تعالى]  commanded to have good companionship with women if a person takes the contract of marriage to associate with them and to show affection between them and companionship upon perfection; since this is calmer for the soul and wholesome and healthy for living.’ [Tafseer al-Qurtubi, (5/97)]<br /><br />From what also negates good companionship is leaving off a concern with ones appearance and a good form.<br /><br />Ibn Abbas [رضي الله عنه] said: ‘Indeed I love to beautify myself for my wife just as I love that she beautifies herself for me; this is because Allaah [عز و جل] said:<br /><ul>﴿وَلَهُنَّ مِثْلُ الَّذِي عَلَيْهِنَّ بِالْمَعْرُوفِ﴾</ul><br />«And they [women] have rights [over their husbands as regards living expenses, etc.] similar [to those of their husbands] over them [as regards obedience and respect, etc.] to what is reasonable» <br />[Baqarah: 228]<br /><br />So the beautification of men fluctuates according to their  circumstances and ages; so they work to become fit and skilled, they should dress in clothing which is befitting. They should use perfume and cleansing of the mouth and use a Miswak etc to remove excess food between the teeth. He should remove that which clings to the body of bad smells and dirt, take off excess hair, trim fingernails, senior people should dye their hair, wearing a ring and other matters which fulfil the rights, so that she is pleased with this beautification and causes her to abstain from other men.❞<br /><br /><em>[al-Mua’een Fee Bayaan Haqqooq az-Zojjayn By Shaykh Muhammad Ali Farkoos, (Page: 44-46) | Translated By Abbas Abu Yahya Miraath al-Anbiyya]</em><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Sun Jul 30, 2017 12:55 am</p><hr />
+]]></content>
+</entry>
+</feed>

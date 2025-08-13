@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=50&amp;t=1394" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-03-30T16:18:23+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=50&amp;t=1394</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-03-30T16:18:23+01:00</updated>
+<published>2017-03-30T16:18:23+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1394&amp;p=1479#p1479</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1394&amp;p=1479#p1479"/>
+<title type="html"><![CDATA[Want To Have A good Death? Live A Good Life! Shaykh Uthaymeen [1421H]]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1394&amp;p=1479#p1479"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal">Want To Have A good Death? Live A Good Life! Shaykh Uthaymeen [1421H]</span></strong><br /><br />O mankind, have Taqwa of Allah the Exalted and prepare for the meeting with your Lord, with the preparation of the righteous. Verily the state of man is as his Lord the Exalted said:<br /><br /><ul>(يَا أَيُّهَا الْأِنْسَانُ إِنَّكَ كَادِحٌ إِلَى رَبِّكَ كَدْحاً فَمُلاقِيهِ) (الانشقاق:6)<br /><br /><em>O man! Verily, you are returning towards your Lord with your deeds and actions (good or bad), a sure returning, so you will meet Him.</em> (Soorah Al Inshiqaq 84:6)</ul><br />O Muslims, verily the person does not know where he will die. And he does not know when he will die. As Allah the Exalted said:<br /><br /><ul>(وَمَا تَدْرِي نَفْسٌ مَاذَا تَكْسِبُ غَداً وَمَا تَدْرِي نَفْسٌ بِأَيِّ أَرْضٍ تَمُوتُ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ)(لقمان: من الآية34)<br /><br /><em>No person knows what he will earn tomorrow, and no person knows in what land he will die. Verily, Allah is All-Knower, All-Aware (of things).</em> (Soorah Luqman 31: 34)</ul><br />If we don’t know what we will earn tomorrow while this is from our actions, then surely we do not know when we will die as this is from the actions of Allah the Exalted. Since we do not know in what land we will die, despite the fact that the person travels to the land by choice, and since we do not know when we will die, therefore the place of death is unknown and the time of death is unknown. We ask Allah to grant us and you and good ending.<br /><br />It is not importance when the person will die or where the person will die. It is not important that he dies in Mecca or in Medina or another place from the lands of Allah. It is not important that he dies on Friday, or Monday or any other day of the week. The only thing which is important is in what condition the person will die. This is what is important. In what condition will the person die? Will you die upon Imaan (faith), sincerity, and Tawheed? We ask Allah to grant this to all of us. Or will you die upon doubt, shirk, kufr and obstinacy and ingratitude? This is what is important; this is what is important, O Muslims. But whoever wants to die upon good then let him do good. For surely Allah the Exalted is too Generous and too Kind to abandon His slave during the time of difficulty if he used to know and acknowledge Allah in times of ease. <br /><br />The Prophet صلى الله عليه وعلى آله وسلمsaid:<br /><br /><ul>تَعَرَّفْ إلَى اللَّهِ فِي الرَّخَاءِ يَعْرِفُك فِي الشِّدَّةِ<br /><br />Know and acknowledge Allah in times of ease and prosperity, and He will know you in times of difficulty.</ul><br />What is more difficult than the person’s life coming to an end, what is more difficult than the person leaving this world?! Thus if the person knew and acknowledged his Lord during times of ease, by obedience to Him and drawing near to Him with worship of Him and constantly remembering Him, then surely Allah the Exalted will know him during his time of difficulty. May Allah grant us and you that. The only thing that matters is in what condition the person will die.<br /><br />لحظة الموت وحياة القبر<br />الشيخ محمد بن صالح العثيمين<br /><br />Translated by Rasheed ibn Estes Barbee<br /><!-- m --><a class="postlink" href="http://mtws.posthaven.com/want-to-have-a-good-death-live-a-good-life">http://mtws.posthaven.com/want-to-have- ... -good-life</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Thu Mar 30, 2017 4:18 pm</p><hr />
+]]></content>
+</entry>
+</feed>

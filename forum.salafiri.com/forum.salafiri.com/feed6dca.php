@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=50&amp;t=1129" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-02-15T00:57:07+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=50&amp;t=1129</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-02-15T00:57:07+01:00</updated>
+<published>2017-02-15T00:57:07+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1129&amp;p=1194#p1194</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1129&amp;p=1194#p1194"/>
+<title type="html"><![CDATA[The Lowest And Highest Forms of Usury (Riba)]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1129&amp;p=1194#p1194"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal">The Lowest And Highest Forms of Usury (Riba)</span></strong><br /><em>Explained by Shaykh Muhammad bin Haadee</em><br /><br />The following is a summary translation<br /><br />Narrated from Abu Huraira رضي الله عنه the Prophet صلى الله عليه وسلم said:<br /><br />الرِّبَا سَبْعُونَ حُوبًا أَيْسَرُهَا أَنْ يَنْكِحَ الرَّجُلُ أُمَّهُ واِنَّ أَرْبَى الرِّبَا عِرْضُ الرَّجُلِ الْمُسْلِمِ<br /><br />Usury is seventy offenses, the least of them is for a man to be intimate with his mother, and verily the highest form of usury is to defame the honor of the Muslim.<br /><br />(Collected by Ibn Majah and ibn Abi Dunya in “The condemnation of backbiting” with a Hasan chain of narration.)<br /><br />He said usury is seventy offenses the least of which is for a man to be intimate with his mother, and the highest form of usury is to defame the honor of the Muslim.<br /><br />Therefore usury is of varying categories and types. The lowest of them is for a man to be intimate with his mother. We ask Allah for safety and security. This is unsettling to the human’s nature. I seek refuge in Allah. Thus the lowest form is for a man to be intimate with his mother.<br /><br />Every form of usury is war against Allah and His messenger صلى الله عليه وسلم .<br /><br />يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَذَرُوا مَا بَقِيَ مِنَ الرِّبَا إِنْ كُنْتُمْ مُؤْمِنِينَ فَإِنْ لَمْ تَفْعَ لُوا فَ ذَْْنُوا بِحَرْ مِنَ اللَّهِ وَرَسُولِهِ واِنْ تُبْتُمْ فلَكُمْ<br />رُءُوسُ أَمْوَالِكُمْ لََ تَظْلِمُونَ وَلََ تُظْلَمُونَ<br /><br />O you who believe! Be afraid of Allah and give up what remains (due to you) from Riba (usury) (from now onward), if you are (really) believers. And if you do not do it, then take a notice of war from Allah and His Messenger. But if you repent, you shall have your capital sums. Deal not unjustly (by asking more than your capital sums), and you shall not be dealt with unjustly (by receiving less than your capital sums). (Soorah Al Baqarah 2:278-279)<br /><br />Thus usury—all of it—is war against Allah and His messenger.<br /><br />The lowest form of usury is for a man to be intimate with his mother, while the highest form of usury and the greatest form of usury is to defame the honor of a Muslim. Thus this is the highest form of usury, and it’s most shameful form, and its most disgraceful form.<br /><br />So why is it, that today we see many of the people attacking the honor of their Muslim brothers? Why is it we see many of the Muslims attaching the honor of the people? Why do we see many of the Muslims attacking the honor of the students of knowledge? Why do we see many of the people attacking the honor of those who advise the Muslim Ummah? And they deceive the Muslims…<br /><br />To hear and read the lecture in its entirety…<br /><br /><ul>الغيبة وأحكامها لفضيلة الشيخ دكتور: محمد بن هادي المدخلي حفظه الله تعالى</ul><br /><!-- m --><a class="postlink" href="http://www.ajurry.com/vb/showthread.php?t=36254">http://www.ajurry.com/vb/showthread.php?t=36254</a><!-- m --><br /><br />Translated by Rasheed ibn Estes Barbee<br /><br /><!-- m --><a class="postlink" href="http://mtws.posthaven.com/">http://mtws.posthaven.com/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Tue Feb 14, 2017 11:57 pm</p><hr />
+]]></content>
+</entry>
+</feed>

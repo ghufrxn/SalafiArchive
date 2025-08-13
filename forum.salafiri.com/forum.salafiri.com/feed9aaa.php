@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=14&amp;t=341" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-09-13T12:45:47+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=14&amp;t=341</id>
+<entry>
+<author><name><![CDATA[Abu Ubaydah]]></name></author>
+<updated>2016-09-13T12:45:47+01:00</updated>
+<published>2016-09-13T12:45:47+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=341&amp;p=358#p358</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=341&amp;p=358#p358"/>
+<title type="html"><![CDATA[Abu Sa’id al-Khudri (Radi Allahu Anhu)]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=341&amp;p=358#p358"><![CDATA[
+Abu Sa’id al-Khudri (Radi Allahu Anhu)<br /><br />A Summarised comprehensive discussion of Abu Sa’id al-Khudri (Radi Allahu Anhu) is as follows:<br /><br />Name and lineage:<br /><br />Abu Sa’id Sa’d Ibn Malik Ibn Sinan Ibn Tha’laba Ibn Ubayd Ibn al-Bajr (Khudhra) Ibn Awf Ibn al-Harith Ibn al-Khazraj al-Khazraji al-Ansari (Radi Allahu Anhu) <br /><br />His father Malik Ibn Sinan (Radi Allahu Anhu) was martyred during the battle of Uhud and he was present in the battle of the Khandaq and the pledge of allegiance of ar-Ridwan.<br /><br />Students: <br /><br />Ibn Umar (Radi Allahu Anhu), Jabir (Radi Allahu Anhu), Anas Ibn Malik (Radi Allahu Anhu), ‘Amir Ibn Sa’d Ibn Abi Waqas, Abu Salama Ibn Abdurahman Ibn Awf, Abu Salih as-Saman, Sa’id Ibn al-Musayib, Abdurahman Ibn Abi Sa’id al-Khudri, Ubaydullah Ibn Abdullah Ibn Utbah, Ata Ibn Yazid al-Laythi, Ata Ibn Yasar, Muhammad Ibn Ali al-Baqir and Sa’id Ibn Jubayr and other than them Rahimahullah.<br /><br />Virtues:<br /><br />A Companion of the Messenger of Allah (Sallalahu Alayhi Was-Sallam)<br />He is an Ansari<br />He participated in the battle of the Khandaq<br />He was present in the pledge of allegiance at ar-Ridwan<br />A big muhadith and well known famous Faqih<br />During the incident of Hira (when the Yazidi army attacked Madina) a person from Sham wanted to kill him. When the person from Sham entered the cave towards him (for the intention of killing him) then Abu Sa’id al-Khudri threw his sword down and got ready to be martyred (See Tarikh Khalifa Ibn Khiyat page no.239 and its chain is authentic)<br />However Allah saved him from the evil of this person from Sham. From this (incident) it is established that he was extremely against killing muslims. <br /><br />Once Abu Sa’id al-Khudri (Radi Allahu Anhu) entered the Masjid on the day of Jumah and started to pray (2 rakahs). Marwan Ibn Hakam’s soldiers tried to make him sit down (and not pray these 2 rakahs) however he didn’t listen to them and finished praying. Then he said, I can’t leave these (2 rakahs) since I have seen the Messenger of Allah (Sallalahu Alayhi Wa Sallam) (emphasise in) doing this. (Sunan at-Tirmidhi:no.511 and he said, “Hasan Sahih” and the hadith is Hasan)<br />It is established from this that he wasn’t scared of anyone when following the Sunnah. (Radi Allahu Anhu).<br /><br />Knowledge of narrations:<br /><br />There are 1170 narrations of his in the Musnad of Baqi Ibn Makhlad and there are 43 hadiths (narrated by him) in the Sahihayn.<br /><br />There are 3 narrations from him in al-Arba’un fi al-Hath alal Jihad of Ibn Asakir, no.7; no.11 and no.19<br /><br />Death: <br /><br />There are different sayings about (the date of) his death: 63 Hijri, 64 Hijri, 65 Hijri and 74 Hijri. The most correct saying from all these is 64 Hijri. (Radi Allahu Anhu) (and Allah knows best)<br /><br /><a href="http://www.salafiri.com/40-hadith-shaikh-ul-islam-imam-ibn-taymiyyah-hadith-no-3-the-prophet-sallalahu-alayhi-wa-sallam-and-his-ummahs-bearing-witness-on-the-day-of-judgement-by-s/" class="postlink">http://www.salafiri.com/40-hadith-shaikh-ul-islam-imam-ibn-taymiyyah-hadith-no-3-the-prophet-sallalahu-alayhi-wa-sallam-and-his-ummahs-bearing-witness-on-the-day-of-judgement-by-s/</a><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=59">Abu Ubaydah</a> — Tue Sep 13, 2016 12:45 pm</p><hr />
+]]></content>
+</entry>
+</feed>

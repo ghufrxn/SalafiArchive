@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=11&amp;t=662" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-11-20T23:46:31+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=11&amp;t=662</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-11-20T23:46:31+01:00</updated>
+<published>2016-11-20T23:46:31+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=662&amp;p=705#p705</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=662&amp;p=705#p705"/>
+<title type="html"><![CDATA[The Forbiddence of Adhering Blindly To The Saying Of A Scholar In opposition To An Authentic Text - Part 1]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=662&amp;p=705#p705"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal"><span style="color: #0000FF">The Forbiddence of Adhering Blindly To The Saying Of A Scholar In opposition To An Authentic Text, And The Severe Rebuke Due Upon One Who Is Guilty Of This – Part 1</span></span></strong><br /><br /> * Shaikh `Abdur-Rahmaan ibn Hasan ibn Muhammad ibn `Abdil-Wahhaab – rahimahullaah – said in “Fathul-Majeed” (2/527-530), in explanation of the saying of Ibn `Abbaas – radiyallaahu `anhumaa -:<br /><br />“Stones will soon fall upon you from the sky. I say: Allaah‟s Messenger ﷺ said…, and you say: Aboo Bakr and `Umar said!” :-<br /><br />“…This saying from Ibn `Abbaas – radiyallaahu `anhumaa – was a response to those who said to him: “Aboo Bakr and `Umar - radiyallaahu `anhumaa – did not hold joining the `Umrah along with the Hajj (at-tamattu`), and they held that performing Hajj on its own (al-Ifraad) is better’, or the like of that…<br /><br />So in summary, it was because of this that Ibn `Abbaas said, when they countered the Hadeeth with the opinion of Aboo Bakr and `Umar -: “Stones are about to fall upon you from the sky…” – the hadeeth.<br /><br />And Imaam ash-Shaafi`ee – rahimahullaah – said: “The scholars are agreed, by consensus, that whoever is such that the Sunnah of Allaah’s Messenger ﷺ becomes clear to him, then it is not for him to leave it for the saying of anyone.”<br /><br />And Imaam Maalik – rahimahullaahu ta`aalaa – said: “There is none of us except that he rebuts and is rebutted, except for the occupant of this grave ﷺ”,<br /><br />and the speech of the imaams with this meaning is abundant…<br /><br />…So the speech of Ibn `Abbaas – radiyallaahu `anhumaa – shows that whoever receives a textual proof, and he does not accept it, because of taqleed (blind-following) of his imaam, then it is obligatory to criticize him severely, because of his opposing the proof.<br /><br />And Imaam Ahmad said: “Ahmad ibn `Umar al-Bazzaar narrated to us: Ziyaad ibn Ayyoob narrated to us: Aboo `Ubaydah al-Haddaad narrated to us: from Maalik ibn Deenaar: from `Ikrimah: from Ibn `Abbaas, who said: “There is not one of us except that some of his sayings are taken, and some are left; except for the Prophet ﷺ.”<br /><br /><strong><span style="color: #0000FF">So therefore it is obligatory to criticise whoever leaves the proof in favour of anyone from the scholars, no matter who that is. The recorded sayings of the imaams clearly state this; and state that ‘taqleed’ (blind-following) is not allowable except in matters of ijtihaad (personal deduction) for which no proof is found in the Book or the Sunnah. So this is what some of the scholars meant by their saying: ‘There is to be no criticism in the matters of ijtihaad (personal deduction).’ As for the one who acts contrary to the Book and the Sunnah, then it is obligatory to refute him; just as was said by Ibn `Abbaas, ash-Shaafi`ee, Maalik, and Ahmad – and this is something agreed upon, as has preceded in the speech of Imaam ash-Shaafi`ee - rahimahullaahu ta`aalaa…”</span></strong><br /><br />[Translated by Aboo Talhah Daawood ibn Ronald Burbank rahimahullaah] <br /><br />Source: <!-- w --><a class="postlink" href="http://www.alitisaambissunnah.wordpress.com">www.alitisaambissunnah.wordpress.com</a><!-- w --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Sun Nov 20, 2016 10:46 pm</p><hr />
+]]></content>
+</entry>
+</feed>

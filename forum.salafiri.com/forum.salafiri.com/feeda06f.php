@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=9&amp;t=937" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-01-02T22:27:33+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=9&amp;t=937</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-01-02T22:27:33+01:00</updated>
+<published>2017-01-02T22:27:33+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=937&amp;p=981#p981</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=937&amp;p=981#p981"/>
+<title type="html"><![CDATA[Forgot To Rinse Mouth &amp; Nose Whilst Making Wudhoo &amp; Remembered During Salaah]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=937&amp;p=981#p981"><![CDATA[
+I [Salih, the son of Imam Ahmad bin Hanbal] asked my father regarding someone who forgot to rinse his mouth and nose [whilst doing his Wudhoo, and did not remember] until he [had already] begun praying Salaah?<br /><br />He [Imam Ahmad] responded: He must return to rinse his mouth and nose, and repeat his Salaah.<br /><br /><em>Reference: Masaa`il of Imam Ahmed bin Hanbal narrated on the authority of his son Imam Abul-Fadal, Salih bin Imam Ahmad bin Hanbal – Page 28</em><br /><br /><strong><span style="color: #0000FF">Footnotes</span></strong><br /><br />[1] He is Abul-Fadl Salih bin Imam Ahmad bin Hanbal. Born 203 AH, he narrated from his father Imam Ahmad bin Hanbal, Ali bin Al-Waleed At-Tayalsee, and Ibrahim bin Al-Fadl Az-Zaa`ri. Those who narrated from him include: His son Zuhair, Imam Abul-Qasim Al-Baghawee, and Abdur-Rahman bin Abee Haatim [also a student of Imam Salih bin Imam Ahmed bin Hanbal] when asked about him said: ‘I wrote down narrations from him in Asbahaan, and he is Thiqaah [trustworthy] and Sadooq [truthful].` Imam Saleh bin Imam Ahmed bin Hanbal died in Asbahaan, during the month of Ramadan, in the year 266 AH at the age of 63. He was buried near the, Sahabi of the Messenger of Allah Hamamah bin Abee Hamamah Ad-Dawsee. Refer to ‘At-Tabaqaat` of Imam Ibn Abee Ya`laa, volume 1/173-176.<br /><br />[2] He is Ahmad bin Muhammad bin Hanbal bin Hilaal bin Asad bin Idrees bin Abdullah bin Hayyan bin Abdullah bin Anas bin Awf bin Qaasit bin Maazin bin Shaybaan As-Shaybaanee. He was born in Rabiul-Al-Awwal in the year 164 AH. His father died when he was young, after which his mother took care of him and his education. He began seeking knowledge with the scholars of Baghdad, Iraq, and started seeking knowledge of Hadeeth at the age of sixteen. His search for knowledge led him to Kufa, Basra, Makkah, Madeenah, Yemen, and Shaam.. From the great scholars who praised him include, Imam Shaafee, Imam Abu Ubaidil-Qaasim, and Imam Ibrahim Al-Harbee. He died on Friday 12th Rabiul-Awwal in the year 241 AH. Refer to the editor`s introduction, Allamah Wasiullah bin Muhammad Abbas, of ‘Kitabu Bahrid-Addami` by Imam Yusuf bin Hasan bin Abdil-Al-Hadee [840-909 AH] pages 14-18, printed by Dar-Alemam Ahmed, first edition 1427 AH/2006 CE. Also refer to ‘Tabaqaat Ibn Saad` Volume (7/354), ‘Tareekhul-Fasawee` Volume (1/ 212), and ‘Tabaqaatul-Al-Hanaabilah` Volume (1/ 4).<br /><br />[3] To rinse the mouth and nose is one of the obligatory aspects of Wudhoo. As reported by Imam Bukhari in his Saheeh (1/72), Imam Muslim in his Saheeh (1/212), Imam Ahmed in his Musnad (2/242), Imam Al-Bayhaqi in Sunanul-Al- Kubra (1/52), and also Imam Ad-Daruqutne in his Sunan, Book of Purification, the ninth Hadeeth of the Chapter: That which has been narrated regarding rinsing the mouth and nose whilst making Ghusl in a state of impurity, Hadeeth no: 408, on the authority of Abu Hurairah who said: ‘The Messenger of Allah (sal-Allaahu ‘alayhe wa sallam) commanded us to rinse the mouth and nose, [whilst making Wudhoo].` Ibnul Al-Jawzee has classified its chain of narration as being Saheeh, refer to ‘At-Tahqeeq` (1/84 no: 136) and also Al-Qadhi Al-Allamah Al-Hasan bin Ahmed Ar-Rabaaee [1200-1276 AH] in Fathul-Al-Gaffar, Volume 1, page 87, Book of Purification, Chapter of rinsing the nose and mouth, Hadeeth no 239.<p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Mon Jan 02, 2017 9:27 pm</p><hr />
+]]></content>
+</entry>
+</feed>

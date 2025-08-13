@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=8&amp;t=398" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-09-17T00:27:37+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=8&amp;t=398</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-09-17T00:27:37+01:00</updated>
+<published>2016-09-17T00:27:37+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=398&amp;p=427#p427</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=398&amp;p=427#p427"/>
+<title type="html"><![CDATA[The Ruling on Listening to Unknown Speakers? Shaykh Falaah Ismaa’eel al-Mandakar]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=398&amp;p=427#p427"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal"><span style="color: #0000FF">What is the Ruling on Listing to Unknown Speakers and Taking Knowledge from them?</span></span></strong><br /><br />ما حكم سماع أشرطة المجاهيل وأخذ العلم عنهم؟<br /><br />Bismillah al-hamdulillaah wa salaatu wa salaam ‘alaa rasoolillaah wa ‘alaa aalihi wa sahbihi wa man tabi’a hudaahu wa bad.<br /><br />The trails of today are very many. Innovations and mixing up innovators with the people of the sunnah and their outward call to the sunnah and salafiyyah is wide spread, for this reason one should be cautious. ‘Abdullaah ibn ‘Abbaas used to say, if a man said ‘I heard the Messenger of Allaah (sallallaahu ‘alayhi wa sallam) or the Messenger of Allaah (sallallaahu ‘alayhi wa sallam) said, we (used to) rush to him and went out to seek him, listening to him, but when the fitnah occurred they began asking about the men (who were narrating the knowledge) like how Ibn Seereen mentioned “we said: name to us your men” meaning they were known by whom they narrated from. So from there they would know if they would listen and accept or refuse and not listen. If that was the case in that time, then our time has more priority. It is a must that one determines and limits those whom he listens to, and from whom he reads from, and who he takes from, and (the works he) issues, and also who he sits with, this is very important. As for being a haatib layl (one who gathers wood at nigh i.e. blindly, heedlessly), listing to everyone and those who are unknown. No, it is feared that a trail will befall this one. Surely from the signs of success from Allaah and wanting good for his slave, it is uprightness and guidance that he helps him to sit, mix with and take from the people of the Sunnah. It is obligatory to have seriousness and diligence towards seeking out that which brings about success and guidance from Allaah, and Allah is the one who grants success.<br /><br />بسم الله والحمدلله والصلاة والسلام على رسول الله وعلى آله وصحبه ومن تبع هداه وبعد ، الفتن اليوم كثيرة جدا, والبدع كثيرة جدا, وتلبس المبتدعة بأهل السنة وإعلانهم للسنة والسلفية كثير جدا؛ لذلك ينبغي الحذر. وإذا كان عبدالله بن عباس يذكر أنهم كانوا إذا قال رجل : سمعت رسول الله صلى الله عليه وسلم, أو قال رسول الله صلى الله عليه وسلم , ابتدرناه ،يبادرونه, يشرئبون إليه, يسمعون منه ، لكن لما وقعت الفتنة صاروا يسألون عن الرجال كما ذكر ابن سيرين: (قلنا : سموا لنا رجالكم). أي يعرفون عمن ينقلون, ومن ثم من خلال النقلة يعرفون هل يسمعون ويقبلون,أم يرفضون ولا يسمعون. فهذا إذا كان في ذلك الزمان, ففي زماننا أولى,لابد أن يحدد الإنسان لمن يسمع, ولمن يقرأ, وعمن يأخذ ويصدر, وعند من يجلس, هذا مهم جدا, أما أن يكون حاطب ليل يسمع للجميع وللمجاهيل ,لا,هذا تخشى عليه الفتنة ، وإن من علامات وصور توفيق الله وإرادته بعبده الخير والصلاح والهداية أن يوفقه إلى مجالسة ومخالطة والأخذ عن أهل السنة ، فالواجب الجد والاجتهاد والتحري استجلابا لتوفيق الله وهدايته ، والله الموفق<br /><br /><span style="color: #FF0000"><strong>Shaykh Falaah Ismaa’eel al-Mandakar</strong></span><br /><br />Arabic Source: <!-- m --><a class="postlink" href="http://mandakar.com/FatawaDetails.asp?ID=314">http://mandakar.com/FatawaDetails.asp?ID=314</a><!-- m --><br /><br />Source: <!-- m --><a class="postlink" href="http://salaf-us-saalih.com/2009/12/03/the-ruling-on-listening-to-unknown-speakers/">http://salaf-us-saalih.com/2009/12/03/t ... -speakers/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Sat Sep 17, 2016 12:27 am</p><hr />
+]]></content>
+</entry>
+</feed>

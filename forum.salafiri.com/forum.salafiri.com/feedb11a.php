@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=9&amp;t=1482" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-07-11T15:42:12+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=9&amp;t=1482</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-07-11T15:42:12+01:00</updated>
+<published>2017-07-11T15:42:12+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1482&amp;p=1583#p1583</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1482&amp;p=1583#p1583"/>
+<title type="html"><![CDATA[Ruling On Selling And Using Nutmeg]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1482&amp;p=1583#p1583"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal">What is the ruling on putting nutmeg in food? Is it permissible to sell it?</span></strong><br /><br />Praise be to Allaah.<br /><br />The nutmeg tree used as a kind of spice which gives food a fragrant smell and delicious taste. The ancient Egyptians used it as a medicine for stomach disease and to expel wind. <br /><br />Its effects are like those of hashish. If it is consumed in large quantities, a person ringing in his ears, severe constipation, difficulty urinating, anxiety, stress, suppression of the central nervous system and possibly death. <br /><br />With regard to the rulings on it, the scholars differed and there are two opinions. <br /><br />The majority of scholars are of the view that it is haraam to use it in small and large quantities. Others are of the view that it is permissible to use a little of it if it is mixed with other substances.  <br /><br />Ibn Hajar al-Haytami (d. 974 AH) said concerning nutmeg: <br /><br />When there was a dispute concerning it between the scholars of the Haramayn and Egypt, and there were differences of opinion as to whether it is halaal or haraam, this question arose: Did any of the imams or their followers state that it is haraam to eat nutmeg? <br /><br />To sum up the answer – as was stated clearly by Shaykh al-Islam Ibn Daqeeq al-Eid – it is an intoxicant. Ibn al-‘Imaad went further and regarded hashish as comparable to it. The Maalikis, Shaafa’is and Hanbalis are agreed that it is an intoxicant and comes under the general text: “Every intoxicant is khamr and all khamr is haraam.” The Hanafis are of the view that it is either an intoxicant or a drug, either of which affects the mind, so it is haraam in either case. End quote. <br /><br />See: al-Zawaajir ‘an Iqtiraab al-Kabaa’ir (1/212) and al-Mukhaddiraat by Muhammad ‘Abd al-Maqsood (p. 90). <br /><br />During the eighth conference of medical fiqh – “The Islamic View on Some Health Problems – Haraam and Impure Substances in Food and Medicine” – which was held in Kuwait between 22-24 Dhu’l-Hijjah 1415 AH (22-24 May 1995), they said: <br /><br />Narcotic substances are haraam, and it is not permissible to consume them unless that is for a specific medical purpose, and in the amount specified by doctors, but they are pure (taahir) in and of themselves. <br /><br />There is nothing wrong with using nutmeg to improve the flavour of food, in small amounts that do not cause listlessness or intoxication. <br /><br />Shaykh Dr. Wahbat al-Zuhayli said: <br /><br />There is no reason why a small amount of nutmeg should not be used to improve the flavour of food, cakes and the like, but a large amount is haraam, because it is a narcotic. <br /><br />But to be on the safe side we should say that it is not allowed even if it is mixed with other things and there is only a small amount of it, because “that which intoxicates in large amounts, a small amount of it is haraam.” <br /><br />It should noted that it is prohibited to import nutmeg – both seed and powder – into the Land of the Two Holy Mosques (i.e., Saudi Arabia) and it is permitted only to import it when it is mixed with other spices in permitted proportions, which is no more than 20%. <br /><br />And Allaah knows best.<br /><br />Source: <!-- m --><a class="postlink" href="https://islamqa.info/en/39408">https://islamqa.info/en/39408</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Tue Jul 11, 2017 3:42 pm</p><hr />
+]]></content>
+</entry>
+</feed>

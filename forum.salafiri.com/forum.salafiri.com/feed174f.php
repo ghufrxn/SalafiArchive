@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=8&amp;t=515" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-10-18T22:39:38+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=8&amp;t=515</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-10-18T22:39:38+01:00</updated>
+<published>2016-10-18T22:39:38+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=515&amp;p=555#p555</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=515&amp;p=555#p555"/>
+<title type="html"><![CDATA[Tafweed of Kayfiyyah of Allaah’s Attributes – Shaykh Saalih al Fawzaan]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=515&amp;p=555#p555"><![CDATA[
+<strong><span style="color: #0000BF">Q4. What is tafweed and did Imaam Ahmad perform tafweed with regards to Allaah’s Names and Attributes?</span></strong><br /><br /><em>Tafweed</em> means ‘entrusting something to someone’. Someone who performs <em>tafweed</em> is called a mufawwid.<br /><br />In this context, tafweed means entrusting the knowledge about the kayfiyyah of Allaah’s Attributes back to Allaah Himself.<br /><br />This was the position of Imaam Ahmad rahimahullaah and all the scholars of ahl us sunnah wal jamaa’ah – they would affirm the meaning of the Attribute of Allaah and entrust the knowledge of how the Attribute was back to Allaah.<br /><br />For the meaning of any Attribute of Allaah is clear, according to the Arabic language and this meaning is not entrusted back to Allaah.<br /><br />But the kayfiyyah of the Attribute (how the Attribute is) is not known to anyone other than Allaah so it is obligatory to entrust this knowledge back to Allaah.<br /><br />But some of the people of deviation take this statement of Imaam Ahmad’s:<br /><br /><span style="font-size: 200%; line-height: normal">ولا معنى</span><br /><br /><em>‘Without giving a meaning’</em><br /><br />and they try to deceive the people by saying that Imaam Ahmad was makingtafweed of the meaning here i.e. saying that both the meaning and the kayfiyyahare known only to Allaah.<br /><br />And the truth is that Imaam Ahmad affirmed the correct meaning for the Attributes but made tafweed of how the Attributes are. [13]<br /><br /><span style="color: #FF0000"><strong>Footnotes:</strong></span><br /><br />[13]   Shaykh Saalih al Fawzaan hafidhahullaah stated in ‘Aqeedah ut Tawheed:<br />The methodology of ahl us sunnah wal jamaa’ah with regards to the Names of Allaah and His Attributes is..<br />(he mentions three points – and then he says)<br /><br />That they (the ahl us sunnah wal jamaa’ah) hold as their creed and belief that the texts of the Names and Attributes are from the muhkam, those (aayaat) whose meaning is understood and which are explained. And they are not from the mutashaabihah (the texts whose meaning may not be clear to us and therefore require other texts to clarify their meaning).<br /><br />So they (the ahl us sunnah wal jamaa’ah) do not make tafweed  of the meaning, (which is what) those who lie against them attribute to them or (as is done) by those from amongst the modern day authors and writers who do not know their (the ahl us sunnah wal jamaa’ah) manhaj.<br /><br />And (the ahl us sunnah wal jamaa’ah) make tafweed  of the kayfiyyah of the Attributes back to Allaah the Most High, and they do not seek after it.<br /><br />(Aqeedah ut Tawheed: p89)<br /><br /><strong>Source: Questions on Lum’atul i’tiqaad  – Part 08</strong><br /><em>Series of questions and answers on the book ‘Lum’atul i’tiqaad’, the book of aqeedah written by the Imaam Ibn Qudaamah al-Maqdisee rahimahullaah. These are based on the explanation of Shaykh Saalih al Fawzaan hafidhahullaah.</em><br /><br />Source: <!-- m --><a class="postlink" href="http://salaf-us-saalih.com/2012/01/07/tafweed-of-kayfiyyah-of-allaahs-attributes/">http://salaf-us-saalih.com/2012/01/07/t ... ttributes/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Tue Oct 18, 2016 10:39 pm</p><hr />
+]]></content>
+</entry>
+</feed>

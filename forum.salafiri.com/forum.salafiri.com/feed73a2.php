@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=8&amp;t=514" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-10-18T22:31:29+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=8&amp;t=514</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-10-18T22:31:29+01:00</updated>
+<published>2016-10-18T22:31:29+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=514&amp;p=554#p554</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=514&amp;p=554#p554"/>
+<title type="html"><![CDATA[The Messenger (peace be upon him) did not stretch his hand from his grave to anyone – Ibn Baaz]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=514&amp;p=554#p554"><![CDATA[
+Q: A brother from Dar’a, Syria asks: What is the correct opinion about the stories narrated from one of the famous leaders of Sufism, Al-Sayyid <span style="color: #0000FF"><strong>Ahmad Al-Rifa’y</strong></span> that he visited the Mosque of the Prophet (peace be upon him) in Al-Madinah and supplicated at the Prophet’s grave. The Messenger (peace be upon him) then stretched his hand out to him and he kissed it?<br /><br />This is a widespread belief among the followers of his Tariqah (Sufi order). It is a belief they hold firmly, even though he lived in the 6th century A.H. How true is this story?<br /><br />A : This is false and baseless, because the Prophet (peace be upon him) died as decreed by Allah (Glorified be He) who says: Verily you (O Muhammad صلى الله عليه وسلم) will die, and verily they (too) will die. [Surah Al-Zumar, 39: 30]<br /><br />According to a Sahih Hadith, the Prophet (peace be upon him) said:<br /><br />Allah has angels roaming around the land; if they find anyone greeting me, they carry back these greetings to me.There is no one who sends greetings upon me but Allah will restore my soul to me so that I may return his greeting.[1]<br /><br />He (peace be upon him) said: The most excellent of your days is Friday; so invoke more blessings on me on that day, for your blessings will be submitted to me. The people asked: O Messenger of Allah, how can it be that our blessings will be submitted to you while your body is decayed? He replied: Allah, the Exalted, has prohibited the earth to consume the bodies of the prophets. [2]<br /><br />There are many Hadiths which say similar things but it is <span style="color: #FF0000"><strong>not narrated that the Prophet (peace be upon him) said that he would shake hands with anybody</strong></span>. This indicates that this story is false. Even if we were to assume that it is true, then it could be that this was a <strong><span style="color: #FF0000">shaytaan</span></strong> (devil) who shook hands with him in order to deceive him and lead him and others astray.<br /><br />What all Muslims have to do is to fear Allah and adhere to His Shari`ah, which is indicated in His Noble Book and in the Sunnah of His trustworthy Messenger, and beware of anything that goes against that. May Allah reform the Muslims and grant them understanding of His religion and cause them to adhere to His Shari`ah, for He is the Most Generous, Most Kind.<br /><br /><strong><span style="color: #0000BF">Footnotes</span></strong><br /><br />[1] Narrated by Al-Nasaiy, Book on Sujud-ul-Sahw, no. 1265; Ahmad, Section on the Hadiths narrated by the Companions who narrated a large number of Hadiths, nos. 3484, 3993, and 4093; and Al-Darimy, Book on heart-softening narrations, no. 2655.’<br /><br />[2] Narrated by Nasaiy, Book on Friday, no. 1357; Abu Dawud, Book on Salah, nos. 883 and 1308; and Ahmad, Section on the Hadiths narrated by Al-Madinah narrators, no. 15575.<br /><br />Source: <!-- m --><a class="postlink" href="http://www.alifta.net/Fatawa/FatawaChapters.aspx?languagename=en&amp;View=Page&amp;PageID=1270&amp;PageNo=1&amp;BookID=14">http://www.alifta.net/Fatawa/FatawaChap ... &amp;BookID=14</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Tue Oct 18, 2016 10:31 pm</p><hr />
+]]></content>
+</entry>
+</feed>

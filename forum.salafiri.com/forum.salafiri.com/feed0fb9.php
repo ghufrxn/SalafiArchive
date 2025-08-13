@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=18&amp;t=64" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-08-24T23:10:24+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=18&amp;t=64</id>
+<entry>
+<author><name><![CDATA[ابو عبدالرحمز]]></name></author>
+<updated>2016-08-24T23:10:24+01:00</updated>
+<published>2016-08-24T23:10:24+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=64&amp;p=68#p68</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=64&amp;p=68#p68"/>
+<title type="html"><![CDATA[The Solution To The Sunni-Shi’ah Dispute (if only the Shi’ah Rafidah Agree) – Allamah Ehsan Ilahi Zaheer [1407H]]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=64&amp;p=68#p68"><![CDATA[
+<strong><span style="font-size: 150%; line-height: normal">The Shi’ah Papers Part 4 – The Solution To The Sunni-Shi’ah Dispute (if only the Shi’ah Rafidah Agree) – Allamah Ehsan Ilahi Zaheer [1407H]</span></strong><br /><br />Compiled, Translated and Annotated<br />Abu Hibban &amp; Abu Khuzaimah Ansaari<br /><br /> <br /><br />Allamah ash-Shaikh, the refuter of the Deviant sects said,<br /><br />in 1980 during the time of Hajj in Makkah some major shee’ah scholars came to meet me to talk about my book, ‘ash-Shee’ah Was-Sunnah’ (a forthcoming publication on this Blog Insha’Allaah) and whilst talking they said to me,<br /><br />“It was not pertinent or befitting for you to have written and published this book (ie ash-Shee’ah Was-Sunnah) at this time due to the current situation (ie the Iraaq-Iraan War 1980-1988).”<br /><br />So I replied,<br /><br />“Yes maybe so, you are entitled to your opinion, but can you kindly tell me, the things which i have written in my book are they not also in or from your books?”<br /><br />They replied in unison,<br /><br />“Indeed that is correct, whatever you have written and mentioned in your book that is also what is written in our books, however we think it is inappropriate to mention such issues and to excite and fervour the emotions of the people.”<br /><br />So i replied,<br /><br />“What do you think we should do then?”<br /><br />and then i remained silent and began to listen to them attentively.<br /><br />So they replied with happiness and joy,<br /><br />“So please burn all of your books and don’t ever publish it again.”<br /><br />I replied,<br /><br />“I’m okay with that, but I have one condition.”<br /><br />They replied,<br /><br />“But the condition must be something we can fulfill.”<br /><br />I said,<br /><br />“Well its very important that this condition is mentioned, I only have this one condition and then we can continue to do as you propose.”<br /><br />They replied hastily,<br /><br />“Yes please tell us your condition.”<br /><br />I said,<br /><br />“Your (ie shee’ah) books that mention these futile and spurious issues take them out and burn all of them so that we do not have any differences between us and also that no one after me will be able to quote from them like I did. In this way we eliminate the root causes of our problems so when these books don’t exist nor will these issues.”<br /><br />They pondered for a short while and then said,<br /><br />“As you very well know these issues are spread throughout the different books and an average person is not able to read them, however you (ie Allaamah Ehsaan) have collated and compiled all of these issues in one book and therefore you want to disunite the Muslims.”<br /><br />I said,<br /><br />“Yes, i have collated and compiled all of the beliefs (of the shee’ahs) thereby making it easy and accessible for everyone to read and understand.”<br /><br />(taken from ash-Sheeah Wa Ahlul Bayt pg.8)<br /><br /><strong>http://www.salafiri.com/the-shiah-papers-part-4-the-solution-to-the-sunni-shiah-dispute-if-only-the-shiah-rafihah-agree-allamah-ehsan-ilahi-zaheer-1407h/</strong><br /><br />Share this and receive reward.<p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=61">ابو عبدالرحمز</a> — Wed Aug 24, 2016 11:10 pm</p><hr />
+]]></content>
+</entry>
+</feed>

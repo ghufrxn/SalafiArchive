@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=8&amp;t=1230" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-03-06T23:15:00+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=8&amp;t=1230</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-03-06T23:15:00+01:00</updated>
+<published>2017-03-06T23:15:00+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1230&amp;p=1296#p1296</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1230&amp;p=1296#p1296"/>
+<title type="html"><![CDATA[The Proof For The Most Perfect Names (of Allaah)]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1230&amp;p=1296#p1296"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal">The Proof For The Most Perfect Names (of Allaah)</span></strong><br /><br /><strong><span style="color: #0000FF">Question:</span></strong><br /><br />What is the proof for the Most Perfect Names (of Allaah) from the Book and the Sunnah?<br /><br /><strong><span style="color: #0000FF">Answer:</span></strong><br /><br />Allaah, the Mighty and Majestic, said, <strong><span style="color: #0000FF">“And (all) the Most Beautiful Names belong to Allaah, so call on Him by them, and leave the company of those who belie or deny (or utter impious speech against) His Names.”</span></strong> (al-A’ raaf: 180)<br /><br />And He, glorified be He from all that they attribute to Him, said, <strong><span style="color: #0000FF">“Say, “Invoke Allaah or invoke the Most Gracious (Allaah), by whatever name you invoke Him (it is the same), for to Him belong the Best Names.”</span></strong> (al-Israa’: 110)<br /><br />And He, the Mighty and Majestic, said: <strong><span style="color: #0000FF">“Allaah! La ilaaha illa Huwa (none has the right to be worshipped but He)! To Him belong the Best Names.”</span></strong> (Ta-Ha: 8)<br /><br />The Prophet (sallallaahualaihi wasallam) said, <strong><span style="color: #0000FF">“Verily Allaah has ninety-nine Names. Whoever memorises and comprehends them will enter Paradise.”</span></strong>[1]<br /><br />And the Prophet (sallallaahualaihi wasallam) said: “I ask You by every Name which You have Named Yourself with or revealed in Your Book or taught any of Your creation or kept with Yourself in the knowledge of the unseen with You, that you make the Glorious Qur’aan the life of my heart.” [2]<br /><br />_______________________________<br /><br />[1] Reported by al-Bukhaaree and Muslim with the wording, “Verily Allaah has ninety-nine Names, one hundred except one. Whoever memorises and comprehends them will enter Paradise.” Refer to al-Bukhaaree in Kitaab ut-Tawheed, Chapter: Verily Allaah has one hundred minus one, Names (8/169). And Muslim in, The Book of Dhikr and Duaa, using the names of Allaah, the Most High, and the virtues of the one who memorises and comprehends them (8/63) and it is reported by at-Tirmidhee with the same wording as used by the author (rahimahullaah), in The Book of Supplications (no. 3508) (5/532) and at-Tirmidhee said the hadeeth is hasan saheeh. And it is reported by Ibn Maajah with the same wording as al-Bukhaaree and Muslim (no. 3906).<br /><br />[2] Reported by Ahmad in his Musnad (1/453), and al-Haakim (1/509) and he said the hadeeth is hasan saheeh according to the conditions of Muslim if the chain is free of irsaal. And Shaikh Naasir ud-Deen al-Albaanee (rahimahullaah) followed up the hadeeth and showed that it is free from irsaal, and confirmed what al-Haakim had said regarding the hadeeth being saheeh according to the conditions of Muslim. The Shaikh also mentioned numerous supporting chains for this hadeeth. Refer to “Silsilah as-Saheehah” (vol. 1, no. 199).<br /><br /><strong><span style="color: #0000FF">al-Haafidh al-Hakamee</span></strong><br /><em>A’laam as-Sunnah al-Manshoorah li I’tiqaad at-Taaifah an-Naajiyah al-Mansoorah</em><br /><br />Translated by Abul-Irbaad Abid Zargar<br /><br />Source: <!-- m --><a class="postlink" href="http://www.fatwaislam.com/fis/index.cfm?scn=fd&amp;ID=411">http://www.fatwaislam.com/fis/index.cfm?scn=fd&amp;ID=411</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Mon Mar 06, 2017 10:15 pm</p><hr />
+]]></content>
+</entry>
+</feed>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=9&amp;t=588" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-11-07T23:17:17+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=9&amp;t=588</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-11-07T23:17:17+01:00</updated>
+<published>2016-11-07T23:17:17+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=588&amp;p=630#p630</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=588&amp;p=630#p630"/>
+<title type="html"><![CDATA[Ruling on Men offering Salah (Prayer) without a Turban or a Cap – Ibn Baaz &amp; Permanent Commitee]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=588&amp;p=630#p630"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal"><span style="color: #0000FF">Ruling on offering Salah without a turban</span></span></strong><br /><br /><span style="color: #4000FF"><strong>Q: Is it permissible to offer Salah (Prayer) without a turban? Is it permissible for the Imam (the one who leads congregational Prayer) to pray without a head cover? Is wearing a cap sufficient? Please support your answer with evidences. May Allah protect you. As-salamu `alaykum warahmatullah wabarakatuh (May Allah’s Peace, Mercy, and Blessings be upon you). </strong></span><br /><br />A: There is nothing wrong with offering Salah without a turban because the head [with regard to men] is not included in `Awrah (parts of the body that must be covered in public), and it is not obligatory to cover it when offering Salah, whether the person praying is an Imam, a Munfarid (person offering Prayer individually), or a Ma’mum (person being led by an Imam in Prayer).<br /><br />However, if wearing a turban is customary then it is best to do it, especially when offering Salah with others. Allah (Glorified and Exalted be He) states: <strong><em><span style="color: #FF00FF">O Children of Adam! Take your adornment (by wearing your clean clothes), while praying [and going round (the Tawâf of) the Ka‘bah,]</span></em></strong> The turban is considered a type of adornment.<br /><br /><em><span style="color: #0000FF">It is well known that men who are Muhrims (pilgrims in the ritual state for Hajj and `Umrah) offer Salah bareheaded, because they are not allowed to cover their heads while in Ihram (ritual state for Hajj and `Umrah). Hence it is known that there is nothing wrong with offering Salah bareheaded.</span></em> <br /><br />May Allah guide all to acquire beneficial knowledge and act upon it! He is the All-Hearer and All-Respondent.<br /><br />As-salamu `alaykum warahmatullah wabarakatuh<br /><br />Source: alifta.net<br /><br />_____________________________________________________________<br /><br /><strong><span style="color: #0000FF">Q 10: Some people wear a turban, some wear a Qulunsuwah (cap), and many offer Salah (Prayer) with bare heads, I mean men. Which manner is the best in reward? We appreciate your advice, may Allah reward you with the best. </span></strong><br /><br />A: It is desirable for a Muslim to wear his full garment when going to Prayer, the head cover included; because Allah (Glorified and Exalted be He) enjoined His servants to adorn themselves when going to Salah. Allah (Glorified and Exalted be He) says: <strong><em>O Children of Adam! Take your adornment (by wearing your clean clothes), while praying [and going round (the Tawâf of) the Ka‘bah,]</em></strong><br /><br /><em>Besides, it has not been reported from the Prophet (peace be upon him) that he offered Salah without a head cover. In fact, he used to always wear a turban, and the practice of Muhammad (peace be upon him) is the best guidance.</em><br /><br />May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.<br /><br />The Permanent Committee for Scholarly Research and Ifta’<br />Chairman – Shaykh Abdul-Aziz ibn Abdullah Al Al-Shaykh<br /><br />Source: alifta.net<p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Mon Nov 07, 2016 10:17 pm</p><hr />
+]]></content>
+</entry>
+</feed>

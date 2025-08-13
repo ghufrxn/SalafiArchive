@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=9&amp;t=1191" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-03-03T16:54:12+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=9&amp;t=1191</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-03-03T16:54:12+01:00</updated>
+<published>2017-03-03T16:54:12+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1191&amp;p=1257#p1257</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1191&amp;p=1257#p1257"/>
+<title type="html"><![CDATA[Wrong Understandings Regarding Some of the Rulings of Wudu]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1191&amp;p=1257#p1257"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal">Wrong understandings Regarding some of the Rulings of Wudu</span></strong><br /><em>Translated by Abbas Abu Yahya</em><br /><br /><strong><span style="color: #0000FF">1 – Some people presume that it is not allowed to perform Wudu whilst being uncovered!</span></strong><br /><br />The noble scholar AbdulAziz Ibn Baz said:<br /><br />‘Covering ones private parts is not a condition in the correctness of Wudu[1].’<br /><br />[Fatawa Ibn Baz 10/101]<br /><br /><strong><span style="color: #0000FF">2  – Some people presume that if one precedes washing a limb from the left hand side before one from the right hand side then their Wudu is not correct.</span></strong><br /><br />Imam Nawawi said:<br /><br />‘The scholars are in consensus that preceding the right over that of the left from washing the hands and feet in Wudu is a Sunnah, if it is opposed in washing [left before the right] then a virtue is missed out on but the Wudu is correct.’<br /><br />[Sharh Saheeh Muslim 3/160]<br /><br /><strong><span style="color: #0000FF">3 – Many people raise their finger whilst reciting the testification of Islaam after Wudu.</span></strong><br /><br />‘Allaama Ibn Uthaymeen said:<br /><br />‘I do not know of a foundation for this action.’<br /><br />[Fatawa noor ala Darb 8/117]<br /><br /><strong><span style="color: #0000FF">4 – Some people think that if you touched some impurity that you have to repeat your Wudu from the beginning!</span></strong><br /><br />‘Allaama Ibn Uthaymeen said:<br /><br />‘Stepping upon impurities while it is moist does not invalidate the Wudu, however, it is upon the person to purify that which it is obligatory to purify; meaning you only have to purify the place that was affected by the impurity.’<br /><br />[Fatawa Ibn Uthaymeen 52/119]<br /><br /><strong><span style="color: #0000FF">5 – Many people find it difficult in themselves to wipe over socks which have holes in them.</span></strong><br /><br />‘Allaama Ibn Uthaymeen said:<br /><br />‘It is permissible to wipe over socks which have holes in them and it is permissible to wipe over thin Khuff (leather socks), because many of the Companions were poor, and generally the poor have Khuff which have holes in them.<br /><br />[Fatawa Ibn Uthaymeen 11/116]<br /><br /><strong><span style="color: #0000FF">6 – Some people wipe over socks which have pictures on them of those things which posses a soul.</span></strong><br /><br />‘Allaama Ibn Uthaymeen said:<br /><br />‘It is not permissible to wipe over a sock which had a picture of an animal on it because wiping over the Khuff is an allowance and it is not allowed with sinning.’<br /><br />[Fatawa Ibn Uthaymeen 11/116]<br /><br /><ul>All Praise belongs to Allaah, may His peace<br /><br />and blessings be upon our final<br /><br />Prophet Muhammad, his<br /><br />family, his companions<br /><br />and all those who<br /><br />follow his way.</ul><br />[1] T.N. e.g. making Wudu while having a shower.<br /><br />Source: <!-- m --><a class="postlink" href="https://followingthesunnah.wordpress.com/2014/05/07/wrong-understandings-regarding-some-of-the-rulings-of-wudu/">https://followingthesunnah.wordpress.co ... s-of-wudu/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Fri Mar 03, 2017 3:54 pm</p><hr />
+]]></content>
+</entry>
+</feed>

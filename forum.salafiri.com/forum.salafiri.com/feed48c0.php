@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=50&amp;t=849" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-12-17T23:38:53+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=50&amp;t=849</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-12-17T23:38:53+01:00</updated>
+<published>2016-12-17T23:38:53+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=849&amp;p=893#p893</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=849&amp;p=893#p893"/>
+<title type="html"><![CDATA[Beating Women is a Reprehensible Characteristic – Shaykh Muhammad ibn Haadee]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=849&amp;p=893#p893"><![CDATA[
+<strong><span style="font-size: 150%; line-height: normal"><span style="color: #0000FF">Beating Women is a Reprehensible Characteristic – Shaykh Muhammad ibn Haadee</span></span></strong><br /><br />Beating women, O assembly of brothers, although it is permissible it is not something desirable. It is not desirable to noble, dignified, and virtuous men. Due to this, ‘Aa’ishah, may Allaah be pleased with her, said: <em><span style="color: #0000FF">“The Messenger of Allaah ﷺ never struck a woman or a slave with his hand; nor did he take revenge for himself; however, (only) if the annals of Allaah were transgressed. For then he would take revenge for the sake of Allaah.”</span></em><br /><br />Allaah’s Messenger ﷺ did not beat a woman; for beating women is distasteful to the intelligent, noble, dignified, virtuous, and men of high breed who have intellect. This is distasteful to them. Due to this, the Prophet ﷺ emphasized this affair, in spite of the fact that it is permissible. He said:<br /><br /><em>“Let not one of you lash his woman like he lashes the servant (or he said: his servant) and then sleep with her.”</em><br /><br />In another narration:<br /><br /><em><span style="color: #0000FF">“…at the beginning of the day and then sleep with her at the end of the day.”</span></em><br /><br />How, by Allaah, could you beat and lash her like a slave and then you want for her to submit herself to you in your bed? This is not possible. So the Prophet ﷺ warned against this reprehensible characteristic. This is in spite of the fact that it is permissible to discipline the woman:<br /><br /><span style="font-size: 150%; line-height: normal">وَاللاَّتِي تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَاهْجُرُوهُنَّ فِي الْمَضَاجِعِ وَاضْرِبُوهُنَّ</span><br /><br /><strong><span style="color: #0000FF">As to those women on whose part you fear ill-­conduct, admonish them (first), (next), refuse to share their beds, (and last) beat them (lightly, if it is useful). (An-Nisa 4:34)</span></strong><br /><br />So He made beating to be the last step in disciplining (them). Along with this, this beating has guidelines with the scholars; that it is to be a tap or a slap by which bones should not be broken nor should a wound be inflicted. You are not to strike her on her eye and thus put out her eye. Or (strike her) on her ear so that her ear drum is ruptured. This is not permissible. STRIKING IN THE FACE IS HARAM. The Prophet ﷺ prohibited it. In spite of this, the courts (often) hear complaints of men beating women; and this is a reprehensible characteristic from which the Messenger of Allaah ﷺ cautioned, in that which you have heard:<br /><br /><em><span style="color: #0000FF">“Let not one of you lash his woman like he lashes the servant (or he said: his servant) and then sleep with her.”</span></em><br /><br /><em>Translated By: Raha ibn Donald Batts</em><br />Presented to you by Markaz Tawheed was-Sunnah in Durham, NC<br /><br />Source: <!-- m --><a class="postlink" href="http://mtws.posterous.com">http://mtws.posterous.com</a><!-- m --><br /><br />See video: <!-- m --><a class="postlink" href="http://audio-islam.com/2013/01/22/beating-women-is-a-reprehensible-characteristic-shaykh-muhammad-ibn-haadee-videoar-en/">http://audio-islam.com/2013/01/22/beati ... ideoar-en/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Sat Dec 17, 2016 10:38 pm</p><hr />
+]]></content>
+</entry>
+</feed>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=14&amp;t=1099" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-02-11T18:44:21+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=14&amp;t=1099</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-02-11T18:44:21+01:00</updated>
+<published>2017-02-11T18:44:21+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1099&amp;p=1163#p1163</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1099&amp;p=1163#p1163"/>
+<title type="html"><![CDATA[Biography of ash-Shaykh ‘Abdullaah al-Bassaam]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1099&amp;p=1163#p1163"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal">Biography of ash-Shaykh ‘Abdullaah al-Bassaam</span></strong><br /><br /><span style="color: #0000FF">Taken from Nayl al-Ma’aarib (1/21-22)</span><br /><br /><em>Translated by Aboo Shaybah</em><br /><br />He is Aboo ‘Abdir-Rahmaan, ash-Shaykh ‘Abdullaah ibn ‘Abdir-Rahmaan ibn Saalih ibn Hamad ibn Muhammad ibn Hamad al-Bassaam. He was born in the homeland of his family, the city of ‘Unayzah in al-Qaseem, in the year 1344h.<br /><br />In his early childhood, he entered the kuttaab of ash-Shaykh ‘Abdullaah ibn Muhammad al-Qar‘aawee, who – at the time – had opened a school to teach children the Noble Qur’aan and basic Islaamic Studies. He [al-Bassaam] was among the children who were only assigned memorization of the Qur’aan. When his Shaykh, Abdullaah al-Qar‘aawee, travelled from ‘Unayzah to the southern region of the Kingdom of Saudi Arabia, he [al-Bassaam] along with his brother, ash-Shaykh Saalih ibn ‘Abdir-Rahmaan al-Bassaam, began to study with their father (may Allaah have mercy upon him). They studied with him the Qur’aan, as well as Tafseer, Seerah, the History of Islaam, Fiqh, and Nahw. The two of them would read to him Tafseer ibn Katheer, al-Bidaayah wan-Nihaayah, the book Akhsar al-Mukhtasaraat by al-Bulbaanee in Fiqh, and al-Aajurroomiyyah in Nahw.<br /><br />Afterwards, the Shaykh joined the body of devoted students of ash-Shaykh al-’Allaamah ‘Abdur-Rahmaan an-Naasir as-Sa‘dee (may Allaah have mercy upon him). He attended his lessons and would miss none.<br /><br />Thereafter, Daar at-Tawheed was opened in at-Taa’if, which had disciplines of knowledge that he did not study with his mashaayikh in his own region. Thus, he performed Hajj in 1365h., and met the head of Daar at-Tawheed, ash-Shaykh Muhammad ibn ‘Abdil-Azeez ibn Maani‘ at his home in Makkah al-Mukarramah, who advised him to enroll. There, he found major scholars from al-Azhar, as well as others, including ash-Shaykh ‘Abdur-Razzaaq ‘Afeefee, ash-Shaykh Muhammad Husayn ath-Thahabee, ash-Shaykh ‘Abdullaah as-Saalih al-Khulayfee, and other scholars.<br /><br />He later studied at Kulliyah ash-Sharee‘ah in Makkah al-Mukarramah and graduated from it in 1374h. He entered the judiciary system and remained there until retiring from it while he was the head of The Court of Cessation (Mahkamah at-Tamyeez) in 1417h. He was appointed as:<br /><br /><em><ul>- An official instructor in al-Masjid al-Haraam where he used to deliver general and private lessons<br />- A member of The Muslim World League (Raabitah al-‘Aalam al-Islaamee)<br />- A member of The Islamic Fiqh Council (al-Majma‘ al-Fiqh al-Islaamee) under the Muslim World League, and the Organization of the Islamic Conference (Munath-thamah al-Mu’tamar al-Islaamee)<br />- A member of the Council of Senior Scholars (Hay‘ah Kibaar al-‘Ulamaa’) in the Kingdom of Saudi Arabia</ul></em><br /><br />He authored a number of works, some of which are published and a few remain as manuscripts. The Shaykh passed away on the morning of Thursday, 28/11/1423h, and the funeral prayer was performed for him at al-Masjid al-Haraam in Makkah al-Mukarramah after the Jumu‘ah prayer.<br /><br />May Allaah have mercy upon him and enter him into the vast expanses of Jannah.<br /><br /><strong><span style="color: #0000FF">Source:</span></strong> <!-- m --><a class="postlink" href="https://qaryah.wordpress.com/">https://qaryah.wordpress.com/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Sat Feb 11, 2017 5:44 pm</p><hr />
+]]></content>
+</entry>
+</feed>

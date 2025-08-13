@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=8&amp;t=628" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-11-17T23:44:24+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=8&amp;t=628</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-11-17T23:44:24+01:00</updated>
+<published>2016-11-17T23:44:24+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=628&amp;p=671#p671</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=628&amp;p=671#p671"/>
+<title type="html"><![CDATA[Shaikh Fawzaan on the meaning of “Ahlus Sunnah wal Jamaa’ah”]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=628&amp;p=671#p671"><![CDATA[
+Stated Shaikh Saalih Fawzaan in his sharh (explanation ) of Imam Ibn Taymiyyah’s book al-Aqeedatul-Wasitiyyah (translated)<br /><br />“And they are called ‘Ahlus-Sunnah’ because of their connection to the Sunnah of the Messenger-sallallahu alayhe wa sallam-preferring this (his Sunnah) above all other than it from statements and madh-habs. And this is in opposition to Ahlul-Bid’ah (the people of innovation). Because indeed they are (named) based on their connection to their bid’ah or misguidance like the Qadariyyah[2] or the Murji’ah[3]. And sometimes they are (named) based on their ugly, evil actions like the Raafidah[4] and Khawaarij[5]<br /><br />“’And the Jamaa’ah’: (Jamaa’ah means) in the language: a group of people gathered together. What is intended here  is: those gathered together upon the truth clinging to the Book and the Sunnah.And they are the Sahabah and all who follow them perfectly (in beliefs, statements and actions) even if they are few. As Ibn Mas’ood[6]-radiAllahu anhu-said: ‘The Jamaa’ah is what agrees (or conforms) with the truth, even if you are by yourself, in that case you are the Jamaa’ah.’”[7]<br />Another statement of Shaikh Fawzaan here:http://ittibaa.com/5/post/2012/03/the-jamaa-ah-is-whatever-conforms-to-the-truth-even-you-are-alone.html<br /><br />Footnotes:<br /><br /><strong><em><span style="text-decoration: underline">2</span></em></strong> Qadariyyah: “Those who say that a person is totally independent and has unrestricted free will and ability regarding his actions, and that Allah’s Will and Power have no affect on this” Shaikh Uthaymeen’s Explanation of The Three Fundamental Principles, translated by Abu Talhah Dawood ibn Ronald Burbank, published by al-Hidaya p.190<br /><br /><strong><em><span style="text-decoration: underline">3</span></em></strong> Murji’ah: see <!-- m --><a class="postlink" href="http://www.fatwaislam.com/fis/index.cfm?scn=sc&amp;sc=54&amp;c=7">http://www.fatwaislam.com/fis/index.cfm ... &amp;sc=54&amp;c=7</a><!-- m --> (if link doesnt work, go to fatwaislam and search for murji’ah<br /><br /><strong><em><span style="text-decoration: underline">4</span></em></strong> Raafidah: see <!-- m --><a class="postlink" href="http://www.fatwaislam.com/fis/index.cfm?scn=fd&amp;ID=38">http://www.fatwaislam.com/fis/index.cfm?scn=fd&amp;ID=38</a><!-- m --><br /><br /><strong><em><span style="text-decoration: underline">5</span></em></strong> Khawarij: see <!-- m --><a class="postlink" href="http://www.fatwaislam.com/fis/index.cfm?scn=fd&amp;ID=10">http://www.fatwaislam.com/fis/index.cfm?scn=fd&amp;ID=10</a><!-- m --><br /><br /><strong><em><span style="text-decoration: underline">6</span></em></strong> One of the Companions of the Prophet-sallallahu alayhe wa sallam, and one of the most knowledgeable scholars about Islam<br /><br /><strong><em><span style="text-decoration: underline">7</span></em></strong> From the Book : Sharh (Explanation of) Aqeedatul Wasitiyyah (arabic), published by Darussalam, p.12, my translation<br /><br />Source: <!-- m --><a class="postlink" href="https://sughayyirah.wordpress.com/2012/04/01/shaikh-fawzaan-on-the-meaning-of-ahlus-sunnah-wal-jamaaah/">https://sughayyirah.wordpress.com/2012/ ... l-jamaaah/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Thu Nov 17, 2016 10:44 pm</p><hr />
+]]></content>
+</entry>
+</feed>

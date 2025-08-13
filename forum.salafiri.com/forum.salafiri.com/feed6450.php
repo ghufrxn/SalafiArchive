@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=50&amp;t=1187" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-03-03T16:14:51+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=50&amp;t=1187</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-03-03T16:14:51+01:00</updated>
+<published>2017-03-03T16:14:51+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1187&amp;p=1253#p1253</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1187&amp;p=1253#p1253"/>
+<title type="html"><![CDATA[The One Who Commits Suicide]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1187&amp;p=1253#p1253"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal">The One Who Commits Suicide<br />Taken from ‘Al-Kabair’ - The Major Sins</span></strong><br /><em>By Imaam ad-Dhahabi<br /><br />Translated by Abbas Abu Yahya</em><br /><br /><strong><span style="color: #0000FF">The Major sin – Twenty-Five</span></strong><br /><br /><strong><span style="color: #0000FF">The One Who Commits Suicide which is from the Greatest of Sins</span></strong><br /><br />Allaah Ta’aala says:<br /><br />&lt;&lt; And do not kill yourselves, indeed Allaah is Most Merciful to you.<br /><br />And whoever commits that through aggression and injustice, We shall cast him into the Fire, and that is easy for Allaah. If you avoid the major sins which you are forbidden to do, We shall remit from you your (small) sins, and admit you to a Noble Entrance (i.e. Paradise). &gt;&gt;<br /><br />Allaah Ta’aala says:<br /><br />&lt;&lt; And those who invoke not any other ilâh (god) along with Allaah, nor kill such life as Allaah has forbidden……&gt;&gt;<br /><br /><strong><span style="color: #0000FF">191</span></strong> – Narrated by Jundub ibn Abdullaah radiAllaah anhu :<br /><br />That the Prophet –sallAllaahu alayhi wa sallam– said, “Amongst the nations before you was a man who had a wound, and growing impatient (with its pain), he took a knife and cut his hand with it and the blood did not stop until he died. Allaah said, ‘My Slave hurried to bring death upon himself so I have forbidden him (to enter) Paradise.’ <br /><br />Agreed upon by Bukhari &amp; Muslim<br /><br /><strong><span style="color: #0000FF">192</span></strong> – Narrated Abu Huraira radiAllaah anhu who said:<br /><br />That the Messenger of Allaah –sallAllaahu alayhi wa sallam– said:<br /><br />“Whoever kills himself with an iron weapon, will be carrying that weapon in his hand and stabbing his abdomen with it in the (Hell) Fire wherein he will abide eternally forever. and whoever drinks poison and kills himself with it, he will be carrying his poison in his hand and drinking it in the (Hell) Fire wherein he will abide eternally forever; “<br /><br />Agreed upon by Bukhari &amp; Muslim<br /><br /><strong><span style="color: #0000FF">193</span></strong> – In an authentic hadeeth: A person was wounded, he hurried death and killed himself with the tip of his sword, the Prophet –sallAllaahu alayhi wa sallam– said: “He is from the people of the fire.” <br /><br /><strong><span style="color: #0000FF">194</span></strong> – It is narrated on the authority of Yahya bin Abee Katheer, on the authority of Abee Qilaaba, on the authority of Thabit bin al-Dahhak:<br /><br />That the Prophet –sallAllaahu alayhi wa sallam–  said : “Cursing a believer is like killing him, and whoever accuses a believer of Kufr then he is like his killer, and he who killed himself with something in this world then Allaah will punish him with that (very thing) on the Day of Resurrection. <br /><br /><em>Authentic hadeeth</em><br /><br />All Praise belongs to Allaah, may His peace and blessings be upon our final Prophet Muhammad, his family, his companions and all those who follow his guidance.<br /><br />Source: <!-- m --><a class="postlink" href="https://followingthesunnah.wordpress.com/2007/10/04/the-one-who-commits-suicide/">https://followingthesunnah.wordpress.co ... s-suicide/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Fri Mar 03, 2017 3:14 pm</p><hr />
+]]></content>
+</entry>
+</feed>

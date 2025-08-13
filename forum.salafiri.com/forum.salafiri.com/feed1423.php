@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=11&amp;t=1018" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-01-25T22:39:02+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=11&amp;t=1018</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-01-25T22:39:02+01:00</updated>
+<published>2017-01-25T22:39:02+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1018&amp;p=1077#p1077</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1018&amp;p=1077#p1077"/>
+<title type="html"><![CDATA[Are Our Deeds Presented To Our Dead Relatives]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1018&amp;p=1077#p1077"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal">Are Our Deeds Presented To Our Dead Relatives</span></strong><br /><em>Compiled, Translated and Annotated<br />Abu Hibban &amp; Abu Khuzaimah Ansaari</em><br /><br /><strong><span style="color: #0000FF">FIRST PROOF</span></strong><br /><br /><em>“Your deeds are presented to your close and beloved dying relatives if your deeds are better/good they become happy, if they are not good they say “O Allaah do not give him death up until you give them guidance.”</em> [Ahmad 3/165]<br /><br /> This narration is Daeef because in it is Sanad is Sufyaan and between him and Anas ibn Maalik there is a Majhool (unknown) narrator.<br /><br /> This is also in Mujmu’a Zawaid but Imaam Haithamee after mentioning the narration says:-<br /><br /><em>“Ahmad has transmitted this, and there is a man in the chain who has not been named.”</em> [2/228,331,332]<br /><br /> After this Imaam Haithamee points to a narration concerning this Hadeeth from Abu Ayyoob, and he brings it in the previous chapter and says after it:-<br /><br /> <em>“Tabaraanee brings the narration in [al-Kabeer 1/194/2] and [Awsth 1/72] and its Isnaad contains a Daeef (Weak) narrator, by the name of Muslimah ibn Alee.”</em><br /><br /> Concerning Muslimah ibn Alee, Imaam Bukhaari, Ibn Hibbaan and Abu Zar’ah Raazee said he is Munkar Al-Hadeeth.<br /><br /> Imaam Dhahabee says in Meezaan al-Ei’tidaal [1/6]<br /><br /> “Bukhaari says, anyone about whom I say Munkar al-Hadeeth then it is not Halaal (lawful) to narrate from him.”<br /><br /> Imaam Ya’aqoob ibn Sufyaan Fusawee said “Da’eef Al-Hadeeth”,<br /><br /> Imaam Juzjaanee, Imaam Azdee, Nasaa’ee, Daraqutnee and Imaam Barqaanee said“Matrook Al-Hadeeth”<br /><br /> Imaam Au’jurree mentions from Abu Dawood that he is untrustworthy and unsafe.<br /><br /> Imaam Haakim said Muslimah ibn Alee Narrates Munkar and Mawdoo (fabricated) Hadeeth from Imaams Awzaaee and Zubaidee. [Tahdheeb At-Tahdheeb 5/439-440/ 7758]<br /><br /><strong><span style="color: #0000FF">SECOND PROOF</span></strong><br /><br />Narrates Anas ibn Maalik That the Messenger of Allaah (Sallalahu Alayhee Was-Sallam) said,  “Every Friday the deeds of my Umaah are presented to me, and the Wrath of Allaah is upon the fornicators severely” [Hilyatal- Auliya (6/79), Kunzul A’amaal 5/318]<br /><br /> This narration is very Weak (Daeef), two Narrators are Majrooh, Ahmad ibn Eesaa ibn Maahaan Ar-Raazee would narrate, fabricated narrations on the virtue of Alee ibn Abee Taalib and Odd (Ghareeb) narrations, the Muhadditheen have made Kalaam on him. [Meezaan al-Ei’tidaal (1/128) and Leesaan al-Meezaan (1/244]<br /><br /> Two more narrations from Anas are brought one about whom Imaam Adiyy mentioned in al-Kaamil [2/124] in its chain is Faraash ibn Abdullah who lost his reliability<br /><br /> And the second narration contains Muhammad ibn Abdul Maalik ibn Ziyaat Abu Salamah Ansaari who would narrate fabricated and forged narrations, Imaam Ibn Taahir called him a Kadhaab.<br /><br /> For details see Silsilah Ahadeeth Ad-Da’eefah of Imaam Al-Albaanee (Rahimahullah) [(no. 975) 2/404-406]<br /><br /><!-- m --><a class="postlink" href="http://www.salafiri.com/are-our-deeds-presented-to-our-dead-relatives/">http://www.salafiri.com/are-our-deeds-p ... relatives/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Wed Jan 25, 2017 9:39 pm</p><hr />
+]]></content>
+</entry>
+</feed>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=9&amp;t=1194" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-03-03T17:19:53+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=9&amp;t=1194</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-03-03T17:19:53+01:00</updated>
+<published>2017-03-03T17:19:53+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1194&amp;p=1260#p1260</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1194&amp;p=1260#p1260"/>
+<title type="html"><![CDATA[In What Adhaan Should The Saying “Prayer Is Better Than Sleep” Be Stated?]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1194&amp;p=1260#p1260"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal">In What Adhaan Should The Saying “Prayer Is Better Than Sleep” Be Stated?</span></strong><br /><em>Shaykh al-Albaani Rahimahullah [1420H]</em><br /><br />[27] <strong><span style="color: #0000FF">Question:</span></strong> Is the tathweeb (i.e. saying &quot;Prayer is better than sleep&quot; twice) for the Fajr prayer to be done in the first Adhaan or the second one?<br /><br /><strong><span style="color: #0000FF">Answer:</span></strong> The <em>tathweeb</em> is to be done in the first <em>Adhaan</em> as is clearly indicated in the authentic hadeeth reported by An-Nasaa'ee and Ibn Khuzaimah. And it has a supporting evidence in the hadeeth of Ibn 'Umar, radyAllaahu 'anhumaa, that the <em>tathweeb</em> used to be done in the first Adhaan during the lifetime of Allaah's Messenger, sallAllaahu 'alayhi wa sallam. This is the understanding we get from the reports.<br /><br />And this aspect of the Sunnah is further supported by investigating and looking towards the wisdom behind saying this sentence (of <strong><em>&quot;Prayer is better than sleep&quot;</em></strong>). This is since the purpose of the first <em>Adhaan</em> is to wake up the person that is sleeping and to indicate to the person that is fasting that he must finish his pre-dawn meal (<em>suhoor</em>), as is established on the Messenger of Allaah, sallAllaahu 'alayhi wa sallam, that he said: &quot;<strong><span style="color: #0000FF">So eat and drink until Ibn Umm Maktoom makes the Adhaan.</span></strong>&quot; And he was a blind man that would not call the Adhaan until some people said to him: &quot;<strong><span style="color: #0000FF">The morning is here, the morning is here…</span></strong>&quot;<br /><br />So here it is proper for the <em>mu'adhin</em> to say, &quot;Prayer is better than sleep&quot; in the first <em>Adhaan</em> since some people will still be sleeping. So it would be said to them: &quot;Prayer is better than sleep.&quot; But as for after the people have woken up and set out for the masjid, then what is the need for saying to them &quot;<strong><em>Prayer is better than sleep?!</em></strong>&quot; For those who were at one point sleeping, have already awoken. For this reason, placing the <em>tathweeb</em> in the second <em>Adhaan</em> is in contradiction to the wisdom behind the prescription of this phrase. And you will find both the narrations and the interpretations in accordance to this, clarifying that this phrase of &quot;Prayer is better than sleep&quot; is only to be said in the first <em>Adhaan</em> and not the second one.<br /><br />In spite of this, it is from the unfortunate circumstances, that we see people in our time doing the<br /><br />opposite of this aspect of the Sunnah. So it is upon the callers of the Sunnah to direct and guide the people concerning this matter, in a way that is best. This is so that the atmosphere could be made ripe for the acceptance of this aspect of the Sunnah, as it was during the time of Allaah's Messenger, sallAllaahu 'alayhi wa sallam.<br /><br /><strong><em>[[b]<span style="color: #0000FF">Al-Asaalah</span></strong>, Issue #17]</em>[/b]<p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Fri Mar 03, 2017 4:19 pm</p><hr />
+]]></content>
+</entry>
+</feed>

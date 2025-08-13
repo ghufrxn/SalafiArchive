@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=13&amp;t=839" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-12-15T11:05:26+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=13&amp;t=839</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-12-15T11:05:26+01:00</updated>
+<published>2016-12-15T11:05:26+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=839&amp;p=883#p883</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=839&amp;p=883#p883"/>
+<title type="html"><![CDATA[What is the difference between al-Bid‘ah al-Mufassiqah (Bidah of Faasiq) and al-Bid‘ah al-Mukaffirah (Bidah of Kufr)?]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=839&amp;p=883#p883"><![CDATA[
+<strong><span style="font-size: 150%; line-height: normal"><span style="color: #0000FF"><a href="http://salaf-us-saalih.com/2013/10/12/what-is-the-difference-between-al-bidah-al-mufassiqah-bidah-of-faasiq-and-al-bidah-al-mukaffirah-bidah-of-kufr-shaykh-ahmad-baazmool/" class="postlink">What is the difference between al-Bid‘ah al-Mufassiqah (Bidah of Faasiq) and al-Bid‘ah al-Mukaffirah (Bidah of Kufr)? – Shaykh Ahmad Baazmool</a></span></span></strong><br /><br /><strong>He says: “What is the difference between al-Bid‘ah al-Mufassiqah and al-Bid‘ah al-Mukaffirah?</strong><br /><br />[<a href="http://salaf-us-saalih.com/2013/10/12/questions-answers-regarding-manhaj-methodology-shaykh-ahmad-baazmool/" class="postlink">Shaykh Ahmad Baazmool</a>] :<br /><br /><strong><span style="color: #0000FF">Al-Bid‘ah al-Mufassiqah</span></strong> is the [innovation] that doesn’t make the person who performs it leave the Religion, like the bid‘ah (innovation) of al-Ashaa‘irah, al-Murji’ah and the likes.<br /><br />As for <strong><span style="color: #0000FF">al-Bid‘ah al-Mukaffirah</span></strong>, then the person who performs it falls into one of the Nawaaqid (nullifiers) of the Religion, like the statement of al-Jahmiyyah that the Qur’aan is created, and like the statement of al-Ittihaadiyyah and al-Hulooliyyah that Allaah incarnates and unites in His creation or that the whole existence united and appeared in Allaah, the Mighty and Majestic. These are beliefs of kufr (disbelief), while notifying about that which the Scholars notified about&#058; that this is a general ruling, and applying this ruling requires returning to the Scholars and their implementation. Applying it requires returning to the Scholars, and they look to the circumstances of the issue and the ruling on each individual according to what the principles of the Sharee’ah necessitate.<br /><br /><em>However, as a general ruling and general differentiation: al-Bid‘ah al-Mufassiqah does not make the person who performs it – by word or deed – leave the Religion. As for al-Bid‘ah al-Mukaffirah, then the ruling on the person who performs it is that he is a disbeliever.</em><br /><br /><span style="text-decoration: underline">Another notification:</span><br /><br /><em>al-Bid‘ah al-Mufassiqah means – according the Scholars – that the innovators are not Saalihoon (pious, righteous people), rather they are fasaqah (disobedient, rebellious people) from the wicked fussaaq (disobedient, rebellious people). This is why some people say to you, “So and so is a person of innovation, but he is Saalih(righteous) and Taqiy (Godfearing).” We say to you, “You are wrong! As long as he is an innovator, he fell into innovation and the Scholars declared him an innovator, then he is faasiq (disobedient, rebellious).” Na‘am.</em><br /><br />Source: <!-- m --><a class="postlink" href="http://salaf-us-saalih.com/2013/10/12/what-is-the-difference-between-al-bidah-al-mufassiqah-bidah-of-faasiq-and-al-bidah-al-mukaffirah-bidah-of-kufr-shaykh-ahmad-baazmool/">http://salaf-us-saalih.com/2013/10/12/w ... -baazmool/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Thu Dec 15, 2016 10:05 am</p><hr />
+]]></content>
+</entry>
+</feed>

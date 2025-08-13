@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=50&amp;t=1331" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-03-24T22:45:54+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=50&amp;t=1331</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-03-24T22:45:54+01:00</updated>
+<published>2017-03-24T22:45:54+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1331&amp;p=1415#p1415</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1331&amp;p=1415#p1415"/>
+<title type="html"><![CDATA[The Believer Striking a Balance Between Excessive Socialising and Total Isolation]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1331&amp;p=1415#p1415"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal">The Believer Striking a Balance Between Excessive Socialising and Total Isolation</span></strong><br /><br /><strong><span style="color: #0000FF">Question:</span></strong><br />Which of the two are better for a person; being secluded or mixing with the people?<br /> <br /><br /><strong><span style="color: #0000FF">Answer:</span></strong><br />Then this is an issue in which the people have disagreed concerning, disagreement being either in its entirety or disagreement of its present state. The reality of the matter is that: mixing is at times obligatory or recommended. The individual may be commanded with mixing with the people on occasions yet on other occasions (commanded) with seclusion. What comprises this is that; in the issue of mixing, if there is found in it co-operation upon righteousness and Taqwaa then it is something that he has been commanded with. And if there is found in it the co-operation of sinfulness and transgression then it is something that he has been prohibited from.<br /><br />So the mixing with the Muslims in the types of worship such as the five daily prayers and the Friday prayer and the two ‘Eids and the eclipse prayer and the prayer for rain and the like, then that is from that which Allaah and His Messenger have commanded.<br /><br />Likewise mixing with them during the Hajj and when making military expeditions against the disbelievers and the renegade Khawaarij, even if the leaders be evil-doers, and even if there are in those groups evil-doers.<br /> <br />Likewise in the gatherings in which the servant increases through them in Eemaan, whether it is for his own taking benefit from them or his giving benefit with regards to them or his giving benefit with regards to them and its like.<br /> <br />Yet there are times in which the servant must retire and be secluded, at times of his supplication and his remembrance and his prayer and his contemplation and his reckoning of his self and rectification of his heart. As well as the affairs which are particular to him in which no one else partakes in other than him. So these require for him to be alone – by himself, either: In his home as was mentioned by Tawoos:<br /><br />‘What an excellent cell/hermitage is the home of a man; he restrains in it his sight and his tongue.’ <br /><br />Or in other than his home.<br /><br />Thus the choice of absolute mixing/socialising is an error; and the choice of absolute isolation/seclusion is also an error. <br /><br />As for the degree of what each individual requires from this and that, as well as that which is more beneficial for him in every circumstance;* then this requires its own particular review – as has preceded.<br /><br />________<br /><br />* Wahb bin Munabbih (rahimahullaah) said: 'The believer socialises - in order to know; and is silent - in order to be safeguarded; and speaks - in order to understand; and secludes away - in order to become enriched.'<br /><br />[See siyar A'laam an-nubalaa vol.4 page 551] (Translators note)<br /><br />Shaykh ul-Islaam Ibn Taymiyyah<br /><br />Majmoo' al-fataawaa Shaikh ul Islaam Ibn Taymiyyah vol 10 pages 425-426<br /><br />Translated by Aboo Haatim Muhammad Farooq<p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Fri Mar 24, 2017 9:45 pm</p><hr />
+]]></content>
+</entry>
+</feed>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=11&amp;t=912" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-12-29T12:46:30+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=11&amp;t=912</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-12-29T12:46:30+01:00</updated>
+<published>2016-12-29T12:46:30+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=912&amp;p=956#p956</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=912&amp;p=956#p956"/>
+<title type="html"><![CDATA[Shaikh Muqbil About Imaams Badee’ud-Deen ar-Raashidi, Al-Albaani, Ibn Baaz, al-Mu’allimi, Ehsan Elahi Zaheer.]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=912&amp;p=956#p956"><![CDATA[
+<strong><span style="color: #0000FF"><span style="font-size: 150%; line-height: normal">Shaikh Muqbil About Imaams Badee’ud-Deen ar-Raashidi, Al-Albaani, Ibn Baaz, al-Mu’allimi, Ehsan Elahi Zaheer and Blind-Following Them | Shaikh Muqbil’s Humility</span></span></strong><br /><br />Shaikh Muqbil, may Allaah have mercy on him, said about the following when most of them were alive, “As for Shaikh Badee’ud-Deen ar-Raashidi [d. 1996] then he is from our Shaikhs and I attended a dars or two or three of his, may Allaah the Most High protect him—<strong><span style="color: #0000FF">and he is regarded as an Imaam of Ahlus-Sunnah</span></strong>, may Allaah reward him with good, and he hates blind-following and blind-followers and repels them.<br /><br />And also likewise is the Shaikh Naasirud-Deen al-Albaani, may Allaah the Most High protect him, <strong><span style="color: #0000FF">he is regarded as an Imaam of Ahlus-Sunnah</span></strong>, and we advise all of our brothers to obtain his books and benefit from them.<br /><br />And likewise also is the Shaikh ’Abdul-’Aziz ibn Baaz, may Allaah the Most High protect him, <span style="color: #0000FF"><strong>he is regarded as one of the Imaams of Ahlus-Sunnah</strong></span> and a champion of the Sunnah of Allaah’s Messenger صلى الله عليه وعلى آله وسلم …<br /><br />… as for ’Abdur-Rahmaan ibn Yahyaa al-Mu’allimi [d. 1966] then the likes of him are few in this time, and his books, if you read his book, ‘At-Tankeel bimaa fee Ta’neeb al-Kawthari minal-Abaateel,’ you will see a wonder of wonders as regards his patience and tolerance in his refutation of al-Kawthari, and some people have called him <strong><span style="color: #0000FF">the Dhahabi of his time</span></strong>, so alhamdulillaah his books are beneficial and his style is easy.<br /><br />Ehsan Elahi Zaheer [d. 1987] also, Allaah unleashed him on the Raafidah and on the Shee’ah and so he exposed them—<strong><span style="color: #0000FF">and he is regarded as a champion of the Sunnah</span></strong> of Allaah’s Messenger صلى الله عليه وعلى آله وسلم … and … it is proper that these people should be asked about me and not me of them—because they are the Imaams of this time, may Allaah reward them with good.<br /><br /><span style="color: #0000FF"><strong>And when we say so and so and so and so from these people [mentioned above], I do not mean that you blindly follow [taqleed] them—so do not blindly follow Badee’ud-Deen nor al-Albaani and nor Ibn Baaz and nor so and so and nor so and so, these people are our Imaams, but if we were going to blind follow them, then we would have blindly followed Abu Bakr and ’Umar and ’Uthmaan and whoever traversed upon their way</strong></span> …”<br /><br />Ijaabatus-Saa‘il ’alaa Ahammil-Masaa‘il, p. 494.<br /><br />Source: <!-- m --><a class="postlink" href="https://shaikhalbaani.wordpress.com/2013/10/30/shaikh-muqbil-about-imaams-badeeud-deen-ar-raashidi-al-albaani-ibn-baaz-al-muallimi-ehsan-elahi-zaheer-and-blind-following-them-shaikh-muqbils-humility/">https://shaikhalbaani.wordpress.com/201 ... -humility/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Thu Dec 29, 2016 11:46 am</p><hr />
+]]></content>
+</entry>
+</feed>

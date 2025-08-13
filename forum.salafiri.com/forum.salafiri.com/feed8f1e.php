@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=8&amp;t=738" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-11-29T00:33:04+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=8&amp;t=738</id>
+<entry>
+<author><name><![CDATA[AbuKhuzaimahAnsari]]></name></author>
+<updated>2016-11-29T00:33:04+01:00</updated>
+<published>2016-11-29T00:33:04+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=738&amp;p=782#p782</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=738&amp;p=782#p782"/>
+<title type="html"><![CDATA[BACK TO BASICS - Correcting the Erroneous Speech of Yasir Qadhi on Umar bin al-Khattab RadiAllahu Anhu]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=738&amp;p=782#p782"><![CDATA[
+<span style="font-size: 150%; line-height: normal">The american 'Scholar' Yasir Qadhi who is fond of telling people to stay in their lanes after having already crashed out!!!!<br /><br />he says in his infamous lecture titled, 'Towards an Ecumenical Conception of Salafiyyah'<br /><br /><strong><em><blockquote class="uncited"><div><br />&quot;Salafis need to realise, i'm going to be very blunt here, that if Umar Ibn al-Khattaab was amongst us right now and they gave him a quiz of aqeedah, the fact of the matter is, that the test you put in front him, he would fail it&quot;<br /></div></blockquote></em></strong> [Towards an Ecumenical Conception of Salafiyyah, Min. 34, Sec. 19+]<br /><br />and Yasir Qadhi says <br /><br /><em><strong><blockquote class="uncited"><div><br />&quot;If you were to ask `Umar about the realities of Eeman, about the pillars of Eeman he would not be able to answer it&quot;<br /></div></blockquote></strong></em>[Towards an Ecumenical Conception of Salafiyyah, Min. 39, Sec. 15+]<br /><br /><!-- m --><a class="postlink" href="https://www.youtube.com/watch?v=bdNOZOBjWuY">https://www.youtube.com/watch?v=bdNOZOBjWuY</a><!-- m --><br /><br /><strong>ANSWER</strong><br />This is a treacherous and slanderous lie on the Illustrious Companion, the Rightly guided Khaliph and the one who was promised paradise, and his virtues surpass the realm of any writing or discourse. Mr Yasir Qadhi questions if Umar ibn Khattab RadiAllahu Anhu would have known the realities of Iman and thereby trivialising the core aspects and belief system of Ahl al-Sunnah- yes the Salafis<br /><br />This is one of the earliest treatises on Creed and low and behold it was by Umar bin al-Khattab RadiAllahu Anhu on the Issue of Qadr i.e. Faith in Predestination which is a fundamental aspect of Iman and Aqidah. This discussions does not warrant any lengthy discussion or explanation because the reality and level of knowledge of the said individual is clear and manifest. We hope the sincere and honest reader is at least honest and sincere to his soul and acknowledges the truth about these fundamental issues rather than taking from the so called 'western scholar', who let alone knows how to stay in his own lane but rather actually crashed out a while back but has the insolence to say otherwise.<br /><br />This treatise is authentic with an authentic chain from Imam Ibn Mandah (d.470) back to Umar ibn al-Khattab RadiAllahu Anhu which he cites in his book <strong><em>'al-Radd Ala Man Yaqul Alif Lam Mim Harf</em></strong> (no.35) and the manuscript is in Maktabah al-Zahiriyyah in Damascus (no 101)</span><dl class="file"><dt class="attach-image"><img src="https://forum.salafiri.com/download/file.php?id=78" class="postimage" alt="047e9b38-d777-4e1c-aafb-ee7c86604f13.jpg" onclick="viewableArea(this);" /></dt></dl><br /><dl class="file"><dt class="attach-image"><img src="https://forum.salafiri.com/download/file.php?id=77" class="postimage" alt="04239381-1a2d-4333-8b9f-8b626edf6569.jpg" onclick="viewableArea(this);" /></dt></dl><br /><dl class="file"><dt class="attach-image"><img src="https://forum.salafiri.com/download/file.php?id=76" class="postimage" alt="e73c1134-508b-48fe-b909-5e0bb9263d1c.jpg" onclick="viewableArea(this);" /></dt></dl><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=48">AbuKhuzaimahAnsari</a> — Mon Nov 28, 2016 11:33 pm</p><hr />
+]]></content>
+</entry>
+</feed>

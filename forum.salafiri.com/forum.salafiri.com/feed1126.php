@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=47&amp;t=1523" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-10-11T20:38:46+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=47&amp;t=1523</id>
+<entry>
+<author><name><![CDATA[SUNNAH MARRIAGE UK]]></name></author>
+<updated>2017-10-11T20:38:46+01:00</updated>
+<published>2017-10-11T20:38:46+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1523&amp;p=1632#p1632</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1523&amp;p=1632#p1632"/>
+<title type="html"><![CDATA[REVERT sister]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1523&amp;p=1632#p1632"><![CDATA[
+M A R R I A G E PROFILE ----&gt;&gt; <br /><br />(Candidate 1927)<br /><br />*** FEMALE ***<br /><br />Age<br /> 32  <br /><br />Location<br /> Buckinghamshire <br /><br />Height<br /> 5ft 6&quot;  <br /><br />Ethnicity<br /> African<br /><br />Nationality<br /> I\&quot;m a uk citizen<br /><br />Build<br /> Slim<br /><br />Marital Status<br /> Divorced with one child<br /><br />Work<br /> Not working at the moment<br /><br />Polgamy<br /> I am willing to accept polygamy<br /><br />Inshaallah I would consider a proposal from: <br /> • reverts <br /> • Muslims since birth  <br /><br />Preferred ethnicity: <br /> open to all ethnicities <br /><br />Practice of Islam/Sect:<br /> Sunni <br /><br />Preferred age range<br /> 32-40 <br /><br />Thoughts on relocation<br /> I am willing to recolcate <br /><br />Interests/Other info <br />  Assalamu alaikum rahmatulahi wa barakatu<br /><br />I am 32 years of age,  Alhamdulilah I accepted the deen ten years ago i was born and raised in London but now live outside of london. <br />My priority in life is Islam and seeking the pleasure of Allah (SWT) and implementing the Sunnah to the best of my ability. My previous marriage ended in divorce nonetheless Allah blessed me with  girl who is now one years old. I spend the majority of my time at home with my daughter and would describe myself as a family orientated person.   I studied Journalism at university and feel as though this has helped me to contextualise allot of problems that face the ummah today, in addition to giving me an added platform to give my family dawah when discussing current affairs. I take pride in my appearance and looking after those close to me. I enjoy reading the Quran on a daily basis as it enables me keep a connection with Allah swt thus reminding me of my purpose. I love cooking and discussing topics that are related to the deen. I am very outgoing and generally easy to get a long with and have a fun sense of humour<br /><br />Our Prophet (PBUH) told us that marriage is half our deen and though this has been construed differently it has personally highlighted the importance of this union to me.  I see marriage as the next logical step in gaining the pleasure of Allah (SWT) and in reflection of the great examples of Muslim women who were all mothers or wives I do not believe that I can gain greater benefit than through this. <br /><br />*** B E N E F I C I A L *** <br /><br /> OVER 2200 MARRIAGE seekers from various :: <br /><br />• Ages<br />• Ethnicities<br />• Professions<br />• Inc. REVERTS<br />• Regions of the UK<br /><br /># Access to database<br /># No MONTHLY Fees<br /># QUALITY service <br /># Islamic process<br /># Confidential<br /><br />&lt;&lt; ALHAMDULILLAH a few successful marriages have been accomplished &gt;&gt; <br /><br />REGISTER ----&gt;&gt;&gt;<br /><!-- w --><a class="postlink" href="http://www.sunnahmarriageuk.co">www.sunnahmarriageuk.co</a><!-- w --><br /><br />TEXT:<br /> 07900 247 837<br /><br />[ S H A R E ]<br /><br />Jazaak&quot;Allahu Khair !<br /><br />Sample PROFILES can be viewed using -----&gt;&gt;&gt;&gt;<br /><br /><!-- m --><a class="postlink" href="https://telegram.me/sunnahmarriage">https://telegram.me/sunnahmarriage</a><!-- m --> <br /><br /> <!-- m --><a class="postlink" href="http://www.sunnahmarriageuk.co/">http://www.sunnahmarriageuk.co/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=104">SUNNAH MARRIAGE UK</a> — Wed Oct 11, 2017 8:38 pm</p><hr />
+]]></content>
+</entry>
+</feed>

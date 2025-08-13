@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=20&amp;t=78" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-08-24T23:48:02+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=20&amp;t=78</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-08-24T23:48:02+01:00</updated>
+<published>2016-08-24T23:48:02+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=78&amp;p=82#p82</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=78&amp;p=82#p82"/>
+<title type="html"><![CDATA[Position of Shaykh Ibn Uthaymeen on Tableegh Jamaa’ah &amp; Ikhwaan-ul-Muslimeen]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=78&amp;p=82#p82"><![CDATA[
+<strong>Abdullaah Ibn Zaid Hammaad Al-Musallim relates:</strong> All Praise is for Allaah, the Lord of all the worlds. And may abundant Salaah and Salaam be upon the one who was sent as a mercy to all the worlds and upon his family and companions of gracious personality, and upon those who follow them in goodness until the Day of Judgment.<br /><br /><strong>As for what proceeds:</strong><br /><br />So indeed we were in a gathering with our Shaykh, the extremely learned Muhammad Ibn Saalih Al-­‐Uthaymeen (may Allaah have mercy upon him) with a group of students of knowledge and those involved in propagation . We would read from some of the books and benefit from his explanations and his sound views (may Allaah have mercy on him). So I asked him, whilst heard by all, this question:<br /><br />Our Shaykh, May Allaah protect you, are the Tableegh Jamaa’ah<em>[1]</em> and the Ikhwaan-ul-Muslimeen<em>[2]</em> from the Ahlus-Sunnah (Wal-Jamaa’ah)<em>[3]</em>, or from the people of innovation?<br /><br />So he replied (may Allaah have mercy on him and cause him to reside in His spacious gardens of Paradise) with one utterance without anything more or less:<br /><br />‘The Tableegh Jamaa’ah and Ikhwaan are from the people of innovation’.<br /><br />So one of those present asked: Oh Shaykh, if I say ‘indeed Tableegh Jamaa’ah’, and one only asked about Tableegh Jamaa’ah, then I say ‘Indeed they are an innovative group (I.e. from the people of innovation)’, then whoever is by me in the gathering will say ‘Are you an innovator?’<br /><br />So the Shaykh (may Allaah grant him forgiveness) said to him asking: ‘Are you from amongst them?’<br /><br />So he replied: ‘No no oh Shaykh I am not from them (in words used in local dialect).’<br /><br />Then another asked him: ‘Oh Shaykh, if one is affected by the Ikhwaan (‐ul-Muslimeen) then is he considered to be from amongst them?<br /><br />So before answering him the Shaykh said: ‘Like what for example?’ Then he said: ‘Like if one was affected by them in the issue of Al-Haakimiyyah (Islamic rulership and governance)’. So the Shaykh (may Allaah have mercy on him) said: ‘Yes, he will be considered to be from them’.<br /><br /><strong>This Fatwa is signed by the one who relates it, Dr Abdullaah Ibn Zaid Hammaad Al-Musallim – Member of the Teaching Authority, Al-Qaseem University, KSA. 5th Jumaadaa Al-Ukhraa 1421 Hijri Translated by Markaz-us-Sunnah Leicester</strong><br /><br /><strong>Footnotes:</strong><br /><br /><strong>{1}</strong> Tableegh Jamaa’ah are a group founded in the Indian subcontinent in the 1920’s for the purpose of calling Muslims to the religion again. They hold the Sufi creed of the Deobandee elders and are strict followers of the Hanafee school of Jurisprudence.<br /><br /><strong>{2}</strong> Ikhwaan-ul-Muslimeen, also founded in the 1920’s, are a primarily political activism based group who unite Muslims of all sects despite often disagreeing with their creed, in uprisings and political endeavors both Islamically correct and incorrect.<br /><br /><strong>{3}</strong> The authentic and correct sect of Muslims, those who follow the way of the Prophet (Sallallaahu Alayhi wa Sallam) and his companions and their students.<p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Wed Aug 24, 2016 11:48 pm</p><hr />
+]]></content>
+</entry>
+</feed>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=46&amp;t=476" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-09-30T14:36:02+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=46&amp;t=476</id>
+<entry>
+<author><name><![CDATA[SRI]]></name></author>
+<updated>2016-09-30T14:36:02+01:00</updated>
+<published>2016-09-30T14:36:02+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=476&amp;p=506#p506</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=476&amp;p=506#p506"/>
+<title type="html"><![CDATA[What Do You Know About The Qasidah al-Burdah - Shaikh Muhammad Jamil Zino (1431H)]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=476&amp;p=506#p506"><![CDATA[
+To order<br /><br /><!-- m --><a class="postlink" href="http://www.salafiri.bigcartel.com/product/what-do-you-know-about-the-qasidah-al-burdah-shaikh-muhammad-jamil-zino-1431h">http://www.salafiri.bigcartel.com/produ ... zino-1431h</a><!-- m --><br /><br />Shaikh Muhammad Jamil Zino (1431H) is well known in the circles of knowledge. He has produced some outstanding works on Aqidah and thereby clarifying and purifying the evil beliefs that have crept into the Muslim Ummah by the way of ignorance and blind following.<br /><br />The Qasidah Burdah, commonly known as the Poem of the scarf is widespread and is often recited with great veneration in praise of Muhammad (ﷺ). In doing so the poem has some grave mistakes in belief which are extremely dangerous for the Muslim and his afterlife. It is such that it may lead a Muslim into the Fire of Hell forever and therefore it is mandatory to really understand the reality of this poem and what it entails from shirk ie polytheism.<br /><br />The poem is often and usually recited by the Sufis in their gatherings, especially in their annuals gatherings of Milad and other celebrations ie Urs.<br /><br />The Shaikh Rahimahullah deals with the grave mistakes in the book and highlights its opposition to the belief system of Ahl al-Sunnah wa'l Jama'ah. The Shaikh brings evidences from the Quran and Sunnah to expound the correct belief with the intent of helping the Muslims to safeguard their Aqidah.<br /><br /><br />ABOUT THE AUTHOR<br />This treatise is special in that Shaikh Muhammad Jamil Zino used to be a Sufi and spent many years with the different Sufi Tariqahs and thus knows their belief system first hand. Allah guided him to the Aqidah and Manhaj of Ahl al-Sunnah when he first sat in a lesson of Shaikh Muhammad Nasir al-Din al-Albani the Salafi Hadith Master.<br /><br />Thereafter the Shaikh, who is of Syrian descent further studied the Islamic Sciences and eventually taught at the Dar al-Hadith in Makkah whih was set up by the late Indian Hadith Master Shaikh Ahmad Dehlwi. The Shaikh has numerous beneficial books some of which have been translated into English and other languages.<br /><br />You can read more about the biography of Shaikh Muhammad Jamil Zino and the time he spend with other sects and how he was eventually guided to the way of Ahl al-Sunnah wa'l Jama'ah.<br /><br />Part 1<br /><!-- m --><a class="postlink" href="http://www.salafiri.com/auto-biography-how-i-was-guided-to-tawhid-the-straight-path-shaikh-muhammad-ibn-jamil-zeno-1431h/">http://www.salafiri.com/auto-biography- ... eno-1431h/</a><!-- m --><br /><br />Part 2<br /><!-- m --><a class="postlink" href="http://www.salafiri.com/auto-biography-how-i-was-guided-to-tawhid-the-straight-path-shaikh-muhammad-ibn-jamil-zeno-1431h-part-2/">http://www.salafiri.com/auto-biography- ... 1h-part-2/</a><!-- m --><br /><br />more parts can be found on <!-- w --><a class="postlink" href="http://www.salafiri.com">www.salafiri.com</a><!-- w --><br /><br />Markaz al-Sunnah<br />pp.32<dl class="file"><dt class="attach-image"><img src="https://forum.salafiri.com/download/file.php?id=50" class="postimage" alt="The-Qasidah-al-Burdah-The-Poem-of-the-Scarf- forum.jpg" onclick="viewableArea(this);" /></dt></dl><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=49">SRI</a> — Fri Sep 30, 2016 2:36 pm</p><hr />
+]]></content>
+</entry>
+</feed>

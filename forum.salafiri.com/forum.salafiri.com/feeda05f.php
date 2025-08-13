@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=50&amp;t=1121" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-02-14T00:29:03+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=50&amp;t=1121</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-02-14T00:29:03+01:00</updated>
+<published>2017-02-14T00:29:03+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1121&amp;p=1186#p1186</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1121&amp;p=1186#p1186"/>
+<title type="html"><![CDATA[Obeying Governments &amp; Authorities - Shaykh ‘Abd al-Aziz Ibn Baz [1420H]]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1121&amp;p=1186#p1186"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal">Obeying Governments &amp; Authorities</span></strong>[1]<br /><br /><strong><span style="color: #0000FF">Question:</span></strong> Some people – may Allah guide them – do not believe the pledge of obedience and allegiance to the governments to be an obligation in these countries. What’s your advice regarding this?<br /><br /><strong><span style="color: #0000FF">Answer:</span></strong> We advise everyone to listen to and obey them as we’ve previously and always said. We warn against rebelling and revolting against any of the leaders in authority; these are some of the greatest sins. Rather, they are from the religion of the Khawarij.<br /><br />This is the religion of the Khawarij and Mu’tazilah; they reject the command to listen to and obey the leaders if they see them commit a sin, eventually opposing and rising up against them. This is wrong and contradictory to what the prophet (صلى الله عليو ومل) commanded. He ordered that one must listen to and obey the leaders in the good they command. He said:<br /><br />“Whoever sees from his leader something of disobedience to Allah, then he should dislike what he does of sinning against Allah, but he must not remove even a hand-span away from obedience (to him).”[2]<br /><br />And he ( صلى الله عليو ومل ) said:<br /><br />“Whoever comes to you while you are all in a state of unity and he seeks to cause rebellion and tries to divide you, then (the legitimate ruler could) execute him.”[3]<br /><br />So, it is not permissible for an individual to revolt against or leave the allegiance and obedience to his legitimate leader (government, president, king, etc). Neither is it permissible to promote such concepts because these acts are some of the greatest evils and foremost means leading to tribulations and enmity among people. As for the one who calls to that, this is the religion of the Khawarij. Such a person deserves capital punishment because he disunites the people and thereby plants the beginnings of a revolution. It is an obligation to warn with the utmost effort against this. It is also an obligation upon the leader of affairs that if he comes to know of someone promoting this ideology, he must forcefully apprehend him in order to prevent further calamities among the Muslims.[4]<br /><br /><strong><span style="color: #0000FF">Source:</span></strong> <!-- m --><a class="postlink" href="http://www.authentic-translations.com/">http://www.authentic-translations.com/</a><!-- m --><br /><br /><strong><span style="color: #0000FF">Footnotes:</span></strong><br />[1] This fatwa was taken from a book called “Al-Fatawa Ash-Shar’iyyah fi Al-Qadhaya Al-‘Asriyyah,” a collection of various rulings by Muhammad Ibn Fahd Al-Husayn.<br /><br />[2] Recorded by Muslim (no. 1855) from the hadith of ‘Awf Ibn Malik al-Ashja’i (RadhiAllahu Anhu).<br /><br />[3 Recorded by Muslim (no. 1852) from the hadith of ‘Arfajah Ibn Shurayh (RadhiAllahu Anhu). Also, like many other legislations in the Quran and Sunnah, this is a conditional, legitimate capital punishment verdict to be determined and carried out by legitimate leaderships or governments, not unconditionally by individuals.<br /><br />[4] Taken from the casette: Ahdaf al-Hamalat al-‘Ilamiyyah Did Wulah wa ‘Ulama’ Bilad al-Haramayn.<p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Mon Feb 13, 2017 11:29 pm</p><hr />
+]]></content>
+</entry>
+</feed>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=6&amp;t=553" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-10-30T00:40:41+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=6&amp;t=553</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-10-30T00:40:41+01:00</updated>
+<published>2016-10-30T00:40:41+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=553&amp;p=595#p595</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=553&amp;p=595#p595"/>
+<title type="html"><![CDATA[Surah al-Nisa' 4:129 - Tafsir al-Sa’di]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=553&amp;p=595#p595"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal"><span style="color: #0000FF">Tafsir al-Sa’di - Imam al-Sa'di</span></span></strong><br /><br /><strong><span style="color: #800080">Surah al-Nisa' 4:129</span></strong><br /><br /><strong><em>&quot;You will never be able to do perfect justice between your wives, even if it is your ardent desire, so do not incline too much to one of them leaving the other suspended [between divorce and marriage]. If you do all that is right and fear Allah, then Allah is Most Forgiving, Most Merciful.&quot;</em></strong><br /><br /><br />Allah here informs that husbands <strong><span style="color: #FF0000">will never be able to do perfect justice between their wives</span></strong>. It is not within their power or capacity to perform perfect justice, because for the observance of equitability it is essential that they have equal feelings of love, affection, and fondness for all their wives and then act according to the demands of these feelings. Since this is impossible and impractical, and is not within the capability of a human being, so Allah has forgiven it and has prohibited them from trying to perform what is not within their power. Thus, Allah decrees, <strong><span style="color: #FF0000">so do not incline too much to one of them so as to leave the other suspended</span></strong>, that is, do not have too much affection toward one to the extent of not discharge the rights of the other wives, which is essential upon you. Rather, observe balance and equitability as far as is within your power. Therefore, [equitably] provide the basic necessities, such as living allowance, clothing, housing, and sleeping with them, etc. which are matters that are mandatory on you. On the contrary, it is not possible to be equitable and to do justice with all your wives in matters of love and coitus.<br /><br />Hence, when a husband stops discharging those rights of a wife that are obligatory on him, then she becomes similar to a suspended woman who does not have a husband from whom she can derive comfort and discharge of her matrimonial rights, nor is she like the wife who has a husband to take care of her rights. <strong><span style="color: #FF0000">If you do all that is right</span></strong>, that is, being judicious and controlling your evil self and compelling it to discharge the rights due to your wife―as well as other matters that are pending between you and others or be a mediator between them to solve their disputes. This indicates that every possible effort should be made and every step taken to attain peace. <span style="color: #FF0000"><strong>Fear Allah</strong></span>, that is, be fearful of Allah while obeying His commandments and refraining from His prohibitions, and observe steadfastness as much as is within your capacity. <span style="color: #FF0000"><strong>Allah is Most Forgiving, Most Merciful</strong></span>; indeed Allah will forgive all the sins you have committed and will overlook your mistakes; just as you treated your wives with kindness and affection, so will Allah treat you with benefaction and kindness.<br /><br />Source: <!-- m --><a class="postlink" href="http://www.ilfpress.com/blog/tafsir-al-sadi-al-nisa-4129">http://www.ilfpress.com/blog/tafsir-al- ... -nisa-4129</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Sun Oct 30, 2016 12:40 am</p><hr />
+]]></content>
+</entry>
+</feed>

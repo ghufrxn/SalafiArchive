@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=19&amp;t=1033" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-01-27T23:00:53+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=19&amp;t=1033</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-01-27T23:00:53+01:00</updated>
+<published>2017-01-27T23:00:53+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1033&amp;p=1092#p1092</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1033&amp;p=1092#p1092"/>
+<title type="html"><![CDATA[The famous Soofee leader – as-Sayyid Ahmad ar-Rifa’i – Shaikh Abdul Aziz ibn Abdullah ibn Baz [1420H]]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1033&amp;p=1092#p1092"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal">The famous Soofee leader – as-Sayyid Ahmad ar-Rifa’i – Shaikh Abdul Aziz ibn Abdullah ibn Baz [1420H]</span></strong><br /><br /><strong><span style="color: #0000FF">Question:</span></strong><br /><br />What is the correct opinion about the stories narrated from one of the famous Soofee leaders, as-Sayyid Ahmad ar-Rifaa’ee, which say that he visited al-Masjid an-Nabawee (sallallahu alayhe wassallam) in Madeenah and made du’aa at his grave, and the Messenger (sallallahu alayhe wassallam) reached his hand out to him and he kissed it? This is a widespread belief among the followers of his tareeqah (sect) and it is a belief they hold firmly, even though he lived in the 6th century AH. How true is this story?<br /><br /><strong><span style="color: #0000FF">Answer:</span></strong><br /><br />This is false(hood) and has no basis of truth, because the Prophet (sallallahu alayhe wassallam) died as decreed by Allah and as Allah said:<br /><br />{Verily you (O Muhammad sallallahu alayhe wassallam) will die and verily, they (too) will die}<br />(Glorious Qur’aan: Surah Az-Zumar, 39: v30)<br /><br />According to a Saheeh hadeeth, the Prophet (sallallahu alayhe wassallam) said:<br /><br /><em><ul>«Allah has angels who travel about in the earth and convey to me the salaams (prayers and salutations) of my Ummah»</ul></em><br /><br />And he (sallallahu alayhe wassallam) said:<br /><br /><em><ul>«There is no one who sends salaams (prayers and salutations) upon me but Allah will restore my soul to me so that I may return his salaam»</ul></em><br /><br />And he (sallallahu alayhe wassallam) said:<br /><br /><em><ul>«The best of your days is Friday, so send more blessings (salaah) upon me on that day, for your blessings will be shown to me.” They said, “O Messenger of Allah, how will they be shown to you when you (your body) have disintegrated?” He said, “Allah has forbidden the earth to consume the bodies of the Prophets»</ul></em><br /><br />And there are many ahaadeeth which say similar things, but it is not narrated anywhere that the Prophet (sallallahu alayhe wassallam) said that he would shake hands with anybody. This indicates that this story is false. Even if we were to assume that it is true, then it could be that was a Shaytaan (devil) who shook hands with him in order to deceive him and lead him and others astray. What all Muslims have to do is to fear Allah and to adhere to His Sharee’ah, which is indicated in His Book and in the Sunnah of His trustworthy Messenger, and to beware of anything that goes against that.<br /><br />May Allah reform the Muslims and grant them understanding of His religion and cause them to adhere to His Sharee’ah, for He is the Most Generous.<br /><br />Majmoo’ Fataawa wa Maqaalaat Mutanawwi’ah li Samaahat ash-Shaykh al-‘Allaamah ‘Abdul-‘Azeez Ibn ‘Abdullaah Ibn Baaz – Volume 9, Page 31<br /><br /><!-- m --><a class="postlink" href="http://www.salafiri.com/the-famous-soofee-leader-as-sayyid-ahmad-ar-rifai-shaikh-abdul-aziz-ibn-abdullah-ibn-baz-1420h/">http://www.salafiri.com/the-famous-soof ... baz-1420h/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Fri Jan 27, 2017 10:00 pm</p><hr />
+]]></content>
+</entry>
+</feed>

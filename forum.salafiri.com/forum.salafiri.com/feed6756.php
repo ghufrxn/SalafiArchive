@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=8&amp;t=1329" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-03-23T20:35:43+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=8&amp;t=1329</id>
+<entry>
+<author><name><![CDATA[AbuKhuzaimahAnsari]]></name></author>
+<updated>2017-03-23T20:35:43+01:00</updated>
+<published>2017-03-23T20:35:43+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1329&amp;p=1413#p1413</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1329&amp;p=1413#p1413"/>
+<title type="html"><![CDATA[The Right Of The Messenger Of Allah [SalAllahu Alayhi Wasallam] – Shaikh Badi ud din Shah ar-Rashidi as-Sindhi (1416H)]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1329&amp;p=1413#p1413"><![CDATA[
+°After the right of Allaah is the right of the people and from the first right from the rights of the people is that of the Messenger of Allaah (sal-Allaahu ‘alayhe wa sallam). And what is his right? Then his rights are to have faith in his Prophethood, to accept this, to have certainty upon it and to follow and obey him. Allaah said,“We sent no Messenger, but to be obeyed by Allaah’s Leave…” [Soorah an-Nisaa (4):64]<br /><br />This is the right of the Messenger of Allaah (sal-Allaahu ‘alayhe wa sallam) upon us. You celebrate the (innovation of) the birthday of the Messenger of Allaah (sal-Allaahu ‘alayhe wa sallam) all month, you cook large dishes and do a number of other things.I swear by Allaah, the right of the Messenger of Allaah (sal-Allaahu ‘alayhe wa sallam) will not be fulfilled up until we obey him, adhere to his Sunnah and follow him, so all of this is the right of the Messenger of Allaah (sal-Allaahu ‘alayhe wa sallam). <br /><br />Kissing your thumbs when you hear his name is not fulfilling his rights; nor has Allaah obliged this right upon us. Rather what he has obliged upon us is to accept his commands and rulings upon hearing them.“O you who believe! Obey Allaah and His Messenger, and turn not away from him (i.e. Messenger Muhammad (sal-Allaahu ‘alayhe wa sallam) while you are hearing. And be not like those who say: ‘We have heard,’ but they hear not.”[Soorah al-Anfaal (8):20-21]<br /><br />We also say we hear but in reality we do not because we do not act according to his rulings nor do we adopt his path or fulfil his commands, so do not be like these people.<br /><br />The believer hears and obeys,“The only saying of the faithful believers, when they are called to Allaah (His Words, the Qur’aan) and His Messenger (sal-Allaahu ‘alayhe wa sallam), to judge between them, is that they say: ‘We hear and we obey.’ And such are the prosperous ones (who will live forever in Paradise).” [Soorah Noor (24):51]“…And whatsoever the Messenger (Muhammad sal-Allaahu ‘alayhe wa sallam) gives you, take it, and whatsoever he forbids you, abstain (from it),…” [Soorah al-Hashr (59):7]<br /><br />There is a hadeeth of the Messenger of Allaah (sal-Allaahu ‘alayhe wa sallam) which Imaam Tabaraanee has cited in Musnad ash-Shaamiyyeen with an authentic chain, Mu’awiyyah Ibn Sufyaan (radi-Allaahu ‘anhu) is the narrator. He says,“There are two groups of people who listen, the first are those who listen and then obey and act according to the rulings and the second group of people are those who listen and then disobey.”On the Day of Judgement there will be justice, there will be no oppression so no one will be held accountable without evidence and proof and without evidence or proof there is no salvation.<br /><br />The one who will achieve salvation will be the one with evidence and proof. So he said the one who obeys me after listening to me will have no evidence against him nor will any accusation be levelled against him. As for those who disobey me after listening to me, then there will be no evidence for their saviour.<br />So it is established, after the right of Allaah it is the right of the Messenger of Allaah (sal-Allaahu ‘alayhe wa sallam) and this right is of obeying and following him. You hear a lot about this issue so do not should not put this aside.<br /><br />■Taken from The Rights Of The Creation (pg’s.14-16)<p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=48">AbuKhuzaimahAnsari</a> — Thu Mar 23, 2017 7:35 pm</p><hr />
+]]></content>
+</entry>
+</feed>

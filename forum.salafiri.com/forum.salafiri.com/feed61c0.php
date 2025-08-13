@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=50&amp;t=950" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-01-03T23:48:35+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=50&amp;t=950</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-01-03T23:48:35+01:00</updated>
+<published>2017-01-03T23:48:35+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=950&amp;p=994#p994</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=950&amp;p=994#p994"/>
+<title type="html"><![CDATA[Islamic Ruling On The Imams Prolonging The Supplication]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=950&amp;p=994#p994"><![CDATA[
+I [Salih[1], the son of Imam Ahmad bin Hanbal] asked my father regarding pro-longing the supplication?<br /><br />He (Imam Ahmad) [2] responded: His supplication should (suffice) with those supplications that are well known[3].<br /><br /><em>Reference:  Masaa`il of Imam Ahmed bin Hanbal narrated on the authority of his son Imam Abul-Fadal, Salih bin Imam Ahmad bin Hanbal – Page 29</em><br /><br />Footnotes<br /><br />[1] Translator`s Note: He is Abul-Fadl Salih bin Imam Ahmad bin Hanbal. Born 203 AH, he narrated from his father Imam Ahmad bin Hanbal, Ali bin Al-Waleed At-Tayalsee, and Ibrahim bin Al-Fadl Az-Zaa`ri. Those who narrated from him include: His son Zuhair, Imam Abul-Qasim Al-Baghawee, and Abdur-Rahman bin Abee Haatim – also a student of Imam Salih bin Imam Ahmed bin Hanbal – when asked about him said: ‘I wrote down narrations from him in Asbahaan, and he is Thiqaah [trustworthy] and Sadooq [truthful].` Imam Saleh bin Imam Ahmed bin Hanbal died in Asbahaan, during the month of Ramadan, in the year 266 AH at the age of 63. He was buried near the, Sahabi of the Messenger of Allah Hamamah bin Abee Hamamah Ad-Dawsee. Refer to ‘At-Tabaqaat` of Imam Ibn Abee Ya`laa, volume 1/173-176.<br /><br />[2] Translator`s note: He is Ahmad bin Muhammad bin Hanbal bin Hilaal bin Asad bin Idrees bin Abdullah bin Hayyan bin Abdullah bin Anas bin Awf bin Qaasit bin Maazin bin Shaybaan As-Shaybaanee. He was born in Rabiul-Al-Awwal in the year 164 AH. His father died when he was young, after which his mother took care of him and his education. He began seeking knowledge with the scholars of Baghdad, Iraq, and began seeking knowledge of Hadeeth at the age of sixteen. His search for knowledge led him to Kufa, Basra, Makkah, Madeenah, Yemen, and Shaam.. From the great scholars who praised him include, Imam Shaafee, Imam Abu Ubaidil-Qaasim, and Imam Ibrahim Al-Harbee. He died on Friday 12th Rabiul-Awwal in the year 241 AH. Refer to the editor`s introduction, Allamah Wasiullah bin Muhammad Abbas, of ‘Kitabu Bahrid-Addami` by Imam Yusuf bin Hasan bin Abdil-Al-Hadee [840-909 AH] pages 14-18, printed by Dar-Alemam Ahmed, first edition 1427 AH/2006 CE. Also refer to ‘Tabaqaat Ibn Saad` Volume (7/354), ‘Tareekhul-Fasawee` Volume (1/ 212), and ‘Tabaqaatul-Al-Hanaabilah` Volume (1/ 4).<br /><br />[3] Translator’s note: I asked our sheikh, the Muhadith, Mufti of Haramul-Makki, Sheikh Wasiullah Abbas, on 12th Ramadan 1429 AH – corresponding to 12th September 2008 – after Salaatul-Jummah regarding what was intended when Imam Ahmed bin Hanbal said ‘well-known’ (معروف).<br /><br />The Sheikh replied: what was intended was (مأثور) meaning supplications narrated in the Qur’an &amp; Sunnah, as there is another narration that can be found where Imam Ahmed bin Hanbal used the word (مأثور) instead of (معروف) ‘well-known’. He also added that‘well-known’ also refers to abstaining from those supplications which entail statements or sentences that oppose the Shareeah. For a detailed discussion on this issue refer to the small treatise written by Shaykh Muhammad bin Ahmed Al-Feefi, known as ‘Oh Imams of Masjid! Beware of overstepping limits in the supplication’ page 18. And Allah knows best.<p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Tue Jan 03, 2017 10:48 pm</p><hr />
+]]></content>
+</entry>
+</feed>

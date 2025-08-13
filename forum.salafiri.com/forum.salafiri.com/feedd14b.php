@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=40&amp;t=480" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-10-04T00:10:18+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=40&amp;t=480</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-10-04T00:10:18+01:00</updated>
+<published>2016-10-04T00:10:18+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=480&amp;p=515#p515</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=480&amp;p=515#p515"/>
+<title type="html"><![CDATA[Some Benefits of Learning Arabic]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=480&amp;p=515#p515"><![CDATA[
+<span style="color: #FF0000">Sheikh ul Islam Ibn Taymiyyah (rahimahullah) said:</span><br />The Salaf would admonish their children for making Arabic grammatical mistakes. Due to this, we are ordered, whether it be an obligation or a recommendation, to preserve the Arabic (grammatical) laws, and to correct the tongues that have deviated from the correct speech. By doing so, we preserve the methodology of understanding the Quran and the Sunnah. We also preserve the following of the Arab in their manner of (correct) speech. If people were left with their grammatical mistakes, this would be considered a great deficiency and despicable mistake.<br /><span style="color: #0000FF">(source: Majmoo’ Al Fatawa 32/252)</span><br /><br /> <br /><span style="color: #FF0000">Shiekh ul Islam (rahimahullah) also mentioned a statement of Imam Ash Shafi’ee (rahimahullah), he said:</span><br />&quot;…this is because the (language) that Allah choose is Arabic. He revealed His glorious book (The Quran) in this language and He made it the tongue of His final and last prophet, Muhammed -sallahu alahi wa salem. Therefore, we say: it is befitting for everyone that has the ability to learn this language to do so, this is because it should be the most desired language to learn. At the same time, it is not forbidden for people to speak with other than the Arabic language.<br /><span style="color: #0000FF">(source: Iktidah As Siralt Al Mustaqeem 1/521)</span><br /> <br /><span style="color: #FF0000">Imam Adh Dhahabee (rahimahullah) mentioned:That which a scholar needs to be is:</span><br />-Taqiyan (have taqwah)<br />-Thakiyah (have intelligence)<br />-Nahwiyan (firm in Arabic grammar)<br />-Lugawiyan (firm in Arabic language)<br />-Zakiyan (pure in action and/or intentions)<br />-Hayiyan (shy)<br />-Salafiyan (follow the way of the Salaf As Saleh)….<br /><span style="color: #0000FF">(source: Siyar ‘Alam An Nubalah 13/380)</span><br /><br /> <br /><span style="color: #FF0000">Sheikh Muhammed bin Saleh Al Uthaymeen (rahimahullah) said:</span><br />From the benefits of learning the Arabic language is correction of the tongue with the Arabic tongue which the speech of Allah was revealed in. Because of this, understanding the Arabic language is extremely important. But the sciences of the Arabic language are difficult in the beginning and become easy thereafter. It is the example of a house made of cane (the likes of sugar cane), but its door is made of steel. Meaning, it is difficult for one to enter, but once one does, is then made easy. Due to this, I encourage the student to learn the foundations of the language in order to make the rest easy for him/her.<br /><span style="color: #0000FF">(source: Sharh Al Ajromiyah pg.9)</span><br /> <br /> <br /><span style="color: #FF0000">Sheikh Muqbil (rahimahullah) also mentioned:</span><br />The sciences of the Arabic language (nahw) are from the important forms of knowledge that are incumbent upon the Muslims to focus on. This is because the enemies of Islam seek to divert the Muslims away from the language of their religion and busy them with what has less importance in their religion. And Allah is the Helper.<br /><span style="color: #0000FF">(source: Ershad Thawil Fitan pg.65)</span><br /> <br />Source: <!-- m --><a class="postlink" href="https://maktabahuthaymeen.wordpress.com/2012/02/28/some-benefits-of-learning-arabic/">https://maktabahuthaymeen.wordpress.com ... ng-arabic/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Tue Oct 04, 2016 12:10 am</p><hr />
+]]></content>
+</entry>
+</feed>

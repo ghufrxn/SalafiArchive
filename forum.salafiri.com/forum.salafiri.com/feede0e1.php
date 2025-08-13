@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=8&amp;t=952" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-01-04T00:09:39+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=8&amp;t=952</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-01-04T00:09:39+01:00</updated>
+<published>2017-01-04T00:09:39+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=952&amp;p=996#p996</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=952&amp;p=996#p996"/>
+<title type="html"><![CDATA[How Does A Muslim Implement Tawheed?]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=952&amp;p=996#p996"><![CDATA[
+By Shaykh Muhammad Ibn Saalih al-‘Uthaymeen (may Allaah have mercy upon him)<br /><br /><strong><span style="color: #0000FF">Question:</span></strong> How does a Muslim implement Tawheed?<br /><br /><strong><span style="color: #0000FF">Answer:</span></strong> He implements Tawheed by being sincere towards Allaah the Most High and making his worship for Allaah alone, without Riyaa (showing off in front of others) nor flattery, rather he worships Allaah making his religion sincere for Allaah. This is with regards to worship.<br /><br />The same applies in regards to the lordship of Allaah: that he does not depend on anyone except Allaah, nor does he seek assistance from anyone other than Allaah.<br /><br />The prophet (sallallaahu ‘alayhi wa sallam) said to his cousin, ‘Abdullaah ibn ‘Abbaas (may Allaah be pleased with him):<br /><br /><ul>    “Oh boy! I will teach you some words: Remember Allaah and He will protect you; remember Allaah and you will find him ahead of you. If you ask, then ask from Allaah; if you seek assistance, then seek it from Allaah. And know that if the people were to gather to benefit you with something, they would not benefit you in anyway except that which Allaah has written for you; and if they gathered to harm you with something, they would not harm you in any way except that which Allaah has written against you.”<br />    (Narrated by Ahmad and Tirmidhi)</ul><br />And it is upon him (the Muslim) to ask from Allaah, steadfastness upon the Truth and upon Tawheed, for verily many people have weaknesses in their Emaan (faith) even though they have the foundation of Tawheed with them.<br /><br />And an example of how people are negligent in this is: having dependence upon the means. For verily it is known that Allaah decrees the means of things; for example Allaah decrees the means for illnesses to be cured, and He decrees the means for removing ignorance, and the means to having children. So be firm (upon your Tawheed)! For some people rely and depend upon the means; so you will find the one who falls ill, relies completely with his heart on the hospital and the doctors, and so he goes thinking that the cure is in their hands, and he forgets that it is Allaah who has put them as a means that they may benefit him, and they may not benefit him. If they do benefit him, then this is from the favour of Allaah and His decree; and if they do not benefit him, then this is from the justice of Allaah and His decree. Thus it is not permissible for mankind to forget the One who brings about the means, and to just remember the means itself.<br /><br />Yes, we do not deny that the means has an impact in bringing about the cause; however this impact is only through the permission of Allaah; as Allaah says about magicians:<br /><br /><ul>    “And [yet] they learn from them that by which they cause separation between a man and his wife.”</ul><br />And He says:<br /><br /><ul>    “But they do not harm anyone through it except by permission of Allah.”<br />    (al-Baqarah: 102)</ul><br />So the important thing is, that the implementation of Tawheed is by attaching the heart to Allaah, out of fear and longing, and making worship specifically for Allaah alone.<br /><br /><span style="font-size: 85%; line-height: normal">(Fataawaa Noor ‘ala ad-Darb of Shaykh Muhammad Ibn Saalih al-‘Uthaymeen, Book of ‘Aqeedah: Fatwa 6)<br />(Translation and additional comments by Ibn Hussain for Markazus-Sunnah Leicester, 1435)</span><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Tue Jan 03, 2017 11:09 pm</p><hr />
+]]></content>
+</entry>
+</feed>

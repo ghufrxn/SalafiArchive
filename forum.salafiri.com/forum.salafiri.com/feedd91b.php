@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=11&amp;t=63" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-08-24T23:09:33+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=11&amp;t=63</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-08-24T23:09:33+01:00</updated>
+<published>2016-08-24T23:09:33+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=63&amp;p=67#p67</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=63&amp;p=67#p67"/>
+<title type="html"><![CDATA[Starting Seeking Knowledge from the Fundamentals By Shaikh Salih Al-Fawzan]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=63&amp;p=67#p67"><![CDATA[
+The Ulama used to give great importance to summarised texts. They used to author them and to put effort into summarising and shortening them. They then used to make their students memorise them so that the principles remain with them as a resource to benefit from and give.<br /><br />And beginning with these small texts is the basis of seeking knowledge. A student of knowledge begins learning bit-by-bit, he takes from the basics of knowledge and it’s fundamentals, and then works his way up.<br /><br />These basic texts are the way towards to advanced texts. It is not possible to understand the advanced texts except after understanding the basic texts and working your way up, bit-by-bit. And it is said that from the meaning of the Ayah:<br /><br />((but, ‘’Be pious scholars of the Lord because of what you have taught of the Scripture and because of what you have studied.’’)) <strong>Ale-Imran, Ayah 79</strong><br /><br />Indeed, the pious scholars are the ones that start off with the basic matters of knowledge before the great ones. They bring up themselves and their students starting from the basic matters until the great matters. And this is something natural because all things begin from foundations and origins and them become big and great after that.<br /><br />As for the one who rushes into knowledge and pounces onto it from it’s top, this one will work hard and not achieve anything. As for the one who starts from the foundations and works up, this is the one – with the permission of Allah – who is following the correct path and is heading in a positive direction. Allah says:<br /><br />((They ask you, [O Muhammad], about the crescent moons. Say, ‘’They are measurements of time for the people and for Hajj [pilgrimage].’’ And it is not righteous to enter houses from the back, but righteousness is [in] one who fears Allah. And enter the houses from their doors.’’)) <strong>Al-Baqarah, Ayah 189</strong><br /><br />These people asked about the moon-cycle, why does it start as a small crescent, then grow and grow until it becomes a full moon and then decreases until it returns to crescent form? So Allah reproached them and directed them to something that will benefit them; to approach the houses of knowledge from their doors. As for the question of the crescent and it’s phases and it’s becoming small and big, this has no benefit for them in it. However, the benefit for them is to ask about that which they are in need of knowing and that is; the benefit of the moon-cycle and regarding that Allah says:<br /><br />((Say, ‘’They are measurements of time for the people))<br /><br />Allah explained for them it’s benefits, and that is that Allah placed the phases of the moon, times for mankind to know about times of worship, dealings and urgent matters, and other than that.<br /><br />So He guided them to the benefits of the moon-cycle and He didn’t answer the original questions regarding the nature of the moon-cycle as there is no benefit. Rather, He directed them to what they should have asked about, and they are from the doors knowledge, not the rear of knowledge and matters of curiosity that they have no need for, and even if they did, it is a very small need.<br /><br /><strong>(Taken from his introduction to his explanation of ‘The Three Principles’; Translated by Hussain Suleman. Translation of Quran Ayaat taken from ‘Sahih International’)</strong><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Wed Aug 24, 2016 11:09 pm</p><hr />
+]]></content>
+</entry>
+</feed>

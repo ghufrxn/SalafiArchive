@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=6&amp;t=389" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-09-16T23:20:09+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=6&amp;t=389</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-09-16T23:20:09+01:00</updated>
+<published>2016-09-16T23:20:09+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=389&amp;p=418#p418</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=389&amp;p=418#p418"/>
+<title type="html"><![CDATA[The Taabi’een known for their Proficiency in Tafseer – Shaykh Uthaimeen]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=389&amp;p=418#p418"><![CDATA[
+<strong>AUTHOR:</strong> <em><span style="color: #FF0000">Imaam Muhammad bin Saalih Al-‘Uthaimeen</span></em><br /><strong>SOURCE:</strong> <em><span style="color: #FF0000">His treatise “Usool fee at-Tafseer” (pg. 40)</span></em><br /><br /><span style="color: #0000FF">Those who were well known for their Proficiency in Tafseer amongst the Taabi’een</span><br /><br />There were many amongst the Taabi’een who became well known for their proficiency in Tafseer, amongst whom were:<br /><br />1. The People of Makkah: They are the followers of Ibn ‘Abbaas (radyAllaahu ‘anhumaa), such as Mujaahid, ‘Ikrimah and ‘Ataa bin Abee Rabaah.<br /><br />2. The People of Madeenah: They are the followers of Ubay bin Ka’ab (radyAllaahu ‘anhu), such as Zayd bin Aslam, Abul-‘Aaliyah and Muhammad bin Ka’ab Al-Qurtubee.<br /><br />3. The People of Koofah (in ‘Iraq): They are the followers of Ibn Mas’ood (radyAllaahu ‘anhu), such as Qataadah, ‘Alqamah, and Ash-Sha’abee.<br /><br />We will provide a biography of the lives of two of these individuals, namely Mujaahid and Qataadah:<br /><br /><span style="color: #0000FF">Mujaahid:</span><br />He is Mujaahid bin Jabar al-Makkee, the freed slave of as-Saa’ib bin Abee as-Saa’ib al-Makhzoomee. He was born in 21H and learned the tafseer of the Qur’aan from Ibn ‘Abbaas, may Allaah be pleased with him. Ibn Ishaaq reported from him that he said: “I reviewed the entire mus-haf– from its beginning to its end – with Ibn ‘Abbaas on three separate occasions, stopping at each ayah and asking him about it.”<br /><br />Sufyaan Ath-Thawree said: “If the interpretation (of an ayah) comes to you from Mujaahid, then it is sufficient for you.”<br /><br />Ash-Shaafi’ee relied on his tafseer (of the Qur’aan), as did Al-Bukhaaree who quoted often from him in his “Saheeh.” In the last part of his biography of him, Adh-Dhahabee said: “The ummah is in unanimous agreement that Mujaahid is an Imaam and that his tafseer is to be relied on as proof.”<br /><br />He died in Makkah while in the state of prostration in the year 104H at the age of 83.<br /><br /><span style="color: #0000FF">Qataadah:</span><br />He was Qataadah bin Di’amah as-Sudoosee al-Basree. He was born blind in the year 61H and strove hard in seeking knowledge. He had very strong memory. This was such that he said about himself: “I never told a Muhaddith (narrator of hadeeth): ‘Repeat that (hadeeth) to me again.’ Nor did my two ears hear anything ever, except that my heart retained it (in memory).”<br /><br />Imaam Ahmad mentioned him and spoke highly of him at great lengths. He would spread his knowledge and understanding of the differences of opinions and tafseer, and he described him as being strong in memory and possessing great understanding. He said about him: “Rarely do you find anybody placed before him.” And he said: “He is the best at memorizing from the people of Basrah. He did not hear anything except that he memorized it.” He died in the middle of the year 117H while 56 years old.<br /><br />Source: <!-- m --><a class="postlink" href="http://salaf-us-saalih.com/2014/09/30/the-taabieen-known-for-their-proficiency-in-tafseer-shaykh-uthaimeen/">http://salaf-us-saalih.com/2014/09/30/t ... uthaimeen/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Fri Sep 16, 2016 11:20 pm</p><hr />
+]]></content>
+</entry>
+</feed>

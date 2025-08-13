@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=9&amp;t=713" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-11-25T23:53:35+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=9&amp;t=713</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-11-25T23:53:35+01:00</updated>
+<published>2016-11-25T23:53:35+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=713&amp;p=757#p757</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=713&amp;p=757#p757"/>
+<title type="html"><![CDATA[Praying Two Rak'ahs of Tahyatul Masjid During The Friday Khutbah]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=713&amp;p=757#p757"><![CDATA[
+<strong><span style="text-decoration: underline">Question:</span></strong><br /><br /><em>There was a discussion that took place between some brothers and myself regarding praying two rak’ahs upon entering the mosque and the Imaam is delivering the Friday khutbah (sermon). I ask you – O noble Shaykh – to give us a ruling concerning this. Is it allowed or not? The brothers who generally come and pray in the mosque are upon the madhhab of Imaam Maalik.</em><br /><br /><strong><span style="text-decoration: underline">Answer by Shaykh bin Baaz (rahimahullaah):</span></strong><br /><br />“The Sunnah upon entering the masjid (mosque) is to pray two rak’ahs of tahyatul masjid (a Prayer for greeting the mosque), <strong><em>even if the Imaam is delivering the Friday khutbah</em></strong>, due to the sayings of the Prophet (sallallaahu ‘alayhi wa sallam):<br /><br /><strong><em>“When anyone of you enters the masjid, then let him not sit until he prays two rak’ahs.”</em></strong><br /><br />[Recorded by al-Bukhari (1/293) and Muslim (2/155)]<br /><br />Likewise Muslim relates in his Saheeh (3/1415), from Jaabir (radiallaahu ‘anhu), that the Prophet (sallallaahu ‘alayhi wa sallam) said:<br /><br /><strong><em>“When any of you comes on the day of Jumu’ah (Friday), and the Imaam is delivering the khutbah, then let him pray two rak’ahs and let him make them short.”</em></strong><br /><br />So this is a clear and authentic text concerning this issue. <strong><em>It is not permissible for anyone to oppose it.</em></strong> So perhaps this particular narration did not reach Imaam Maalik (rahimahullaah), if it is established from him that he prohibited the praying of these two rak’ahs at the time of the khutbah. However, when the authentic Sunnah becomes clear, <strong><em>then it is not permissible to oppose it with the saying of anyone else – whosoever he may be.</em></strong>[9]<br /><br />About this Allah – the Mighty and Majestic – said:<br /><br /><em>“O you who Believe! Obey Allah and obey the Messenger and those in authority amongst you. And if you differ in anything amongst yourselves then refer it to Allah and His Messenger if you do believe in Allah and the Last Day. That is better and most suitable for final determination.”</em><br /><br />[Soorah an-Nisaa 4:59]<br /><br />And He – the Most Perfect – said:<br /><br /><em>“And in whatever you differ, then the judgement belongs to Allah.”</em><br /><br />[Soorah ash-Shooraa 42:10]<br /><br />And it is known that the judgement of Allah’s Messenger (sallallaahu ‘alayhi wa sallam) is from the judgement of Allah – the Mighty and Majestic – as Allah said:<br /><br /><em>“Whosoever obeys the Messenger, has indeed obeyed Allah.”</em><br /><br />[Soorah an-Nisaa 4:80]<br /><br />And with Allah rests the power and ability.”<br /><br /><strong><span style="color: #0000FF">Source: Al-Fataawaa (1/53)</span></strong><br /><br /><strong><span style="text-decoration: underline">Footnotes:</span></strong><br /><br />[9] Imaam an-Nawawee – rahimahullaah – said about the hadeeth in Sharh Saheeh Muslim (6/ 164):<br /><br /><em>“I cannot imagine any Scholar who comes to knows about it and believes in the correctness of it, and would then oppose it.”</em><br /><br />From: Al-Istiqaamah Issue No.7 – Rabee’ ul-Awwal 1418H/July 1997<p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Fri Nov 25, 2016 10:53 pm</p><hr />
+]]></content>
+</entry>
+</feed>

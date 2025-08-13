@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=50&amp;t=571" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-11-05T22:19:45+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=50&amp;t=571</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2016-11-05T22:19:45+01:00</updated>
+<published>2016-11-05T22:19:45+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=571&amp;p=613#p613</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=571&amp;p=613#p613"/>
+<title type="html"><![CDATA[Ruling on Writing SAW or SAAS instead of the Supplication in Full]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=571&amp;p=613#p613"><![CDATA[
+It is legislated for the person who wants to write Peace and Blessings be Upon him to write it full, following the command of Allaah, the Most High. Therefore it is not befitting for us to make symbols or to shorten this supplication by writing the letter ص [TN: akin to people writing SAW or SAAS] and the likes, as is the habit of some of those who author literature. This is because it contradicts the command of Allaah, the Most High, who says in his Mighty Book:<br /><br />“O you who believe! Send your Salat on (ask Allah to bless) him (Muhammad), and (you should) greet (salute) him….” [Ahzaab 33: 56]<br /><br />Therefore if one makes concise or makes symbols for this supplication, which is to write Peace and Blessings be Upon him completely. Many people who shorten this supplication or make a symbol for it are usually careless when it comes to this supplication. Therefore the scholars have warned against writing the supplication in such a manner.<br /><br />Ibn Salaah [May Allaah have Mercy on him] said in his book ‘Uloom al-Hadeeth which is well known by Muqadimmah Ibn Salaah on the twenty fifth issue:<br /><br />It is a must that one makes sure that he writes the supplication in full, writing Peace and Blessings be Upon him when mentioning the Messenger of Allaah. This is one of the major points of benefit for the one who seeks to learn about Hadeeth and whoever is negligent in this misses out in a great reward. We have seen that the scholars have prohibited shortening the supplication. Likewise if one mentions the name of Allaah, then it is not permissible for him to shorten the praise we make for him, so we say Glorified and Exalted, the Most High etc. in full.<br /><br />It is not permissible for us to write the supplications in short or symbols into one or two letters. End Quote.<br /><br />Al-Allaamah as-Sakhaawee [May Allaah have Mercy on him] wrote in his book Fath al-Mugeeth:<br /><br />One must refrain making the supplication into symbols or shortening them to one or two letters. They write letters to represent the supplication, Peace and Blessings be Upon him, and this is the act of those who are ignorant….<br /><br />As-Suyootee [May Allaah have Mercy on him] said in Tadreeb ar-Raawee:<br /><br />It is disliked to shorten the supplication Peace and Blessings be Upon him as this supplication has been legislated as Allaah, the Most High, says<br /><br />“O you who believe! Send your Salat on (ask Allah to bless) him (Muhammad), and (you should) greet (salute) him….” [Ahzaab 33: 56]<br /><br />It is also disliked to shorten this supplication into symbols or exchanging it to mere letters.<br /><br />So this is my advice to all Muslim, the one who reads and writes to stick to writing the supplication in full, as this is virtuous and he will have the reward for doing so and he should seek to protect himself from having this reward being nullified from him (i.e.by writing the supplication in short or abbreviating them).<br /><br />I ask Allaah, the Glorified and the Most High, to help us all to do what He Loves and is Pleased with, He is Jawwad al-Kareem, may the Peace and Blessings be Upon the Messenger, His Family and His Companions.<br /><br /><em>[Majmoo Fataawa ‘Abdul-‘Azeez bin Baaz (2/396-399)]</em><br /><br />Source: <!-- m --><a class="postlink" href="http://ahledhikr.blogspot.co.uk/2013/01/ruling-on-writing-saw-or-saas-instead.html">http://ahledhikr.blogspot.co.uk/2013/01 ... stead.html</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Sat Nov 05, 2016 9:19 pm</p><hr />
+]]></content>
+</entry>
+</feed>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=8&amp;t=1158" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2017-03-01T00:09:39+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=8&amp;t=1158</id>
+<entry>
+<author><name><![CDATA[Shehzad Sattar]]></name></author>
+<updated>2017-03-01T00:09:39+01:00</updated>
+<published>2017-03-01T00:09:39+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1158&amp;p=1224#p1224</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1158&amp;p=1224#p1224"/>
+<title type="html"><![CDATA[Following the First Three Generations]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1158&amp;p=1224#p1224"><![CDATA[
+<strong><span style="font-size: 200%; line-height: normal">Following the First Three Generations</span></strong><br /><em>Compiled &amp; translated By Abbas Abu Yahya</em><br /><br /><strong><span style="color: #0000FF">Returning to the First Period of Islaam</span></strong><br /><br />1- From Abu Waqid al-Laythee –Radi Allaahu anhu– said: ‘Indeed the Messenger of Allaah –sallAllaahu alayhi wa sallam- said while we were sitting on a type of mat:<br /><br />‘There will be Fitnah!’  <br /><br />They asked: ‘What should we do O Messenger of Allaah?’<br /><br />Abu Waqid said: ‘The Messenger –sallAllaahu alayhi wa sallam- returned his hand to the mat and held on to it. And said:<br /><br />‘You should do this.’<br /><br />The Messenger of Allaah –sallAllaahu alayhi wa sallam- had told them one day that there will be Fitnah, but many of the people did not hear him.  So Mu’adh said: ‘Did you hear what the Messenger of Allaah  –sallAllaahu alayhi wa sallam- said?’ They said: ‘He said: that there will be Fitnah!’ and they said: What will be our state then, O Messenger of Allaah? Or what should we do?’<br /><br />He –sallAllaahu alayhi wa sallam- said:<br /><br />‘You should return to the first matter.’<br /><br /><em>[Silsilah Saheehah No.3165]</em><br /><br /><strong><span style="color: #0000FF">Philosophers</span></strong><br /><br />2 – al-Hafidh Ibn Hajr -Rahimullaah- made a very strong, eloquent speech in refuting the Ahl-ul-Kalam and Philosophers:<br /><br />‘Those who came after the three excellent generations were excessive in most of the matters which the Imams of the Tab’ieen (the followers of the Companions) and those who followed them, had criticised. But these people were not satisfied with this criticism so-much-so that they merged the issues of the religion with Greek philosophy, and they made the speech of the philosophers as the foundation to which they would refer back to, when the narrations (Athaar) would conflict with it, they would forcefully explain it away.<br /><br />They were not just satisfied with that, but they claimed that what they had arranged was the most noble of sciences, and foremost to acquire.  And whoever did not use what they defined, then that person is uneducated, and ignorant. However, the happy and content person is he who adhered to that which the Salaf were upon, and kept away from what those who opposed them innovated.’<br /><br /><em>[Taken From: ‘Fath al-Bari’ 13/253]</em><br /><br /><strong><span style="color: #0000FF">The Opinions of the Companions</span></strong><br /><br />3 – Shaykh ul-Islaam Ibn Taymeeyah (d.728) -Rahimullaah- said:<br /><br />‘How good is the saying of Shaafi’ee -Rahimullaah- (d. 199 A.H.): ‘They (the Companions of the Prophet –sallAllaahu alayhi wa sallam-) are above us in every knowledge, Fiqh, Deen &amp; guidance, and their opinion for ourselves is better than our own opinion for our own selves.’<br /><br /><em>[Majmoo’ Fatawaa 4/158]</em><br /><br />4 – Shamsuddeen Muhammad bin Abee Bakr Ibn Qayyim aj-Jawzeeyah (d.751) -Rahimullaah- commenting….<br /><br />‘One of the Companions would hold an opinion &amp; the Qur’aan would be revealed in agreement with him.’<br /><br /><em>[A’Allam al-Mawaqeen see: Muawal p. 22-23]</em><br /><br />Source: <!-- m --><a class="postlink" href="https://followingthesunnah.wordpress.com/2013/01/31/following-the-first-three-generations/">https://followingthesunnah.wordpress.co ... nerations/</a><!-- m --><p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=56">Shehzad Sattar</a> — Tue Feb 28, 2017 11:09 pm</p><hr />
+]]></content>
+</entry>
+</feed>

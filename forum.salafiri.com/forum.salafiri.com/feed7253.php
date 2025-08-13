@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=8&amp;t=6" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2016-08-23T10:24:52+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=8&amp;t=6</id>
+<entry>
+<author><name><![CDATA[SRI]]></name></author>
+<updated>2016-08-23T10:24:52+01:00</updated>
+<published>2016-08-23T10:24:52+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=6&amp;p=6#p6</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=6&amp;p=6#p6"/>
+<title type="html"><![CDATA[This is Our Call - Shaikh Muhammad Nasir al-Din al-Albani [1420H]]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=6&amp;p=6#p6"><![CDATA[
+Overview:<br /><br />Imaam Muhammad Naasirud-Deen al-Albaanee [d. 1420] delivers a short yet concise overview of ‘our da’wah’ as in the da’wah of ahlus-sunnah wal-jamaa’ah, ad-da’watul-anbiyaa. Shaykh al-Albaanee (rahimahullaah) explains the three levels of Islaamic knowledge with many clear-cut evidences that will leave the listener no choice but to understand that ‘true Islaam’ is the Qur’aan and Sunnah upon the understanding of the salaf. The noble muhaddith continues with an explanation of knowledge in the sharee’ah as opposed to linguistic knowledge, the vast contrast between the two and the harm of making rulings without sharee’ah knowledge.<br /><br />States Imaam al-Albaanee, “Knowledge is at three levels:<br /><br />Allaah said (the Qur’aan)<br />The ahaadeeth of the Prophet (sallallaahu ‘alayhi wa sallam).<br />The statements of the Companions (radiyallaahu ‘anhum)<br />As many people say, when they speak about this topic, ‘Islaam is taken from the Book of Allaah and the Sunnah of the Prophet (sallallaahu ‘alayhi wa sallam)’, and with this there is no doubt, but then, it is incomplete. As we see Ibnul-Qayyim (rahimahullaah) did not stop at ‘The Prophet (sallallaahu ‘alayhi wa sallam) said’ rather he said ‘The Companions (radiyallaahu ‘anhum) said’ and we hardly hear this from the preachers who call to Islaam today. This is taken from the hadeeth of the Prophet (sallallaahu ‘alayhi wa sallam),<br /><br />“The best of people is my generation, then those who follow them, then those who follow them.”<br /><br />[Related by al-Bukhaaree (5/199) and Muslim (7/184), from Ibn Mas’ood (radiyallaahu ’anhu).]<br /><br />Imaam al-Asbahaanee (d.535H) – rahimahullaah – said: “The sign of Ahlus-Sunnah is that they follow the Salafus-Saalih and abandon all that is innovated and newly introduced into the Deen.”<br /><br />[Al-Hujjah fee Bayaanil Mahajjah 1/364]<br /><br />Abu Haneefah (d. 150H) (rahimahullaah) said: “Adhere to the athar (narration) and the tareeqah (way) of the Salaf (Pious Predecessors) and beware of newly invented matters for all of it is innovation” [Reported by As-Suyootee in Sawn al Mantaq wal-Kalaam p.32]<br /><br />lbn Taymiyyah (d.728H) – rahimahullaah – said: “There is no criticism for the one who proclaims the way (madhdhab) of the Salaf, who attaches himself to it and refers to it. Rather, it is obligatory to accept that from him by unanimous agreement (Ittifaaq) because the way (madhdhab) of the Salaf is nothing but the Truth (Haqq).” [Majmoo al-Fataawaa 4:149]<br /><br />Imaam adh-Dhahabee (d.748H) – rahimahullaah – said: “It is authentically related from ad-Daaraqutnee that he said: There is nothing more despised by me than ‘ilmul-kalaam (innovated speech and rhetorics). I say: He never entered into ‘ilmul-kalaam, nor argumentation. Rather, was a Salafee (a follower of the Salaf).”[Siyar 16/457]<br /><br />As-Sam’aanee (d.562H) said in al-lnsaab (3/273): “As-Salafi: this is an ascription to the Salaf and following their ways, in that which is related from them.” lbn al-Atheer (d.630H) said in al-Lubaab fee Tahdheebul-lnsaab (2/162), commenting upon the previous saying of as-Sam’aanee: “And a group were known by this ascription.” So the meaning is: that the term Salafi, and its ascription to them, was a matter known in the time of Imaam as-Sam’aanee, or before him.<p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=49">SRI</a> — Tue Aug 23, 2016 10:24 am</p><hr />
+]]></content>
+</entry>
+</feed>

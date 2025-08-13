@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="https://forum.salafiri.com/feed.php?f=47&amp;t=1604" />
+
+<title>Salafi Research Institute</title>
+<subtitle>Expounding the way of the Salaf us-Saleh in implementing the Quran and Sunnah. Indeed they (Ahl al-Hadith) acted upon the hadith whilst opposing blind following - the true madhab free from opinions and partisanship, which the companions taught the people</subtitle>
+<link href="https://forum.salafiri.com/index.php" />
+<updated>2020-06-25T18:58:16+01:00</updated>
+
+<author><name><![CDATA[Salafi Research Institute]]></name></author>
+<id>https://forum.salafiri.com/feed.php?f=47&amp;t=1604</id>
+<entry>
+<author><name><![CDATA[SUNNAH MARRIAGE UK]]></name></author>
+<updated>2020-06-25T18:58:16+01:00</updated>
+<published>2020-06-25T18:58:16+01:00</published>
+<id>https://forum.salafiri.com/viewtopic.php?t=1604&amp;p=1777#p1777</id>
+<link href="https://forum.salafiri.com/viewtopic.php?t=1604&amp;p=1777#p1777"/>
+<title type="html"><![CDATA[Sister]]></title>
+
+<content type="html" xml:base="https://forum.salafiri.com/viewtopic.php?t=1604&amp;p=1777#p1777"><![CDATA[
+*M A R R I A G E*<br />*PROFILE*<br /><br />*Gender:* Female<br />*Age:* 41<br />*Height:* 5ft 8”<br />*Build:* Wholesome<br />*Nationality:* British <br />*Qualifications:* Double Masters<br />*Ethnicity* Pakistani<br /><br />-.-.-.-.-.-<br /><br />*Occupation:* Not employed <br />*Current Location:* Surrey<br />*Willing to marry outside ones ethnicity?* Yes<br />*Consider reverts ?* Yes<br />*Living arrangements* .....<br />(After marriage: separate or with my own parents)<br /><br />-.-.-.-.-.-<br /><br />*Prays 5x Salah:* Yes<br />*Islamic sect:* Manhaj of the Salaf<br />*Speakers listened to:* Ibn Taymea, Ibn Al Qaiyum, Al Fawzaan <br />*Hijab-Niqab:* Hijab (Niqab only in countries where it’s inappropriate to be without it)<br />*Your interests or hobbies* Being productive and helping resolve hardship. <br /><br />-.-.-.-.-.-.-<br /><br />*Marital Status:* Divorced<br />*Any Children?* No<br />*Any disabilities?* No<br />*Willing to relocate?* Possibly<br />*Accept Divorcee?* yes<br />*With or without children?* either<br />*Accept islamic polygyny* yes<br /><br />-.-.-.-.-.-.-<br /><br />*PREFERENCES*<br />Age range: Over 40. <br />height: At least as tall as me<br />education: Degree or above<br />location: any <br />ethnicity: not of the Black or Oriental persuasion. <br />Any other requirements: Both parents must have had at least a degree and at least one grandfather must also have had a degree.... this is for the sake of mental compatibility/similarity. The suitor must be financially independent. <br /><br />-.-.-.-.-.-.- <br />*CONTACT DETAILS*<br />Make a £2 donation, bank details below (it’s not a free service)<br /><br />*Paying options* <br /># 1 Bank Transfer (preferred)<br />Bank: HALIFAX<br />Name: A. Hanif<br />Account No: 11 39 77 68<br />Sort: 11 06 22<br /><br /># 2 PayPal <br /><!-- m --><a class="postlink" href="http://paypal.me/IslamicMarriageGroup">http://paypal.me/IslamicMarriageGroup</a><!-- m --><br /><br />REFERENCE:- “Your first name”<br /><br />SMS TEXT (Not what’s app pls)<br />The “reference name” to confirm method of payment please:- <br />07900 247 837<br /><br />*Guardians Tel No.*<br />Brother: +44 7479 824444<br /><br />—-&gt;&gt;&gt;<br />a) FEMALE Profiles posted:<br /><!-- m --><a class="postlink" href="https://t.me/joinchat/AAAAAEe2EKQKszDGCY7ZuQ">https://t.me/joinchat/AAAAAEe2EKQKszDGCY7ZuQ</a><!-- m --><br /><br />                     .:.:.:.:.:.:.:.<br />b) MALE profiles posted on:<br /><!-- m --><a class="postlink" href="https://t.me/sunnahmarriage">https://t.me/sunnahmarriage</a><!-- m --><br /><br />Use the keyword search feature !!!<br /><br />ALSO REGISTER ON:-<br /><!-- w --><a class="postlink" href="http://www.sunnahmarriageuk.com">www.sunnahmarriageuk.com</a><!-- w --><br /><br />*Personalised marriage seeking Service Available*<br /><br />:::::::::::::::::::::::::::::::::::::::::::::::::::<br />IF SOMEONE REQUIRES ADVICE ON MARRIAGE THIS CAN BE ARRANGED INSHALLAH <br />* FREE Initial consultation (10 minutes)<br />* Each session £20 = 30 minutes<br />:::::::::::::::::::::::::::::::::::::::::::::::::::<br /><br />Sunnah Marriage Serving Muslims Since 2013<br /><br />FORWARD 4 reward inshallah !!!<br />*Jazakallahu khair ....*<p>Statistics: Posted by <a href="https://forum.salafiri.com/memberlist.php?mode=viewprofile&amp;u=104">SUNNAH MARRIAGE UK</a> — Thu Jun 25, 2020 6:58 pm</p><hr />
+]]></content>
+</entry>
+</feed>
