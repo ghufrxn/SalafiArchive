@@ -1,0 +1,31 @@
+
+/* different font sizes */
+.f11 {font-size:11px;}
+.f12 {font-size:12px;}
+.f13 {font-size:13px;}
+.f14 {font-size:14px;}
+.f15 {font-size:15px;}
+.f16 {font-size:16px;}
+.f17 {font-size:17px;}
+.f18 {font-size:18px;}
+
+
+/* different tag sizes */
+.tag0 { font-size: 11px;}
+.tag1 { font-size: 12px;}
+.tag2 { font-size: 13px;}
+.tag3 { font-size: 14px;}
+.tag4 { font-size: 15px;}
+.tag5 { font-size: 16px;}
+.tag6 { font-size: 17px;}
+.tag7 { font-size: 18px;}
+.tag8 { font-size: 19px;}
+.tag9 { font-size: 20px;}
+
+/* for editing textareas */
+.panel { width: 770px;  border: solid 1px black; padding: 5px; overflow: auto;}
+
+/* for arabic text */
+.arb {font-size:16px;font-weight:bold;font-family:Traditional Arabic;}
+.arabic {font-size:25px;text-align:right;line-height:30px;margin-right: 20px;font-family:Traditional Arabic}
+.arabicquran {font-size:25px;text-align:right;line-height:38px;margin-right: 20px;font-family:Traditional Arabic}

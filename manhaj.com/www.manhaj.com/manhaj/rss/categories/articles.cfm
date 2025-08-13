@@ -1,0 +1,103 @@
+
+<rss version="2.0">
+<channel>
+    <title>Manhaj.Com | Latest News | Articles</title>
+    <link>http://https://www.manhaj.com/manhaj/</link>
+    <description>Latest news and information from Manhaj.Com in category "Articles"</description>
+    <language>en-us</language>
+    <copyright>Copyright 2025</copyright>
+    <docs>http://https://www.manhaj.com/manhaj/rss.cfm</docs>
+    <lastBuildDate>Mon, 11 Aug 2025 04:32:33 GMT</lastBuildDate>
+
+
+    <item>
+	<title>Yasir Qadhi and Muhammad Hijab: Ikhwaniyyah in  Theory and Practice</title>        
+        <description>
+In a video commentary  on a prior discussion that took place in Speaker's Corner, Mu&#7717;ammad Hij&#257;b presented his understanding of the issue of the base rule concerning a Muslim and issues  ...</description>
+        <link>https://www.manhaj.com/manhaj/articles/gwppp-yasir-qadhi-and-muhammad-hijab-ikhwaniyyah-in--theory-and-practice-part-1.cfm</link>
+        <pubDate>Fri, 26 Jun 2020 09:15:45 GMT</pubDate>
+    </item>
+
+
+    <item>
+	<title>The Decades Old Slanders and Labels of the Kh&#257;rijites, Qu&#7789;bists and Sur&#363;rists Recycled by Mo&#7717;ammad Abushamma Against Salafis: J&#257;miyyah, Mad&#257;khilah, Kh&#257;w&#257;rij, Murji&#702;ah</title>        
+        <description> Excerpt:...In a video published on Youtube on 28 March 2019, this individual repeated these slanders and labels of J&#257;miyyah and Madkhaliyyah against Salafis and he accused them of being  ...</description>
+        <link>https://www.manhaj.com/manhaj/articles/bijwa-the-decades-old-slanders-and-labels-of-the-kh257rijites-recycled-by-mo7717ammad-abushamma-against-salafis.cfm</link>
+        <pubDate>Mon, 20 May 2019 07:38:52 GMT</pubDate>
+    </item>
+
+
+    <item>
+	<title>Bayan Talbis al-Muftari:  Muhammad Munir and the Fahm (Understanding) of the Salaf</title>        
+        <description>
+Mu&#7717;ammad Mun&#299;r is a misguided individual who misguides others and is driven by his narcissism to market himself as a full blown, independent scholar and muft&#299; who does not make  ...</description>
+        <link>https://www.manhaj.com/manhaj/articles/xvdwm-bayan-talbis-al-muftari-part-1---the-fahm-understanding-of-the-salaf.cfm</link>
+        <pubDate>Thu, 02 May 2019 14:20:40 GMT</pubDate>
+    </item>
+
+
+    <item>
+	<title>Muhammad Munir: When Pride and Arrogance Lead You to Reject Truth and Play Victimhood With Your Audience </title>        
+        <description> Excerpt: In this latest video clip, he is asked a question from someone in Tottenham: Is it correct to call Isl&#257;m, Judaism and Christianity, "Abrahamic faiths"? Before we come to his  ...</description>
+        <link>https://www.manhaj.com/manhaj/articles/xpzwd-muhammad-munir-when-pride-and-arrogance-lead-you-to-reject-truth.cfm</link>
+        <pubDate>Wed, 01 May 2019 14:03:22 GMT</pubDate>
+    </item>
+
+
+    <item>
+	<title>An Invitation to Munir Muhammad to Repent  and Warning From Arrogance and Playing Games with Allah's Deen</title>        
+        <description>
+In two previous articles ( and ) we highlighted two major mistakes in Taw&#7717;&#299;d and &#703;Aq&#299;dah  ...</description>
+        <link>https://www.manhaj.com/manhaj/articles/nmckg-an-invitation-to-munir-muhammad-to-repent.cfm</link>
+        <pubDate>Wed, 01 May 2019 04:27:35 GMT</pubDate>
+    </item>
+
+
+    <item>
+	<title>Munir Muhammad: The D&#299;n of the Jahmites and Ash'arites in Making Oppressive, Foolish Things Possible for Allah</title>        
+        <description> Excerpt:In the above dialogue, Mun&#299;r makes it clear to the Christians that he does not have a problem with the concept of someone taking the sins of other people, and that it is possible  ...</description>
+        <link>https://www.manhaj.com/manhaj/articles/qtxfx-munir-muhammad-the-d299n-of-the-jahmites-and-asharites-in-making-oppressive-foolish-things-possible-for-allah.cfm</link>
+        <pubDate>Mon, 29 Apr 2019 12:41:26 GMT</pubDate>
+    </item>
+
+
+    <item>
+	<title>Munir Mu&#7717;ammad: From Watering Down Manhaj to Watering Down the Affair of Tawhid</title>        
+        <description> Excerpt:...Coming to the issue at hand--it is inevitable that pompous and arrogant indivivduals like Mun&#299;r will reveal what is in their hearts of jahl (ignorance), &#7827;ulm (oppression|)  ...</description>
+        <link>https://www.manhaj.com/manhaj/articles/kckcv-munir-mu7717ammad-from-watering-down-manhaj-to-watering-down-the-affair-of-tawhid.cfm</link>
+        <pubDate>Mon, 29 Apr 2019 07:58:52 GMT</pubDate>
+    </item>
+
+
+    <item>
+	<title>Revilement of the Misguided Liar Khalid Abd al-Rahman al-Misri Upon Shaykh Rabi and Refutation of His Falsehood</title>        
+        <description>Latest additions: 
+
+The Mu&#7779;a&#703;fiqah Network Split Asunder in the Issue of Giving Fatw&#257; in Naw&#257;zil and Their Hypocrisy and  ...</description>
+        <link>https://www.manhaj.com/manhaj/articles/omtup-revilement-of-the-misguided-liar-khalid-abd-al-rahman-al-misri-upon-shaykh-rabi.cfm</link>
+        <pubDate>Wed, 20 Feb 2019 07:23:57 GMT</pubDate>
+    </item>
+
+
+    <item>
+	<title>Documents and Resources for Countering the Doubts of the Mu&#7779;a&#703;fiqah</title>        
+        <description>
+NEW:Shaykh Rab&#299;&#703;'s Reading of His Treatise on Mending Relationships in the Presence of Shaykh &#7716;assan bin &#703;Abd al-Wahh&#257;b  ...</description>
+        <link>https://www.manhaj.com/manhaj/articles/uyryh-documents-and-resources-for-countering-and-exposing-the-musafiqah.cfm</link>
+        <pubDate>Sat, 24 Mar 2018 07:55:08 GMT</pubDate>
+    </item>
+
+
+    <item>
+	<title>The Misguided Ikhwani Shadeed Muhammad: Part 8 - The History of African American Personality Worship, Tawhid and Walaa and Baraa</title>        
+        <description>
+
+ In previous articles we highlighted the following: 
+
+  Shadeed Muhammad belittling the rububiyyah of Allaah, the Mighty and Majestic (see [[url>http://www.m ...</description>
+        <link>https://www.manhaj.com/manhaj/articles/wlacb-the-misguided-ikhwani-shadeed-muhammad-part-8.cfm</link>
+        <pubDate>Fri, 06 Oct 2017 03:43:44 GMT</pubDate>
+    </item>
+
+</channel>
+</rss>

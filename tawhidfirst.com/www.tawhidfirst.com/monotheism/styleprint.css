@@ -1,0 +1,106 @@
+body {
+		/*background-image:url(images/bg1.gif);
+		background-repeat:repeat-x;
+		 background-color:#666666; */
+		font-family:arial,verdana,tahoma;font-size:14px;line-height:19px;color:#000000;
+		margin:15;
+	}
+	
+td {font-family:arial,verdana,tahoma;font-size:14px;line-height:19px;color:#000000;}
+
+a {color:#0066cc;text-decoration:none;}
+a:hover {text-decoration:underline;}
+a:visited {color:#0066cc;}
+p {text-align:justify;}
+blockquote {text-align:justify;}
+
+.articleContent {font-family:arial,verdana,tahoma;font-size:14px;line-height:19px;color:#000000;}
+.articleTitle  {font-family:arial,verdana,tahoma;font-size:24px;line-height:29px;color:#565656;font-weight:bold;}
+.mainHeadline {font-family:tahoma;font-size:26px;font-weight:bold;line-height:29px;}
+.subHeadline {font-family:tahoma;font-size:20px;font-weight:bold;line-height:26px;color:#ff0000;width:470px;}
+.pageHeadline {font-family:tahoma;font-size:20px;font-weight:bold;line-height:26px;color:#000000;}
+
+.smallHeadline {font-family:tahoma;font-size:14px;font-weight:bold;line-height:29px;color:676767;}
+.articleTitleList {font-family:arial,tahoma;font-size:14px;font-weight:bold;color:0066cc;}
+
+.titleHeadline {font-family:arial black,arial,tahoma;font-size:15px;line-height:20px;color:343434;}
+
+i {font-family:georgia;}
+
+.textSmall {font-family:trebuchet ms,verdana,arial,tahoma;font-size:11px;line-height:14px;color:#000000;}
+.yellow {background-color:ffff00;}
+.legal {font-size:12px;font-famiy:arial;color:#9a9a9a;letter-spacing:-0.05px;}
+.steps {font-family:tahoma;font-size:17px;font-weight:bold;line-height:26px;color:#cc0000;}
+
+.sidebar {background-color:#ffffcc; padding : 7px 7px 7px 7px;	border-top : 1px solid #003399; border-bottom : 1px solid #003399;}
+
+.arb {font-size:16px;font-weight:bold;}
+.arabic {font-size:19px;text-align:right;line-height:27px;margin-right: 20px;}
+.arabicquran {font-size:21px;text-align:right;line-height:27px;margin-right: 20px;}
+
+.quote {background-color:#fcf4d8; border-left : 1px solid #003399; border-right : 1px solid #003399; padding : 12px 12px 12px 12px;}
+
+.quotequran {font-weight:bold; background-color:#fcf4d8; padding : 12px 12px 12px 12px;	border-top : 1px solid #003399; border-bottom : 1px solid #003399;}
+
+.quotered {background-color:#ffddde; 30px;padding : 12px 12px 12px 12px;	border-left : 1px solid #993300; border-right : 1px solid #993300;}
+
+.tagLink {color:#454545;text-decoration:none;}
+
+.bonustext {font-family:tahoma;font-size:18px;font-weight:bold;line-height:23px;color:#0000;}
+.bonus {font-family:tahoma;font-size:18px;font-weight:bold;line-height:23px;color:#cc0000;}
+
+.checkmarklist {list-style-image: url(images/checkmarkbox.html);}
+
+
+
+
+/*Credits: Dynamic Drive CSS Library */
+/*URL: http://www.dynamicdrive.com/style/ */
+
+.solidblockmenu{
+margin: 0;
+padding: 0;
+float: left;
+font: bold 11px Arial;
+width: 100%;
+overflow: hidden;
+margin-bottom: 0;
+border: 1px solid #625e00;
+border-width: 1px 0;
+background: black url(images/blockdefault.gif) center center repeat-x;
+}
+
+.solidblockmenu li{
+display: inline;
+}
+
+.solidblockmenu li a{
+float: left;
+color: white;
+padding: 7px 9px;
+text-decoration: none;
+/* border-right: 1px solid white; */
+}
+
+.solidblockmenu li a:visited{
+color: white;
+}
+
+.solidblockmenu li a:hover, .solidblockmenu li .current{
+color: white;
+text-decoration:underline;
+background: transparent url(images/blockactive.html) center center repeat-x;
+}
+
+
+
+.tag0 { font-size: 9px; }
+.tag1 { font-size: 10px; }
+.tag2 { font-size: 11px; }
+.tag3 { font-size: 12px; }
+.tag4 { font-size: 13px; }
+.tag5 { font-size: 14px; }
+.tag6 { font-size: 15px; }
+.tag7 { font-size: 16px; }
+.tag8 { font-size: 17px; }
+.tag9 { font-size: 18px; }

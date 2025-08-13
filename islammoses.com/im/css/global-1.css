@@ -1,0 +1,204 @@
+﻿
+/* different font sizes */
+.f11 {font-size:11px;}
+.f12 {font-size:12px;}
+.f13 {font-size:13px;}
+.f14 {font-size:14px;}
+.f15 {font-size:15px;}
+.f16 {font-size:16px;}
+.f17 {font-size:17px;}
+.f18 {font-size:18px;}
+
+
+/* different tag sizes */
+.tag0 { font-size: 11px;}
+.tag1 { font-size: 12px;}
+.tag2 { font-size: 13px;}
+.tag3 { font-size: 14px;}
+.tag4 { font-size: 15px;}
+.tag5 { font-size: 16px;}
+.tag6 { font-size: 17px;}
+.tag7 { font-size: 18px;}
+.tag8 { font-size: 19px;}
+.tag9 { font-size: 20px;}
+
+/* for editing textareas */
+.panel { width: 770px;  border: solid 1px black; padding: 5px; overflow: auto;}
+
+/* for arabic text */
+.arb {font-size:16px;font-weight:bold;font-family:Traditional Arabic;}
+.arabic {font-size:25px;text-align:right;line-height:30px;margin-right: 20px;font-family:Traditional Arabic}
+.arabicquran {font-size:25px;text-align:right;line-height:38px;margin-right: 20px;font-family:Traditional Arabic}
+
+/** hover buttons **/
+.btnmenu {font-family:Roboto, arial;font-size:13px;color:#ffffff;text-decoration:none; display:inline-block; background:#336699;padding:10px;border-radius:4px;margin-right:4px;font-weight:bold;
+transition: .3s;
+}
+.btnmenu:hover {text-decoration: none;background:#ffcc00;color:#336699;}
+
+
+/* --- button style code start here --- */
+	
+	button { font-family:Roboto,arial;font-size:13px;color:#ffffff;text-decoration:none; display:inline-block; background:#336699;padding:10px;border-radius:4px;margin-right:4px;font-weight:bold; cursor:pointer;}
+		
+	button span, button em { display:block; height:34px; line-height:34px; margin:0; color:#333333; }	
+	
+	/*default dark blue*/
+	button span { padding-left:20px;}	
+	button em { font-style:normal; padding-right:20px; }	
+	
+	
+	/*blue*/
+	button.bluedark span { padding-left:20px; background:url(../images/bg_button.gif-1.html) no-repeat 0 0px; }	
+	button.bluedark em { font-style:normal; padding-right:20px; background:url(../images/bg_button.gif-1.html) no-repeat 100% -0px; }	
+	
+	/*blue*/
+	button.blue span { padding-left:20px; background:url(../images/bg_button.gif-1.html) no-repeat 0 -34px; }	
+	button.blue em { font-style:normal; padding-right:20px; background:url(../images/bg_button.gif-1.html) no-repeat 100% -34px; }	
+	
+	/*green*/
+	button.green span { padding-left:20px;}	
+	button.green em { font-style:normal;}		
+	
+	/*red*/
+	button.red span { padding-left:20px; background:url(../images/bg_button.gif-1.html) no-repeat 0 -136px; }	
+	button.red em { font-style:normal; padding-right:20px; background:url(../images/bg_button.gif-1.html) no-repeat 100% -136px; }	
+	/*yellow*/
+	button.yell span { padding-left:20px; background:url(../images/bg_button.gif-1.html) no-repeat 0 -170px; }	
+	button.yell em { font-style:normal; padding-right:20px; background:url(../images/bg_button.gif-1.html) no-repeat 100% -170px; }	
+	
+	/*white*/
+	button.white span { padding-left:20px; background:url(../images/bg_button.gif-1.html) no-repeat 0 -204px; }	
+	button.white em { font-style:normal; padding-right:20px; background:url(../images/bg_button.gif-1.html) no-repeat 100% -204px; }
+	
+	button:hover span, button.over span { font-family:Roboto,arial;font-size:13px;color:#ffffff;text-decoration:none; display:inline-block; background:#cccc66;padding:10px;border-radius:4px;margin-right:4px;font-weight:bold; cursor:pointer;}	
+	button:hover em, button.over em { text-decoration: none;background:#cccc66;color:#336699;}				
+	button:focus, button:active { outline:hidden; }
+	
+	
+	/*white*/			
+	button.disabled { cursor:text; }
+	button.disabled span, button.disabled em { color:#999999; }	
+	button.disabled span { padding-left:20px; background:url(../images/bg_button.gif-1.html) no-repeat 0 -68px; }	
+	button.disabled em { font-style:normal; padding-right:20px; background:url(../images/bg_button.gif-1.html) no-repeat 100% -68px; }	
+	
+	
+	/* IE hacks to add some space between butotns */
+	* html button { margin-right:5px; }
+	*+html button { margin-right:5px; }
+	
+	/* --- end button style code --- */
+
+
+/************************ But Hover Menu   ****************/
+
+.but-hov-menu {
+	margin: 100px 0 0;
+	padding: 0;
+	list-style: none;
+}
+.but-hov-menu  li {
+	padding: 0;
+	margin: 0 2px;
+	float: left;
+	position: relative;
+	text-align: center;
+}
+.but-hov-menu  a {
+	padding: 14px 10px;
+	display: block;
+	color: #000000;
+	width: 144px;
+	text-decoration: none;
+	font-weight: bold;
+	background: url(../images/but-hov-menu-blue.gif-1.html) no-repeat center center;
+}
+.but-hov-menu  li em {
+	background: url(../images/but-hov-menu-hover.png-1.html) no-repeat;
+	width: 180px;
+	height: 55px;
+	position: absolute;
+	top: -85px;
+	left: -15px;
+	text-align: center;
+	padding: 10px 12px 10px;
+	font-style: normal;
+	z-index: 2;
+	display: none;
+	}
+
+	/** horizontal css menu **/
+	/* 1em = 16px. */
+
+.horiznav ul {
+  list-style: none;
+  background-color: #444;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  float:left;
+}
+.horiznav li {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  line-height: 40px;
+  height: 40px;
+  border-bottom: 1px solid #888;
+  text-decoration:none;
+  font-weight:bold;
+}
+ 
+.horiznav a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  transition: .3s background-color;
+}
+ 
+.horiznav a:hover {
+  background-color: #336699;
+}
+ 
+.horiznav a.active {
+  background-color: #fff;
+  color: #444;
+  cursor: default;
+}
+ 
+ .horiznav a.visited {
+  background-color: #fff;
+  color: #ffffff;
+  cursor: default;
+}
+ 
+@media screen and (min-width: 600px) {
+  .horiznav li {
+    width: 100px;
+    border-bottom: none;
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+  }
+ 
+  /* Option 1 - Display Inline */
+  .horiznav li {
+    display: inline-block;
+    margin-right: -4px;
+  }
+ 
+  /* Options 2 - Float
+  .horiznav li {
+    float: left;
+  }
+  .horiznav ul {
+    overflow: auto;
+    width: 600px;
+    margin: 0 auto;
+  }
+  .horiznav {
+    background-color: #444;
+  }
+  */
+}
+	
+	
