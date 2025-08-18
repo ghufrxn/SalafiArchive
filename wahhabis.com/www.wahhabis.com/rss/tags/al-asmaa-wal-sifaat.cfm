@@ -1,0 +1,25 @@
+
+<rss version="2.0">
+<channel>
+    <title><![CDATA[Wahhabis.Com | al-Asmaa wal-Sifaat]]></title>
+    <link>http:////www.wahhabis.com/</link>
+    <description><![CDATA[Latest news and information from Wahhabis.Com tagged with "al-Asmaa wal-Sifaat"]]></description>
+    <language>en-us</language>
+    <copyright>Copyright 2025</copyright>
+    <docs>http:////www.wahhabis.com/rss.cfm</docs>
+    <lastBuildDate>Mon, 18 Aug 2025 10:09:11 GMT</lastBuildDate>
+
+    <item>
+	<title><![CDATA[The Creed of Ibn Abd Al-Wahhaab on the Names and Attributes of Allaah]]></title>        
+        <description><![CDATA[
+
+In much of the propaganda that comes from the Extreme Sufis, the Nusayris and the Raafidee Shi'ah you will hardly find a single first-hand citation from Muhammad  ...]]></description>
+		
+		<link>//www.wahhabis.com/articles/deiah-the-creed-of-ibn-abd-al-wahhaab-on-the-names-and-attributes-of-allaah.cfm</link>
+		
+        <pubDate>Sat, 20 Aug 2011 15:09:38 GMT</pubDate>
+    </item>
+	
+
+</channel>
+</rss>
