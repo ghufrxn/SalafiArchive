@@ -7,19 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:30 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Why Do  The Jahmiyyah Rely Upon the Sayings of the Likes of an-Nawawi Exclusive to the Sayings of the Salaf? Commentary on Jahmee Baleed Naruiji's Use of the Speech of Imaam an-Nawawi]]></title>        
-        <description><![CDATA[
-
-Before reading this article do your homework by going  and  and  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/axbud-why-do--the-jahmiyyah-rely-upon-the-sayings-of-the-likes-of-an-nawawi-exclusive-.cfm</link>
-		
-        <pubDate>Sat, 03 Oct 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:14 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Ibn Hajr al-Asqalani's Mention of the Ash'ari Sect By Name in Fath ul-Baaree - Part 2]]></title>        
@@ -102,6 +90,18 @@ It is not possible for the Jahmiyyah (the Mu'attilah amongst them who say Allaah
 		<link>//www.asharis.com/creed/articles/jrqmv-why-do-the-jahmiyyah-rely-upon-sayings-of-the-likes-of-ibn-hajr-exclusive-to-the.cfm</link>
 		
         <pubDate>Wed, 30 Sep 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Why Do  The Jahmiyyah Rely Upon the Sayings of the Likes of an-Nawawi Exclusive to the Sayings of the Salaf? Commentary on Jahmee Baleed Naruiji's Use of the Speech of Imaam an-Nawawi]]></title>        
+        <description><![CDATA[
+
+Before reading this article do your homework by going  and  and  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/axbud-why-do--the-jahmiyyah-rely-upon-the-sayings-of-the-likes-of-an-nawawi-exclusive-.cfm</link>
+		
+        <pubDate>Sat, 03 Oct 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:03:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:10 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Uncovering the Innovated Terminology of the Jahmiyyah and Their Relatives from Ahl al-Kalaam (Ash'aris, Maturidis): Part 5 - The Term 'al-Tarkib']]></title>        

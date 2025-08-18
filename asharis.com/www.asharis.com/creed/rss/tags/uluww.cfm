@@ -7,19 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:39 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Imaam adh-Dhahabee and al-Qurtubee on Allaah's Ascendancy (al-Uluww)]]></title>        
-        <description><![CDATA[Imaam adh-Dhahabee said in the final lines of his most excellent work, "al-Uluww lil-'Aliyyil-Ghaffaar" (pp.286-287):
-
-Al-Qurtubee said concerning the saying of Allaah, the Most High, "Then he ascended (istawaa)  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/blrqg-imaam-adh-dhahabee-and-al-qurtubee-on-allaahs-ascendancy-al-uluww.cfm</link>
-		
-        <pubDate>Tue, 23 Jun 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:44 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Jahmite Intellectual Fraudster Abu Layth bin 'Ataa of Seeking Ilm Regarding The Saying of  Imam Malik on Allah Being Above the Heaven]]></title>        
@@ -76,6 +64,18 @@ Al-Qurtubee said concerning the saying of Allaah, the Most High, "Then he ascend
 		<link>//www.asharis.com/creed/articles/xsqvm-abu-muhammad-al-juwaynees-d-438h-attestation-for-the-salafee-aqeedah.cfm</link>
 		
         <pubDate>Sat, 20 Jun 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Imaam adh-Dhahabee and al-Qurtubee on Allaah's Ascendancy (al-Uluww)]]></title>        
+        <description><![CDATA[Imaam adh-Dhahabee said in the final lines of his most excellent work, "al-Uluww lil-'Aliyyil-Ghaffaar" (pp.286-287):
+
+Al-Qurtubee said concerning the saying of Allaah, the Most High, "Then he ascended (istawaa)  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/blrqg-imaam-adh-dhahabee-and-al-qurtubee-on-allaahs-ascendancy-al-uluww.cfm</link>
+		
+        <pubDate>Tue, 23 Jun 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

@@ -7,19 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:42 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[The Ash'ari Creed and 20th Century Thinkers and Political Activists: Part 2d - The Aqidah of Taqi ud-Din an-Nabahani: It is Haraam to Have I'tiqaad (Belief) in the Punishment of the Grave]]></title>        
-        <description><![CDATA[Taqi ad-Din an-Nabahani: It is Haraam to Have I'tiqaad (Belief) in the Punishment of the Grave
-
-We established in  that an-Nabahani was  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/bkual-the-ashari-creed-and-20th-century-thinkers-and-political-activists-part-2d---the.cfm</link>
-		
-        <pubDate>Sat, 19 Jun 2010 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:45 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[The Ash'ari Creed and 20th Century Thinkers and Political Activists: Part 2e - The Aqidah of Taqi ud-Din an-Nabahani: The Aqidah of the Jahmiyyah, Mu'tazilah and Ash'ariyyah that the Qur'an is Created]]></title>        
@@ -116,6 +104,18 @@ The khabar ul-aahaad refers to the hadeeth which is not mutawaatir (definition w
 		<link>//www.asharis.com/creed/articles/twzux-the-ashari-creed-and-20th-century-thinkers-and-political-activists-part-2c---the.cfm</link>
 		
         <pubDate>Thu, 17 Jun 2010 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[The Ash'ari Creed and 20th Century Thinkers and Political Activists: Part 2d - The Aqidah of Taqi ud-Din an-Nabahani: It is Haraam to Have I'tiqaad (Belief) in the Punishment of the Grave]]></title>        
+        <description><![CDATA[Taqi ad-Din an-Nabahani: It is Haraam to Have I'tiqaad (Belief) in the Punishment of the Grave
+
+We established in  that an-Nabahani was  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/bkual-the-ashari-creed-and-20th-century-thinkers-and-political-activists-part-2d---the.cfm</link>
+		
+        <pubDate>Sat, 19 Jun 2010 00:00:00 GMT</pubDate>
     </item>
 	
 

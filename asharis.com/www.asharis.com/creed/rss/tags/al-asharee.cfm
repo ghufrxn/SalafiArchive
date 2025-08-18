@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:45 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Abu Hasan al-Ash'ari's Affirmation of al-Uluww and al-Istiwaa for Allaah With His Essence, and Refutation of the Ta'wils of the Jahmiyyah and Mu'tazilah]]></title>        

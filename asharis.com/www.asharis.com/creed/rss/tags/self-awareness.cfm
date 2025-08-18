@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:36 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Aristotelians Anonymous: 1st Workshop - Admitting Your Creed Is Built Around Aristotle's Maqoolaat Is the First Step to Recovery]]></title>        

@@ -7,19 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:23 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Abdul-Kareem Ash-Shahrastani, Sixth Century Ash'ari (d. 548H): Abu al-Hasan al-Ash'ari United With the Kullaabis After Leaving the Mu'tazilah]]></title>        
-        <description><![CDATA[All praise is due to Allaah and may the prayers and salutations be upon His Messenger, to proceed:
-
- To the right is a book called "al-Milal wan-Nihal" of  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/tqqab-abdul-kareem-ash-shahrastani-sixth-century-ashari-d-548h-abu-al-hasan-al-ashari-.cfm</link>
-		
-        <pubDate>Sat, 24 Oct 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:37 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Abdul-Kareem Ash-Shahrastani, Sixth Century Ash'ari (d. 548H): Abu al-Hasan al-Ash'ari Broke the Ijmaa' and Innovated a Third Saying On the Subject of Allaah's Speech and the Qur'an]]></title>        
@@ -66,6 +54,18 @@
 		<link>//www.asharis.com/creed/articles/qdxlp-abdul-kareem-ash-sharahstani-d-584h-ashari-scholar-on-the-speech-of-allaah-and-t.cfm</link>
 		
         <pubDate>Thu, 08 Oct 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Abdul-Kareem Ash-Shahrastani, Sixth Century Ash'ari (d. 548H): Abu al-Hasan al-Ash'ari United With the Kullaabis After Leaving the Mu'tazilah]]></title>        
+        <description><![CDATA[All praise is due to Allaah and may the prayers and salutations be upon His Messenger, to proceed:
+
+ To the right is a book called "al-Milal wan-Nihal" of  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/tqqab-abdul-kareem-ash-shahrastani-sixth-century-ashari-d-548h-abu-al-hasan-al-ashari-.cfm</link>
+		
+        <pubDate>Sat, 24 Oct 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

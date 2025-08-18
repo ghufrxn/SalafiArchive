@@ -7,21 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:58 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Why Ibn Sina, You Exceedingly Shrewd Kafir! Thank You For Supporting Our Aristotelian Metaphysical Creed and Backing Us (Ash'aris) In Our Saying That 'Allaah Is Not Within the Creation Nor Outside Of It']]></title>        
-        <description><![CDATA[
-
-From the well-known sayings of the later Ash'aris is that:
-
-Allaah is not within the creation, nor outside of it, and not attached, connected to the creation nor separate from  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/mrsit-why-ibn-sina-you-exceedingly-shrewd-kafir-thank-you-for-supporting-our-aristotel.cfm</link>
-		
-        <pubDate>Tue, 13 Oct 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:26 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Top Tips To Become a Better Ash'ari: The 2nd Tip - Know Your Aristotelian Metaphysics Inside Out]]></title>        
@@ -58,6 +44,20 @@ Allaah is not within the creation, nor outside of it, and not attached, connecte
 		<link>//www.asharis.com/creed/articles/iowfm-top-tips-to-become-a-better-ashari-the-2nd-tip---know-your-aristotelian-metaphys.cfm</link>
 		
         <pubDate>Tue, 29 Sep 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Why Ibn Sina, You Exceedingly Shrewd Kafir! Thank You For Supporting Our Aristotelian Metaphysical Creed and Backing Us (Ash'aris) In Our Saying That 'Allaah Is Not Within the Creation Nor Outside Of It']]></title>        
+        <description><![CDATA[
+
+From the well-known sayings of the later Ash'aris is that:
+
+Allaah is not within the creation, nor outside of it, and not attached, connected to the creation nor separate from  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/mrsit-why-ibn-sina-you-exceedingly-shrewd-kafir-thank-you-for-supporting-our-aristotel.cfm</link>
+		
+        <pubDate>Tue, 13 Oct 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

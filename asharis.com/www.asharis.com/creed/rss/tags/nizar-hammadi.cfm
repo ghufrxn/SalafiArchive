@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:30 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Another Dishonest and Resentful Jahmite (Nizar Hammadi) Trying to Malign Ibn Taymiyyah: Regarding Fakhr Al-Din Al-Razi's Confusion]]></title>        

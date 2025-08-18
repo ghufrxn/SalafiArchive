@@ -7,17 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:03:24 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Aristotle's Substance (Jawhar) and Accident ('Arad) and Greek and Hindu Atomism Is  A Fundamental, Integral Aspect of the Ash'arite Creed]]></title>        
-        <description><![CDATA[All of the major books of the Ash'arites discuss the created nature of the universe through Aristotle's substance and accident (jawhar and 'arad) and also adopt the "atomism" theory of some of the Greek Philosophers.  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/gmsin-aristotles-substance-jawhar-and-accident-arad-and-greek-and-hindu-atomism-is--a-.cfm</link>
-		
-        <pubDate>Sun, 05 Jul 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:08 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Aristotle and The Ash'arite Doctrines Of Substance (Jawhar) and Non-Essential Incidental Attribute ('Arad)]]></title>        
@@ -96,6 +86,16 @@ Qaadee Abu Bakr al-Baqillani is one of the most important figures in the Ash'ari
         <description><![CDATA[We mentioned in a previous article Ibn Hajr's refutation of one of the main principles of the Ash'aris relating to the first obligation upon the servant (which the generality of the Ash'aris consider to be an-nadhr  ...]]></description>
 		
 		<link>//www.asharis.com/creed/articles/rvevz-ibn-hajr-quoting-al-qurtubi-the-companions-never-delved-into-al-jawhar-substance.cfm</link>
+		
+        <pubDate>Sun, 05 Jul 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Aristotle's Substance (Jawhar) and Accident ('Arad) and Greek and Hindu Atomism Is  A Fundamental, Integral Aspect of the Ash'arite Creed]]></title>        
+        <description><![CDATA[All of the major books of the Ash'arites discuss the created nature of the universe through Aristotle's substance and accident (jawhar and 'arad) and also adopt the "atomism" theory of some of the Greek Philosophers.  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/gmsin-aristotles-substance-jawhar-and-accident-arad-and-greek-and-hindu-atomism-is--a-.cfm</link>
 		
         <pubDate>Sun, 05 Jul 2009 00:00:00 GMT</pubDate>
     </item>

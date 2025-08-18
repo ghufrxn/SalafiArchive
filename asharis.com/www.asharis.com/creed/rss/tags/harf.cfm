@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:08 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Abu Muhammad al-Juwaynee's (d. 438H) Attestation for the Salafee Aqeedah]]></title>        

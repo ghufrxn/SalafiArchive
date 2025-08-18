@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:38 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[The Debates of al-Jahm bin Safwan (Summary Execution 128H) With the Indian Materialist Philosophers And the Origins of Ta'teel Within the Ummah]]></title>        

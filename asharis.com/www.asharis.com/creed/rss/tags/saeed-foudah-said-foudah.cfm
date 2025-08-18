@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:35 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Jahmite Intellectual Fraudster Saeed Foudah's Attempted Refutation of Abu al-Hasan al-Ash'ari, al-Baqillani, al-Bayhaqi and the Entirety of the Salaf on the Sifaat Khabariyyah]]></title>        

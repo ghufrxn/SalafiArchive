@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:01 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Barelwi Mullah Asrar Rashid Flees on His Heels and Commits Academic Fraud on His Audience, Unable to Answer the Rebuttal of His Kalam Creed He Took From the Hellenized Jews, Christians and Sabeans Through the Jahmiyyah and Mu'tazilah - Part 1]]></title>        

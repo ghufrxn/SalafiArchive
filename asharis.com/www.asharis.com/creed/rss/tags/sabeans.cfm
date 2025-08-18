@@ -7,19 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:17 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Aristotle of Stageira, Philo of Alexandria, Augustine of Hippo, the Sabeans of Harraan, the Mu'tazilites of Basrah and Baghdad and the Jahmite Ash'ari Heretics of Today Claiming Orthodoxy - Part 2]]></title>        
-        <description><![CDATA[Paper Background: Predication, Immutability, the Ten Categories
-
-Before we move on to the paper, a few things need to be clarified. The author will be discussing the issue of predication and immutability.  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/wtxta-aristotle-of-stageira-philo-of-alexandria-augustine-of-hippo-the-sabeans-of-harr.cfm</link>
-		
-        <pubDate>Sun, 28 Nov 2010 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:34 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Aristotle of Stageira, Philo of Alexandria, Augustine of Hippo, the Sabeans of Harraan, the Mu'tazilites of Basrah and Baghdad and the Jahmite Ash'ari Heretics of Today Claiming Orthodoxy - Part 3]]></title>        
@@ -87,6 +75,18 @@ This series has five parts: ,  , [[url>http://www.asharis.com/creed/?wfjmn>Part 
 		<link>//www.asharis.com/creed/articles/kagzi-aristotle-of-stageira-philo-of-alexandria-augustine-of-hippo--the-sabeans-of-har.cfm</link>
 		
         <pubDate>Wed, 24 Nov 2010 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Aristotle of Stageira, Philo of Alexandria, Augustine of Hippo, the Sabeans of Harraan, the Mu'tazilites of Basrah and Baghdad and the Jahmite Ash'ari Heretics of Today Claiming Orthodoxy - Part 2]]></title>        
+        <description><![CDATA[Paper Background: Predication, Immutability, the Ten Categories
+
+Before we move on to the paper, a few things need to be clarified. The author will be discussing the issue of predication and immutability.  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/wtxta-aristotle-of-stageira-philo-of-alexandria-augustine-of-hippo-the-sabeans-of-harr.cfm</link>
+		
+        <pubDate>Sun, 28 Nov 2010 00:00:00 GMT</pubDate>
     </item>
 	
 

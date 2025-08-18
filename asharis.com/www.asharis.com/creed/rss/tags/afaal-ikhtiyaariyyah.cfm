@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:43 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Did the Salaf Believe 'The Qur'an Came into Existence From Non-Existence' - Confuting the Doubt of the Jahmite Ash'aris And an Illustration of Their Ignorance and Deception Regarding 'Muhdath', 'Haadith', 'Hudooth' and Allaah's Actions Tied To His Will]]></title>        

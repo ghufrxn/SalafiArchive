@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:01:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:13:52 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[The Divine Attributes: The Righteous Salaf vs the Heretical Kalam Schools - Part 2: Which Door Did the Ash'aris and Maturidis Come Through?]]></title>        

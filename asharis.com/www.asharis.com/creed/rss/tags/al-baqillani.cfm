@@ -7,17 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:27 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[The Creed of the Kullabi Asharis Preview: Part 2 - Aqidah Books Authored by the Righteous Salaf and Deliberately Ignored by the Asharis]]></title>        
-        <description><![CDATA[Aqidah Books Authored by the Salaf. The Ash'arites dismiss and turn a blind eye to the authoring of works by the Salaf in the second, third and fourth centuries (150H-400H) and in their spurious claim  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/zycga-the-creed-of-the-kullabi-asharis-preview-part-2---aqidah-books-authored-by-the-r.cfm</link>
-		
-        <pubDate>Fri, 29 Oct 2010 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:46 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[The Creed of the Kullabi Asharis Preview: Part 3 - Abu Bakr al-Baqillani, His Book al-Tamhid, Allah's Uluww and al-Kawthari's False Allegation Against Ibn Taymiyyah and Ibn al-Qayyim]]></title>        
@@ -106,6 +96,20 @@
 		<link>//www.asharis.com/creed/articles/ntgjrfu-concerning-the-affirmation-and-negation-of-al-hadd-and-the-doubts-of-the-jahmite.cfm</link>
 		
         <pubDate>Fri, 22 Dec 2017 11:28:29 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[The Top Intellectual Frauds Perpetrated by Today's Jahmiyyah Posing as Followers of Abu al-Hasan al-Ash'ari - Part 3: Regarding the Classification of Tawhid and Tawhid al-Uloohiyyah, Tawhid al-Ibaadah]]></title>        
+        <description><![CDATA[
+
+Background Information
+
+We have established in the articles on this website with sufficient proof that what is known today as the Ash'ari madhhab is in fact a hybrid of  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/sortp-the-top-intellectual-frauds-perpetrated-by-todays-jahmiyyah-posing-as-followers-.cfm</link>
+		
+        <pubDate>Sat, 03 Apr 2010 00:00:00 GMT</pubDate>
     </item>
 	
 

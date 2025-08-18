@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:36 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[The Hanbalis Who Strayed from the Way of Imaam Ahmad and the Methodology of the Ash'arites in Devising and Implementing Their Doctrinal Propaganda Through Cunning and Deception]]></title>        

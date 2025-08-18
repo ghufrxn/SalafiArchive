@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:12 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[A Reply to the Doubt of the Jahmite Ash'aris Regarding What is 'Muhdath' and What is 'Makhlooq' - Which Is The Very Doubt of Jahm Bin Safwaan - And Their Attempt To  Negate Allaah's Actions By Way Of It]]></title>        

@@ -7,17 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:56 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[The Creed of the Kullabi Asharis Preview: Part 3 - Abu Bakr al-Baqillani, His Book al-Tamhid, Allah's Uluww and al-Kawthari's False Allegation Against Ibn Taymiyyah and Ibn al-Qayyim]]></title>        
-        <description><![CDATA[Abu Bakr al-Baqillani, His Book al-Tamhid and Allah's Uluww . The Early Kullabis affirmed Allah's uluww, with His essence, over the Throne and al-Baqillani did not depart from the way of Ibn Kullab,  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/aioth-the-creed-of-the-kullabi-asharis-preview-part-3---abu-bakr-al-baqillani-his-book.cfm</link>
-		
-        <pubDate>Fri, 29 Oct 2010 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:26 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[The Creed of the Kullabi Asharis Preview: Part 4 - GF Haddad's Deception Regarding al-Dhahabi, His Book al-Uluww and the Phrase 'Bi Dhatihi']]></title>        
@@ -108,6 +98,21 @@ We have established in numerous articles previously that the early Kullabi Ash'a
 		<link>//www.asharis.com/creed/articles/ntgjrfu-concerning-the-affirmation-and-negation-of-al-hadd-and-the-doubts-of-the-jahmite.cfm</link>
 		
         <pubDate>Fri, 22 Dec 2017 11:28:29 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Asharis.Com Publication: The Creed of the Early Kullabi Asharis - Comparative Analysis of the Early and Later Asharis]]></title>        
+        <description><![CDATA[
+
+
+All praise is due to Allah and prayers and salutations be upon the Messenger, to proceed:
+
+We are pleased to announce that our  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/gisbc-ashariscom-publication-the-creed-of-the-early-kullabi-asharis---comparative-anal.cfm</link>
+		
+        <pubDate>Fri, 24 Sep 2010 00:00:00 GMT</pubDate>
     </item>
 	
 

@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:27 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Audio: Did Muhammad Abduh al-Misree Found Salafiyyah In The Early 20th Century?]]></title>        

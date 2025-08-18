@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:45 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[The Ash'ari Clinic: 4th Case Study - The Ash'ari, Maturidi Creeds and The Trinitarian Christian Called Ghiy&#257;th bin Ghawth bin al-&#7778;alt al-Taghlab&#299;]]></title>        

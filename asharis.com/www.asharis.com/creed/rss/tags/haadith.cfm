@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:08 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Aqidah Gems From Imam al-Tabari's Works! Part 1 - Al-Tabari's Proof for Allaah Being the First, Before Everything And His Affirmation of the Sifaat Khabariyyah and Sifaat Fi'liyyah]]></title>        

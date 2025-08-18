@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:30 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Abdul-Kareem Ash-Shahrastani, Sixth Century Ash'ari (d. 548H): Abu al-Hasan al-Ash'ari Broke the Ijmaa' and Innovated a Third Saying On the Subject of Allaah's Speech and the Qur'an]]></title>        

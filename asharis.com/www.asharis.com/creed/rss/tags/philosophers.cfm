@@ -7,17 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:12 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[The Philosophers: The Ash'aris Are Mujassimah Who Claim Allaah Is Divisible With Distinct Parts (Ajzaa'), That He Is Composed (Murakkab) and Has Need (al-Iftiqaar) Within His Essence]]></title>        
-        <description><![CDATA[We explained in previous articles the claim of the Jahmiyyah that by believing Allaah to be above the heaven, above the Throne - [just as He stated in explicit unambiguous words in His Book, and as affirmed by the entirety  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/xoqtx-the-philosophers-the-asharis-are-mujassimah-who-claim-allaah-is-divisible-with-d.cfm</link>
-		
-        <pubDate>Thu, 10 Sep 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:32 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[How the Philosophers Slapped the Ash'arites Into Intellectual Oblivion and Made Mockery of Their Intelligence - Between the Uluww of Allaah and the Qidam (Eternity) of Allaah]]></title>        
@@ -68,6 +58,16 @@ In six previous articles we documented, exposed and sent to the dustbin of histo
 		<link>//www.asharis.com/creed/articles/cdaws-the-recommended-repentance-for-the-jahmee-baleed-abu-adam-naruiji-from-one-insta.cfm</link>
 		
         <pubDate>Tue, 08 Sep 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[The Philosophers: The Ash'aris Are Mujassimah Who Claim Allaah Is Divisible With Distinct Parts (Ajzaa'), That He Is Composed (Murakkab) and Has Need (al-Iftiqaar) Within His Essence]]></title>        
+        <description><![CDATA[We explained in previous articles the claim of the Jahmiyyah that by believing Allaah to be above the heaven, above the Throne - [just as He stated in explicit unambiguous words in His Book, and as affirmed by the entirety  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/xoqtx-the-philosophers-the-asharis-are-mujassimah-who-claim-allaah-is-divisible-with-d.cfm</link>
+		
+        <pubDate>Thu, 10 Sep 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

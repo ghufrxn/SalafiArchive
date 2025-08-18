@@ -7,17 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:51 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Aristotelians Anonymous: 1st Workshop - Admitting Your Creed Is Built Around Aristotle's Maqoolaat Is the First Step to Recovery]]></title>        
-        <description><![CDATA[ Following the  at Aristotelians Anonymous (thanks to all those that popped in, its one of the most popular articles) -  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/mrgly-aristotelians-anonymous-1st-workshop---admitting-your-creed-is-built-around-aris.cfm</link>
-		
-        <pubDate>Thu, 12 Nov 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:56 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Aristotelians Anonymous: The  Official Launch - Time For A New Beginning!]]></title>        
@@ -46,6 +36,16 @@
 		<link>//www.asharis.com/creed/articles/brner-aristotelians-anonymous-the--official-launch---time-for-a-new-beginning.cfm</link>
 		
         <pubDate>Mon, 09 Nov 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Aristotelians Anonymous: 1st Workshop - Admitting Your Creed Is Built Around Aristotle's Maqoolaat Is the First Step to Recovery]]></title>        
+        <description><![CDATA[ Following the  at Aristotelians Anonymous (thanks to all those that popped in, its one of the most popular articles) -  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/mrgly-aristotelians-anonymous-1st-workshop---admitting-your-creed-is-built-around-aris.cfm</link>
+		
+        <pubDate>Thu, 12 Nov 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

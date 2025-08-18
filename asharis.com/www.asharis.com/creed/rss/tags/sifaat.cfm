@@ -7,17 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:23 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Al-Khatib al-Baghdadi Clarifies the Methodology of the Salaf Regarding the Attributes And Refutes the Mu'attilah, Mufawwidah, Mu'awwilah (the Jahmiyyah, Mu'tazilah, Ash'ariyyah) and the Mujassimah and Mushabbihah]]></title>        
-        <description><![CDATA[Imaam adh-Dhahabi in his book, "Mukhtasar al-Uluww" has documented the statement of al-Khatib al-Baghdadi (d. 463H) regarding the Attributes of Allaah. The Ash'aris claim that al-Khatib was an Ash'ari or had leanings  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/nwlcy-al-khatib-al-baghdadi-clarifies-the-methodology-of-the-salaf-regarding-the-attri.cfm</link>
-		
-        <pubDate>Mon, 07 Sep 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:37 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Abu Muhammad al-Juwaynee's (d. 438H) Attestation for the Salafee Aqeedah]]></title>        
@@ -46,6 +36,16 @@
 		<link>//www.asharis.com/creed/articles/xsqvm-abu-muhammad-al-juwaynees-d-438h-attestation-for-the-salafee-aqeedah.cfm</link>
 		
         <pubDate>Sat, 20 Jun 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Al-Khatib al-Baghdadi Clarifies the Methodology of the Salaf Regarding the Attributes And Refutes the Mu'attilah, Mufawwidah, Mu'awwilah (the Jahmiyyah, Mu'tazilah, Ash'ariyyah) and the Mujassimah and Mushabbihah]]></title>        
+        <description><![CDATA[Imaam adh-Dhahabi in his book, "Mukhtasar al-Uluww" has documented the statement of al-Khatib al-Baghdadi (d. 463H) regarding the Attributes of Allaah. The Ash'aris claim that al-Khatib was an Ash'ari or had leanings  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/nwlcy-al-khatib-al-baghdadi-clarifies-the-methodology-of-the-salaf-regarding-the-attri.cfm</link>
+		
+        <pubDate>Mon, 07 Sep 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

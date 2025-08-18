@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:28 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Muhammad Sa'eed Ramadan Buti: We (The Ash'aris) and the Mu'tazilah are United that the Qur'an Is Created And What the Mu'tazilah Call 'Knowledge (al-Ilm)' and 'Will (al-Iraadah)', We Simply Call 'al-Kalaam an-Nafsee']]></title>        

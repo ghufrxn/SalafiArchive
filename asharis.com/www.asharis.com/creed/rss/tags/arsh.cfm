@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:57 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Concerning the Doubt of the Jahmiyyah: Does Allaah Encompass And Surround the Entire Creation With His Essence Such That It Is Inside Of His Essence In the Manner of a Sphere Contained By Another?]]></title>        

@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:06 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[ Understanding the Battle Between the Philosophers (Aristotle, Ibn Sina, al-Farabi) and the Mutakallimoon (Jahmiyyah, Mu'tazilah, Kullaabiyyah, Ash'ariyyah, Maturidiyyah) Initiated By Jahm bin Safwaan]]></title>        

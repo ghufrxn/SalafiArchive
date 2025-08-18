@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:46 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Imaam al-Bukhaaree (d. 256H): Cleans Out the Secret Hideouts of the Qur'an Creationists Who Deny Allaah Speaks With A Voice]]></title>        

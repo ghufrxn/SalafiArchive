@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:03 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Impaling Jahmee Doubts: Lowering Abu Adam Naruiji Into the Well of Ignominy Through the Bucket of Ignominy For His Cheap Slander Against Ibn Taymiyyah]]></title>        

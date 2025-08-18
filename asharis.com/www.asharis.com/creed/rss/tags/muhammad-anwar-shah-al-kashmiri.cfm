@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:27 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Muhammad Anwar Shah al-Kashmiri al-Deobandi al-Maturidi On Abu Hanifah, al-Bukhari, Ibn Taymiyyah and the Sifat Fi'liyyah, and The Issue of Haadith, Muhdath, Makhluq - Part 1]]></title>        

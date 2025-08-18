@@ -7,22 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:27 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Asharis.Com Publication: The Creed of the Early Kullabi Asharis - Comparative Analysis of the Early and Later Asharis]]></title>        
-        <description><![CDATA[
-
-
-All praise is due to Allah and prayers and salutations be upon the Messenger, to proceed:
-
-We are pleased to announce that our  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/gisbc-ashariscom-publication-the-creed-of-the-early-kullabi-asharis---comparative-anal.cfm</link>
-		
-        <pubDate>Fri, 24 Sep 2010 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:46 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[The Creed of the Kullabi Asharis Preview: Part 1 - Nuh Keller's Great Lie Against Allah, His Book, His Mesenger, the Companions and the Early Mufassireen]]></title>        
@@ -113,6 +98,16 @@ The Jahmiyyah often make citations from some of the Ash'arites and then leave th
 		<link>//www.asharis.com/creed/articles/djmma-al-hafidh-al-bayhaqi-on-the-attribute-of-hand-al-yad-and-the-views-of-the-mutaka.cfm</link>
 		
         <pubDate>Tue, 09 Nov 2010 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[The Creed of the Kullabi Asharis Preview: Part 9 - The Correct and False Types of Ta'wil]]></title>        
+        <description><![CDATA[The Correct and False Types of Ta'wil. The Ash'arites make tahrif (distortion) of the texts and then refer to it as ta'wil. However, this ta'wil is not from the two correct and sound types of ta'wil  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/fnbwl-the-creed-of-the-kullabi-asharis-preview-part-9---the-correct-and-false-types-of.cfm</link>
+		
+        <pubDate>Thu, 11 Nov 2010 00:00:00 GMT</pubDate>
     </item>
 	
 

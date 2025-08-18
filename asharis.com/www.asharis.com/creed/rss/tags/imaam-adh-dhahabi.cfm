@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:18 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Imaam adh-Dhahabi on the Jahmites and the Later Mu'tazilite and Ash'arite Theologians Who Reject Allaah is Above The Heavens]]></title>        

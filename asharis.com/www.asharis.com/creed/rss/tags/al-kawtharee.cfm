@@ -7,19 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:34 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Regarding Ibn Taymiyyah and the 'Naseehah Dhahabiyyah' Ascribed to Imaam adh-Dhahabee - Part 4]]></title>        
-        <description><![CDATA[Imaam adh-Dhahabi's biography of Shaikh ul-Islaam Ibn Taymiyyah in 'Siyar A'laam un-Nubulaa' has been preserverd through Ibn al-Wazeer who quoted it in his extraordinary book 'al-'Awaasim min al-Qawaasim' (5/261-264).
-
-Its  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/zkjoo-regarding-ibn-taymiyyah-and-the-naseehah-dhahabiyyah-ascribed-to-imaam-adh-dhaha.cfm</link>
-		
-        <pubDate>Mon, 29 Jun 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:49 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Regarding Ibn Taymiyyah and the 'Naseehah Dhahabiyyah' Ascribed to Imaam adh-Dhahabee - Part 1]]></title>        
@@ -96,6 +84,18 @@ Imaam adh-Dhahabee in his religion, his piety and manners is far above the likes
 Question 195: What do you say regarding "an-Naseehah adh-Dhahabiyyah", or "ar-Risaalah adh-Dhahabiyyah" which is ascribed  ...]]></description>
 		
 		<link>//www.asharis.com/creed/articles/fvqga-regarding-ibn-taymiyyah-and-the-naseehah-dhahabiyyah-ascribed-to-imaam-adh-dhaha.cfm</link>
+		
+        <pubDate>Mon, 29 Jun 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Regarding Ibn Taymiyyah and the 'Naseehah Dhahabiyyah' Ascribed to Imaam adh-Dhahabee - Part 4]]></title>        
+        <description><![CDATA[Imaam adh-Dhahabi's biography of Shaikh ul-Islaam Ibn Taymiyyah in 'Siyar A'laam un-Nubulaa' has been preserverd through Ibn al-Wazeer who quoted it in his extraordinary book 'al-'Awaasim min al-Qawaasim' (5/261-264).
+
+Its  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/zkjoo-regarding-ibn-taymiyyah-and-the-naseehah-dhahabiyyah-ascribed-to-imaam-adh-dhaha.cfm</link>
 		
         <pubDate>Mon, 29 Jun 2009 00:00:00 GMT</pubDate>
     </item>

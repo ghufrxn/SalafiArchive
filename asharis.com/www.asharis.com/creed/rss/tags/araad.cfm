@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:34 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Aristotle and The Ash'arite Doctrines Of Substance (Jawhar) and Non-Essential Incidental Attribute ('Arad)]]></title>        

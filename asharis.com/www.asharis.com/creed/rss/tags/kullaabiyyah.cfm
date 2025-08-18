@@ -7,17 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:56 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[A Historical Outline of the Deen Instituted by the Jahmites Subsequently Adopted by the Mu'tazilah, Ash'ariyyah and Maturidiyyah]]></title>        
-        <description><![CDATA[All Praise is due to Allaah, we praise Him, seek His aid and His Forgiveness. We seek refuge in Allaah from the evils of our souls and the evils of our actions. Whomsoever Allaah guides there is none to misguide and  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/dhpom-a-historical-outline-of-the-deen-instituted-by-the-jahmites-subsequently-adopted.cfm</link>
-		
-        <pubDate>Wed, 15 Jul 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:25 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Abdul-Kareem Ash-Shahrastani, Sixth Century Ash'ari (d. 548H): Abu al-Hasan al-Ash'ari United With the Kullaabis After Leaving the Mu'tazilah]]></title>        
@@ -110,6 +100,16 @@ What is contained in this statement of Ibn Battah (d. 387H) is also found in the
 		<link>//www.asharis.com/creed/articles/xbxok-ibn-battah-d-387h-on-the-jahmite-origins-of-the-kullaabi-ashari-doctrine-that-th.cfm</link>
 		
         <pubDate>Tue, 17 Nov 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[A Historical Outline of the Deen Instituted by the Jahmites Subsequently Adopted by the Mu'tazilah, Ash'ariyyah and Maturidiyyah]]></title>        
+        <description><![CDATA[All Praise is due to Allaah, we praise Him, seek His aid and His Forgiveness. We seek refuge in Allaah from the evils of our souls and the evils of our actions. Whomsoever Allaah guides there is none to misguide and  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/dhpom-a-historical-outline-of-the-deen-instituted-by-the-jahmites-subsequently-adopted.cfm</link>
+		
+        <pubDate>Wed, 15 Jul 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

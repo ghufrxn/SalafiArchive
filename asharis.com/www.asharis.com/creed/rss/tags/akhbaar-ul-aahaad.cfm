@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:43 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Foundations Of the Ash'aris: It Is Not Permissible To Take  Knowledge About Allaah From the Khabar ul-Waahid]]></title>        

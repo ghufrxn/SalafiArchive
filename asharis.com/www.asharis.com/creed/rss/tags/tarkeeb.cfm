@@ -7,17 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:33 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Ibn Taymiyyah: Divisibility (al-Inqisaam) and Separability (at-Tajazzu') Are Impossible For Allaah and Negated From Him By Agreement of the Muslims - Part 1]]></title>        
-        <description><![CDATA[In previous articles we showed how contemporary Jahmite Ash'aris have attempted to accuse Ibn Taymiyyah of speaking with "divisibility" (inqisaam) for Allaah, the Most High, and we pointed out that these people failed  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/ljtge-ibn-taymiyyah-divisibility-al-inqisaam-and-separability-at-tajazzu-are-impossibl.cfm</link>
-		
-        <pubDate>Fri, 21 Aug 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:41 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Ibn Taymiyyah: Divisibility (al-Inqisaam) and Separability (at-Tajazzu') Are Impossible For Allaah and Negated From Him By Agreement of the Muslims - Part 2]]></title>        
@@ -70,6 +60,16 @@ Contemporary Jahmite Ash'aris have attempted to slander Ibn Taymiyyah by imputin
 		<link>//www.asharis.com/creed/articles/xoqtx-the-philosophers-the-asharis-are-mujassimah-who-claim-allaah-is-divisible-with-d.cfm</link>
 		
         <pubDate>Thu, 10 Sep 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Ibn Taymiyyah: Divisibility (al-Inqisaam) and Separability (at-Tajazzu') Are Impossible For Allaah and Negated From Him By Agreement of the Muslims - Part 1]]></title>        
+        <description><![CDATA[In previous articles we showed how contemporary Jahmite Ash'aris have attempted to accuse Ibn Taymiyyah of speaking with "divisibility" (inqisaam) for Allaah, the Most High, and we pointed out that these people failed  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/ljtge-ibn-taymiyyah-divisibility-al-inqisaam-and-separability-at-tajazzu-are-impossibl.cfm</link>
+		
+        <pubDate>Fri, 21 Aug 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

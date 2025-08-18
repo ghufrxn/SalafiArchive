@@ -7,17 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:54 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[The Ash'ari Clinic: 1st Case Study of 'Ash'ari Burnout' - Concerning Allaah's Speech and the Qur'an]]></title>        
-        <description><![CDATA[We are pleased to present our first case study of "Ash'ari Burnout". To learn more . "Ash'ari Burnout" is a phenomenon arising when  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/gsnyz-the-ashari-clinic-1st-case-study-of-ashari-burnout---concerning-allaahs-speech-a.cfm</link>
-		
-        <pubDate>Sun, 18 Oct 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:58 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[The Ash'ari Clinic: 2nd Case Study of 'Ash'ari Burnout' - Concerning Ibn Hajr, Imaam Bukhaaree, The Kullaabiyyah and the Pronunciation of the Qur'an]]></title>        
@@ -76,6 +66,16 @@
 		<link>//www.asharis.com/creed/articles/cqcvp-the-ashari-clinic-3rd-case-study-of-ashari-burnout---psychologically-disturbed-l.cfm</link>
 		
         <pubDate>Sun, 01 Nov 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[The Ash'ari Clinic: 1st Case Study of 'Ash'ari Burnout' - Concerning Allaah's Speech and the Qur'an]]></title>        
+        <description><![CDATA[We are pleased to present our first case study of "Ash'ari Burnout". To learn more . "Ash'ari Burnout" is a phenomenon arising when  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/gsnyz-the-ashari-clinic-1st-case-study-of-ashari-burnout---concerning-allaahs-speech-a.cfm</link>
+		
+        <pubDate>Sun, 18 Oct 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

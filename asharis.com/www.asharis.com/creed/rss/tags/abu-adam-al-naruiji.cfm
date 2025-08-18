@@ -7,19 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:08 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Ibn Taymiyyah Compared With the Philosophers: Exposing Abu Adam al-Naruiji's Academic Fraud - Part 5: Ahl al-Sunnah, the Philosophers and Ahl al-Kalaam on Allaah's Actions and Origins of the Universe - Continued...]]></title>        
-        <description><![CDATA[
-
-This is a continuation of , the second of two parts forming one article. Please do not read this  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/sudai-ibn-taymiyyah-compared-with-the-philosophers-exposing-abu-adam-al-naruijis-acade.cfm</link>
-		
-        <pubDate>Mon, 26 Sep 2011 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:36 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Ibn Taymiyyah Compared With the Philosophers: Exposing Abu Adam al-Naruiji's Academic Fraud - Part 1: Contextual Background and History of Falsafah and Kalam]]></title>        
@@ -66,6 +54,18 @@ Note: Part 4 (this article) and  constitute one whole article and should be read
 		<link>//www.asharis.com/creed/articles/qcsxk-ibn-taymiyyah-compared-with-the-philosophers-exposing-abu-adam-al-naruijis-acade.cfm</link>
 		
         <pubDate>Sun, 25 Sep 2011 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Ibn Taymiyyah Compared With the Philosophers: Exposing Abu Adam al-Naruiji's Academic Fraud - Part 5: Ahl al-Sunnah, the Philosophers and Ahl al-Kalaam on Allaah's Actions and Origins of the Universe - Continued...]]></title>        
+        <description><![CDATA[
+
+This is a continuation of , the second of two parts forming one article. Please do not read this  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/sudai-ibn-taymiyyah-compared-with-the-philosophers-exposing-abu-adam-al-naruijis-acade.cfm</link>
+		
+        <pubDate>Mon, 26 Sep 2011 00:00:00 GMT</pubDate>
     </item>
 	
 

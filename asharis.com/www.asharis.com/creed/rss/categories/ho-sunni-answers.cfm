@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:13:58 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Clarity on the Different Sayings About the Qur'an: A  Refutation of the Deceiving Aristotelian, Neo-Platonic Jahmite, Abu Adam Naruiji: Part 1]]></title>        

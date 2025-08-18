@@ -7,19 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:20 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Regarding Ibn Taymiyyah and the 'Naseehah Dhahabiyyah' Ascribed to Imaam adh-Dhahabee - Part 3]]></title>        
-        <description><![CDATA[This is another insight into the "Naseehah Dhahabiyyah" ascribed to Imaam adh-Dhahabee:
-
-Question 195: What do you say regarding "an-Naseehah adh-Dhahabiyyah", or "ar-Risaalah adh-Dhahabiyyah" which is ascribed  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/fvqga-regarding-ibn-taymiyyah-and-the-naseehah-dhahabiyyah-ascribed-to-imaam-adh-dhaha.cfm</link>
-		
-        <pubDate>Mon, 29 Jun 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:42 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Regarding Ibn Taymiyyah and the 'Naseehah Dhahabiyyah' Ascribed to Imaam adh-Dhahabee - Part 4]]></title>        
@@ -120,6 +108,18 @@ Al-Qurtubee said concerning the saying of Allaah, the Most High, "Then he ascend
         <description><![CDATA[It is claimed by the followers of Muhammad Zaahid al-Kawtharee, the one who regarded Imaam adh-Dhahabee as a mujassim (anthropomorphist) and as one who understands hardly anything of the usool (foundations of the religion),  ...]]></description>
 		
 		<link>//www.asharis.com/creed/articles/cumrj-regarding-ibn-taymiyyah-and-the-naseehah-dhahabiyyah-ascribed-to-imaam-adh-dhaha.cfm</link>
+		
+        <pubDate>Wed, 24 Jun 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Regarding Ibn Taymiyyah and the 'Naseehah Dhahabiyyah' Ascribed to Imaam adh-Dhahabee - Part 2]]></title>        
+        <description><![CDATA[The Shaykh, Bakr Ibn Abdullaah Abu Zaid, rahimahullaah said (as quoted in the book "Kutub Hadhdhara Minhaa al-Ulamaa",  2/309):
+
+Imaam adh-Dhahabee in his religion, his piety and manners is far above the likes  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/tbvah-regarding-ibn-taymiyyah-and-the-naseehah-dhahabiyyah-ascribed-to-imaam-adh-dhaha.cfm</link>
 		
         <pubDate>Wed, 24 Jun 2009 00:00:00 GMT</pubDate>
     </item>

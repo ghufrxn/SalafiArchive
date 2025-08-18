@@ -85,7 +85,7 @@ color: white;
 .solidblockmenu li a:hover, .solidblockmenu li .current{
 color: white;
 text-decoration:underline;
-background: transparent url(images/blockactive.html) center center repeat-x;
+background: transparent url(images/blockactive.gif) center center repeat-x;
 }
 
 

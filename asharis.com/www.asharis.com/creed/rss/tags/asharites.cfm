@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:59 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Audio: Subduing the Ash'aree Assault Against the Salafee Aqeedah  - A Response to the Philadelphian Jahmites]]></title>        

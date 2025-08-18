@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:46 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Imam al-Dhahabi, His Disapproval of the Phrase 'Bi Dhatihi', and the Deception and Stupidity of Today's Jahmite Ash'aris]]></title>        

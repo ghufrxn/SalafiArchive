@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:00 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Atabek Shukrov Nasafi (Maturidi), the Uluww of Allaah and the Hadeeth of Mu'awiyah Bin Al-Hakam: Part 1- Introduction]]></title>        

@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:50 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Abdul-Kareem Ash-Shahrastani, Sixth Century Ash'ari (d. 548H): Abu al-Hasan al-Ash'ari United With the Kullaabis After Leaving the Mu'tazilah]]></title>        

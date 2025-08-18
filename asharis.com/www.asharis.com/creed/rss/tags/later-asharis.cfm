@@ -7,19 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:57 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[The Psychology of Denial, Ash'ari Burnout, and the Differences Between the Creed of the Early (Kullaabi) Ash'aris and the Later (Mu'tazili, Jahmee) Ash'aris]]></title>        
-        <description><![CDATA[
-
-In this article we explore "the psychology of denial" and a condition arising from it known as "Ash'ari Burnout"  within the context of when the difference is established between the creed  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/hjodw-the-psychology-of-denial-ashari-burnout-and-the-differences-between-the-creed-of.cfm</link>
-		
-        <pubDate>Thu, 15 Oct 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:26 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[The Early Ash'aris Affirmed Allaah is Above the Throne, With His Essence, Without That Necessitating He is a Body (Jism) and The Refutation of Ibn Rushd Against Those Who Contest This View from the Philosophers, Jahmiyyah and Mu'tazilah]]></title>        
@@ -102,6 +90,18 @@ Inshaa'Allaah if you have been following all the various articles on the site, t
 		<link>//www.asharis.com/creed/articles/hcxqe-the-american-chestnut-tree-the-willow-tree-jahm-bin-safwan-the-mutazilah-ibn-kul.cfm</link>
 		
         <pubDate>Mon, 28 Sep 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[The Psychology of Denial, Ash'ari Burnout, and the Differences Between the Creed of the Early (Kullaabi) Ash'aris and the Later (Mu'tazili, Jahmee) Ash'aris]]></title>        
+        <description><![CDATA[
+
+In this article we explore "the psychology of denial" and a condition arising from it known as "Ash'ari Burnout"  within the context of when the difference is established between the creed  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/hjodw-the-psychology-of-denial-ashari-burnout-and-the-differences-between-the-creed-of.cfm</link>
+		
+        <pubDate>Thu, 15 Oct 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

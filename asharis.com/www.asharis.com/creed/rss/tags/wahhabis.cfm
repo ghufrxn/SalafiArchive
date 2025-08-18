@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:45 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Jahmee Baleed Abu Adam Naruiji: The Early Ash'ari Scholars Were Anthropomorphists (Mujassimah), Intellectually Deficient and 'Wahhabis' All At The Same Time]]></title>        

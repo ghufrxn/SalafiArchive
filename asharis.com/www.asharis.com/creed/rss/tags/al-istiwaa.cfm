@@ -7,29 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:31 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Glad Tidings to the Jahmites Who Deny That There is a Deity Above the Heavens - AboveTheThrone.Com ]]></title>        
-        <description><![CDATA[All praise is due to Allaah and may the prayers and salutations be upon His Final Messenger, to proceed:
-
-Then we give glad tidings to all Hulooli and Mu'attil Jahmites, Aristotelian Metaphysicists, Kalam Atomists  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/qgwku-glad-tidings-to-the-jahmites-who-deny-that-there-is-a-deity-above-the-heavens---.cfm</link>
-		
-        <pubDate>Thu, 01 Oct 2009 00:00:00 GMT</pubDate>
-    </item>
-	
-
-    <item>
-	<title><![CDATA[Jahmite Ash'aris: Abu Nicomachus Aristotle Bin Nicomachus Explains Why The Quranic and Sunnite Creed of Allaah Being Above the Throne Necessitates Tajseem]]></title>        
-        <description><![CDATA[Why is affirming that Allaah is above the Throne considered to be making Allaah to be a body (jism) according to the Jahmiyyah, Mu'tazilah and Ash'ariyyah - and how can they treat the apparent and meaning of that which  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/glwlf-jahmite-asharis-abu-nicomachus-aristotle-bin-nicomachus-explains-why-the-quranic.cfm</link>
-		
-        <pubDate>Sat, 25 Jul 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:48 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Al-Qadi Abd al-Wahhaab al-Malikee (d. 422H) Explains the Aqidah of Ibn Abi Zayd al-Qayrawani on al-Uluww Bil-Dhaat ]]></title>        
@@ -116,6 +94,32 @@ Then we give glad tidings to all Hulooli and Mu'attil Jahmites, Aristotelian Met
 		<link>//www.asharis.com/creed/articles/kmtsq-al-qurtubi-qaadee-abu-bakr-al-baqillani-abu-hasan-al-ashari-prominent-asharis-ho.cfm</link>
 		
         <pubDate>Thu, 09 Jul 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Al-Qurtubi Admits: The Quran and the Sunnah Indicate Allaah is Above The Throne With His Essence, Separate and Distinct From the Creation]]></title>        
+        <description><![CDATA[In his book "al-Asnaa Fee Sharh Asmaa Allaah il-Husnaa", Abu Abdullaah Muhammad bin Ahmad al-Qurtubi (and he is the mufassir, author of al-Jaami' Li Ahkaam il-Qur'aan), after discussing the numerous opinions held on  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/mnwfg-al-qurtubi-admits-the-quran-and-the-sunnah-indicate-allaah-is-above-the-throne-w.cfm</link>
+		
+        <pubDate>Fri, 10 Jul 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Al-Qurtubi on al-Istiwaa in His Tafseer: The Salaf Affirmed Allaah Is Above The Throne]]></title>        
+        <description><![CDATA[In his tafseer of the verse in Surah al-A'raaf (7:54), "Then He ascended over the Throne", al-Qurtubi says:
+
+
+
+Translation of al-Qurtubi's Statement
+
+Most  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/wmhvd-al-qurtubi-on-al-istiwaa-in-his-tafseer-the-salaf-affirmed-allaah-is-above-the-t.cfm</link>
+		
+        <pubDate>Mon, 13 Jul 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

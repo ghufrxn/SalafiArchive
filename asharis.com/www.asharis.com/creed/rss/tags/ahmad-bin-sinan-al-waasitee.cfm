@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:43 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Ahmad bin Sinan al-Waasitee (d. 258H): Shaykh of al-Bukhaaree and Muslim Sends Jahmite Ash'aris Fleeing From Their Secret Hideouts: 'Whoever Says the Qur'an is Two Things Or a Hikaayah is, by Allaah, a Zindeeq, Kaafir']]></title>        

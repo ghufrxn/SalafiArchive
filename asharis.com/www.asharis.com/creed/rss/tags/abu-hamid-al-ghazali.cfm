@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:39 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Abu Hamid al-Ghazali (Imaam of the Later Ash'aris): If the Prophet Invited to Belief in Allaah Through the Language and Terminology of the Ash'arites,  Not even One in a Thousand Would Accept It! Rather the Majority Would Tend to Atheism!]]></title>        

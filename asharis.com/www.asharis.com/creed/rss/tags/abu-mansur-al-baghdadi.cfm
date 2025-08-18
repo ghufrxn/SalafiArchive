@@ -7,17 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:18 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[The Creed of the Kullabi Asharis Preview: Part 3 - Abu Bakr al-Baqillani, His Book al-Tamhid, Allah's Uluww and al-Kawthari's False Allegation Against Ibn Taymiyyah and Ibn al-Qayyim]]></title>        
-        <description><![CDATA[Abu Bakr al-Baqillani, His Book al-Tamhid and Allah's Uluww . The Early Kullabis affirmed Allah's uluww, with His essence, over the Throne and al-Baqillani did not depart from the way of Ibn Kullab,  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/aioth-the-creed-of-the-kullabi-asharis-preview-part-3---abu-bakr-al-baqillani-his-book.cfm</link>
-		
-        <pubDate>Fri, 29 Oct 2010 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:40 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[The Creed of the Kullabi Asharis Preview: Part 4 - GF Haddad's Deception Regarding al-Dhahabi, His Book al-Uluww and the Phrase 'Bi Dhatihi']]></title>        
@@ -111,6 +101,16 @@ We are pleased to announce that our  ...]]></description>
 		<link>//www.asharis.com/creed/articles/gisbc-ashariscom-publication-the-creed-of-the-early-kullabi-asharis---comparative-anal.cfm</link>
 		
         <pubDate>Fri, 24 Sep 2010 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[The Creed of the Kullabi Asharis Preview: Part 1 - Nuh Keller's Great Lie Against Allah, His Book, His Mesenger, the Companions and the Early Mufassireen]]></title>        
+        <description><![CDATA[Nuh Keller's Great Lie Against Allah, His Book, His Messenger, His Companions and the Early Mufassireen. Analyzing Keller's fabrication against Ibn Abbas, Mujahid, Qatadah and others in relation to Allah's  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/kwhwm-the-creed-of-the-kullabi-asharis-preview-part-1---nuh-kellers-great-lie-against-.cfm</link>
+		
+        <pubDate>Fri, 29 Oct 2010 00:00:00 GMT</pubDate>
     </item>
 	
 

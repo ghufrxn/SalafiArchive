@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:35 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Shaykh Abdul-Qadir al-Jeelaanee (d. 561H): Cleans Out the Secret Hideouts of the Ash'arites and Sends them Fleeing For Cover Out Of Awe and Terror: Whoever Claims the Qur'an is an Ibaarah (Expression) is a Kaafir Whose Repentance is to Be Sought]]></title>        

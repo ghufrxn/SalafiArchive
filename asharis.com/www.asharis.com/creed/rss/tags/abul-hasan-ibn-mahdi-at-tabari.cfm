@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:42 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Abul-Hasan Ibn Mahdi at-Tabari (Early Ash'ari, d. 380H): Allaah Is Above the Throne With His Essence Without Tajseem and Demolition Of the Ta'weels of the Jahmiyyah, Mu'tazilah and Later (Jahmite) Ash'aris]]></title>        

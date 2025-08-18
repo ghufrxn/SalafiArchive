@@ -7,21 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:32 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[The American Chestnut Tree, The Willow Tree, Jahm Bin Safwan, The Mu'tazilah, Ibn Kullaab and the Early and Later Ash'aris - An Illustration]]></title>        
-        <description><![CDATA[
-
-Explanation of The Chestnut Tree
-
-Inshaa'Allaah if you have been following all the various articles on the site, the above illustration should be fairly  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/hcxqe-the-american-chestnut-tree-the-willow-tree-jahm-bin-safwan-the-mutazilah-ibn-kul.cfm</link>
-		
-        <pubDate>Mon, 28 Sep 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:16 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Abdul-Kareem Ash-Shahrastani, Sixth Century Ash'ari (d. 548H): Abu al-Hasan al-Ash'ari United With the Kullaabis After Leaving the Mu'tazilah]]></title>        
@@ -132,6 +118,20 @@ He is Abu Muhammad Abdullah bin Sa'eed bin Muhammad bin Kullaab al-Qattan al-Bas
 		<link>//www.asharis.com/creed/articles/fbgme-imaam-adh-dhahabee-on-abdullaah-bin-saeed-bin-kullaab-d-240h-the-founder-of-the-.cfm</link>
 		
         <pubDate>Wed, 16 Dec 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[The Top Intellectual Frauds Perpetrated by Today's Jahmiyyah Posing as Followers of Abu al-Hasan al-Ash'ari - Part 2: Regarding Ibn Kullaab al-Qattaan al-Basri]]></title>        
+        <description><![CDATA[
+
+Background Information
+
+After abandoning the Mu'tazilah, Abu al-Hasan al-Ash'ari (d. 324H) adopted the creed of Ibn Kullaab (d. 240H) and his followers whose creed was to  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/wvpfb-the-top-intellectual-frauds-perpetrated-by-todays-jahmiyyah-posing-as-followers-.cfm</link>
+		
+        <pubDate>Mon, 01 Feb 2010 00:00:00 GMT</pubDate>
     </item>
 	
 

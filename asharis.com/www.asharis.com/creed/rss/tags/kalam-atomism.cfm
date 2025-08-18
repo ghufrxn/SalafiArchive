@@ -7,21 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:53 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[The Recommended Repentance For the Jahmee Baleed Abu Adam Naruiji From One Instance Of His Many Slanders Against Ibn Taymiyyah]]></title>        
-        <description><![CDATA[All praise is due to Allah and may the prayers and salutations be upon His Messenger to proceed: 
-
-Introduction
-
-In six previous articles we documented, exposed and sent to the dustbin of history,  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/cdaws-the-recommended-repentance-for-the-jahmee-baleed-abu-adam-naruiji-from-one-insta.cfm</link>
-		
-        <pubDate>Tue, 08 Sep 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:24 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Impaling Jahmee Doubts: Lowering Abu Adam Naruiji Into the Well of Ignominy Through the Bucket of Ignominy For His Cheap Slander Against Ibn Taymiyyah]]></title>        
@@ -126,6 +112,20 @@ This is the first in a series of "Sunni Answers to Jahmee Claims" - being an exp
 		<link>//www.asharis.com/creed/articles/dhptx-impaling-jahmee-doubts-does-ibn-taymiyyah-claim-that-allaah-is-divisible-and-com.cfm</link>
 		
         <pubDate>Sun, 30 Aug 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[The Recommended Repentance For the Jahmee Baleed Abu Adam Naruiji From One Instance Of His Many Slanders Against Ibn Taymiyyah]]></title>        
+        <description><![CDATA[All praise is due to Allah and may the prayers and salutations be upon His Messenger to proceed: 
+
+Introduction
+
+In six previous articles we documented, exposed and sent to the dustbin of history,  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/cdaws-the-recommended-repentance-for-the-jahmee-baleed-abu-adam-naruiji-from-one-insta.cfm</link>
+		
+        <pubDate>Tue, 08 Sep 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

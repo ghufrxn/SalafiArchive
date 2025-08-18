@@ -7,17 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:49 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Ibn Hajr, an-Nawawi and al-Qurtubi Refute the Kalam Theology of the Ash'arite Theologians And Their Claim Regarding the First Obligation]]></title>        
-        <description><![CDATA[We have covered in some previous articles the position of the later Ash'arite theologians regarding an-nadhar (observation) and al-istidlaal (inference), and their making it binding upon each person, to know how to  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/ublmv-ibn-hajr-an-nawawi-and-al-qurtubi-refute-the-kalam-theology-of-the-asharite-theo.cfm</link>
-		
-        <pubDate>Wed, 22 Jul 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:55 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Why do the Jahmiyyah Rely Upon Sayings of the Likes of Ibn Hajr Exclusive To the Sayings of the Early Salaf? Commentary on Jahmee Baleed Naruiji's Use of the Speech of Ibn Hajr al-Asqalaani]]></title>        
@@ -74,6 +64,16 @@ Before reading this article do your homework by going  and  and  ...]]></descrip
 		<link>//www.asharis.com/creed/articles/axbud-why-do--the-jahmiyyah-rely-upon-the-sayings-of-the-likes-of-an-nawawi-exclusive-.cfm</link>
 		
         <pubDate>Sat, 03 Oct 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Ibn Hajr, an-Nawawi and al-Qurtubi Refute the Kalam Theology of the Ash'arite Theologians And Their Claim Regarding the First Obligation]]></title>        
+        <description><![CDATA[We have covered in some previous articles the position of the later Ash'arite theologians regarding an-nadhar (observation) and al-istidlaal (inference), and their making it binding upon each person, to know how to  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/ublmv-ibn-hajr-an-nawawi-and-al-qurtubi-refute-the-kalam-theology-of-the-asharite-theo.cfm</link>
+		
+        <pubDate>Wed, 22 Jul 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

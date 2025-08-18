@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:16 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Why Ibn Sina, You Exceedingly Shrewd Kafir! Thank You For Supporting Our Aristotelian Metaphysical Creed and Backing Us (Ash'aris) In Our Saying That 'Allaah Is Not Within the Creation Nor Outside Of It']]></title>        

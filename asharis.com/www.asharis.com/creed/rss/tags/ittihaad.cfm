@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:21 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Ibn al-Qayyim: Five Questions To Pull The Very Foundations From Beneath the Negators of Allaah Being Above His Creation, Separate and Distinct From It]]></title>        

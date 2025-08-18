@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:41 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Destroying the Slander of Tajsim (Anthropomorphism) Against Ahl al-Sunnah wal-Jamaa'ah: Part 9 - The Accusation of Tajsim and Tashbih Against al-Qadi Abu Ya'laa al-Hanbali]]></title>        

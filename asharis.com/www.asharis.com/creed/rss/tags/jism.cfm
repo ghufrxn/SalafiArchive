@@ -7,20 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:03:22 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Answers To Ash'ari Competition Corner: 1st Quiz - Why the Prophets Did Not Speak the Language of Aristotelian Metaphysics To Establish the True Belief in Allaah]]></title>        
-        <description><![CDATA[You can view the question of our very first Ash'ari Competition Corner here:
-
-Ash'ari Competition Corner: 1st Quiz - Test Your Knowledge of Jismiyyah
-[[url>http://www.asharis.com/creed/?beyyw>http:// ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/biozv-answers-to-ashari-competition-corner-1st-quiz---why-the-prophets-did-not-speak-t.cfm</link>
-		
-        <pubDate>Wed, 14 Oct 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:07 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Jism, Tajseem, and the Mujassimah (Anthropomorphists) in the Ash'arite Textbooks and in the Works of Shaykh ul-Islaam Ibn Taymiyyah: A Brief Comparison]]></title>        
@@ -100,6 +87,19 @@ Imaam ad-Dhahabee, in Mukhtasar al-Uluww (p.146), brings the statement  ...]]></
 		<link>//www.asharis.com/creed/articles/tkapw-imaam-adh-dhahabi-on-the-jahmites-and-the-later-mutazilite-and-asharite-theologi.cfm</link>
 		
         <pubDate>Wed, 30 Sep 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Answers To Ash'ari Competition Corner: 1st Quiz - Why the Prophets Did Not Speak the Language of Aristotelian Metaphysics To Establish the True Belief in Allaah]]></title>        
+        <description><![CDATA[You can view the question of our very first Ash'ari Competition Corner here:
+
+Ash'ari Competition Corner: 1st Quiz - Test Your Knowledge of Jismiyyah
+[[url>http://www.asharis.com/creed/?beyyw>http:// ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/biozv-answers-to-ashari-competition-corner-1st-quiz---why-the-prophets-did-not-speak-t.cfm</link>
+		
+        <pubDate>Wed, 14 Oct 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

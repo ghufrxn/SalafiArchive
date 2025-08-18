@@ -7,21 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:20 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Destroying the Slander of Tajsim (Anthropomorphism) Against Ahl al-Sunnah wal-Jamaa'ah: Part 4 - The Mujassimah, Mushabbihah From Ahl al-Kalaam: The Raafidee Hishaamiyyah And Other Sects]]></title>        
-        <description><![CDATA[
-
-Introduction
-
-Please do not proceed with this article unless and until you have read the series in sequence. In [[url>http://www.asharis.com/creed/?wlodz>Part  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/uhzra-destroying-the-slander-of-tajsim-anthropomorphism-against-ahl-al-sunnah-wal-jama.cfm</link>
-		
-        <pubDate>Thu, 09 Dec 2010 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:09 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Destroying the Slander of Tajsim (Anthropomorphism) Against Ahl al-Sunnah wal-Jamaa'ah: Part 5 - The Mujassimah From Ahl al-Kalaam: The Hanafi Karraamiyyah]]></title>        
@@ -132,6 +118,20 @@ After providing a framework in  of all the various factions (eleven in total), a
 		<link>//www.asharis.com/creed/articles/jbmfi-destroying-the-slander-of-tajsim-anthropomorphism-against-ahl-al-sunnah-wal-jama.cfm</link>
 		
         <pubDate>Wed, 08 Dec 2010 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Destroying the Slander of Tajsim (Anthropomorphism) Against Ahl al-Sunnah wal-Jamaa'ah: Part 4 - The Mujassimah, Mushabbihah From Ahl al-Kalaam: The Raafidee Hishaamiyyah And Other Sects]]></title>        
+        <description><![CDATA[
+
+Introduction
+
+Please do not proceed with this article unless and until you have read the series in sequence. In [[url>http://www.asharis.com/creed/?wlodz>Part  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/uhzra-destroying-the-slander-of-tajsim-anthropomorphism-against-ahl-al-sunnah-wal-jama.cfm</link>
+		
+        <pubDate>Thu, 09 Dec 2010 00:00:00 GMT</pubDate>
     </item>
 	
 

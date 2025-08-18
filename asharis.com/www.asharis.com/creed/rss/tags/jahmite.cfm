@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:22 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[The Philadelphian Jahmite Ash'ari Scandals Of 2009: Regarding Ibn Taymiyyah, Allaah's Nuzool  and the Jahmee Invented Doubt Concerning Whether the Throne Becomes Unoccupied or Not]]></title>        

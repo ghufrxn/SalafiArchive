@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:14 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Jahmite Intellectual Fraudsters Abu Bilal Maliki, Faqir, and Muhammad Fahmi on the Authorship of al-Ibanah by Abu al-Hasan al-Ash'ari - Part 7 - Ibn Darbas, a Qadi from the Ayyubi Dynasty and the Contemporary Jahmites]]></title>        

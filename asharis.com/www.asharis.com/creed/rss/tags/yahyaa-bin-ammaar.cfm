@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:45 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Yahyaa bin Ammaar (d, 422H),  Abu Isma'il al-Harawi (d. 481H),  Ibn Qudaamah al-Maqdisi (d.620H) and Ibn al-Jawzee (d. 597H) On the Ash'arites : There is No Lord above the Heaven, No Prophet in the Grave, And No Qur'an On This Earth]]></title>        

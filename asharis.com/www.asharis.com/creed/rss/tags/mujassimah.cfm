@@ -7,21 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:02 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Recommended Text of Repentance for the Marifah (Jahmite) Ash'aris From Their Academic and Intellectual Fraud in Which They Were Caught Red-Handed]]></title>        
-        <description><![CDATA[All praise is due to Allah and may the prayers and salutations be upon His Messenger to proceed: 
-
-21st Century Ash'arites: Promoting the Deen of the Jahmiyyah Through Intellectual Fraud
-
-Over two  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/hwmnj-recommended-text-of-repentance-for-the-marifah-jahmite-asharis-from-their-academ.cfm</link>
-		
-        <pubDate>Wed, 04 Nov 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:28 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Destroying the Slander of Tajsim (Anthropomorphism) Against Ahl al-Sunnah wal-Jamaa'ah: Part 1 - Developing The Framework]]></title>        
@@ -146,6 +132,18 @@ Introduction
 		<link>//www.asharis.com/creed/articles/syiyr-destroying-the-slander-of-tajsim-anthropomorphism-against-ahl-al-sunnah-wal-jama.cfm</link>
 		
         <pubDate>Thu, 30 Dec 2010 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Jism, Tajseem, and the Mujassimah (Anthropomorphists) in the Ash'arite Textbooks and in the Works of Shaykh ul-Islaam Ibn Taymiyyah: A Brief Comparison]]></title>        
+        <description><![CDATA[All praise is due to Allaah and may the prayers and salutations be upon His Messenger, to proceed:
+
+The accusation of tajseem (anthropomorphism) made by those who built their creed upon the language and terminology  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/bolnh-jism-tajseem-and-the-mujassimah-anthropomorphists-in-the-asharite-textbooks-and-.cfm</link>
+		
+        <pubDate>Mon, 27 Jul 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

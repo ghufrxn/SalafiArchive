@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:25 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Requesting Marifah Staff (And All Contemporary Jahmiyyah Posing as 'Ash'arites' in Every Corner of the World) To Announce Their Repentance For Lying Against Allaah and His Religion and For Reviling the Deen of the Early Kullaabi Ash'arites]]></title>        

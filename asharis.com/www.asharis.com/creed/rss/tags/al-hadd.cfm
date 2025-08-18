@@ -7,19 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:29 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Ibn Taymiyyah Discussing Ibn al-Mubaarak And Imaam Ahmad on al-Hadd (Limit) And A Response to the Jahmite Ash'aris of Philadelphia]]></title>        
-        <description><![CDATA[Ibn Taymiyyah and the Issue of "al-Hadd"
-
-The basis for this doubt regarding Shaikh ul-Islaam is in fact a saying which has been reported from the Imaam, 'Abdullaah ibn al-Mubaarak regarding the  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/voloh-ibn-taymiyyah-discussing-ibn-al-mubaarak-and-imaam-ahmad-on-al-hadd-limit-and-a-.cfm</link>
-		
-        <pubDate>Sat, 27 Jun 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:47 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[The Philadelphian Jahmite Ash'aris: Imaam Ahmad and Abdullaah Ibn al-Mubaarak And the Expression 'Bi Haddin']]></title>        
@@ -78,6 +66,18 @@ The basis for this doubt regarding Shaikh ul-Islaam is in fact a saying which ha
 		<link>//www.asharis.com/creed/articles/hybol-impaling-jahmee-doubts-ibn-taymiyyah-al-qadi-abu-yalaa-imaam-ahmad-and-the-issue.cfm</link>
 		
         <pubDate>Sat, 22 Aug 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Ibn Taymiyyah Discussing Ibn al-Mubaarak And Imaam Ahmad on al-Hadd (Limit) And A Response to the Jahmite Ash'aris of Philadelphia]]></title>        
+        <description><![CDATA[Ibn Taymiyyah and the Issue of "al-Hadd"
+
+The basis for this doubt regarding Shaikh ul-Islaam is in fact a saying which has been reported from the Imaam, 'Abdullaah ibn al-Mubaarak regarding the  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/voloh-ibn-taymiyyah-discussing-ibn-al-mubaarak-and-imaam-ahmad-on-al-hadd-limit-and-a-.cfm</link>
+		
+        <pubDate>Sat, 27 Jun 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

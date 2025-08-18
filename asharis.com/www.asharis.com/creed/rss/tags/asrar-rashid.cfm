@@ -7,21 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:58 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Analysis of the Statement of Asrar Rashid (Birmingham) Concerning the Creed of the Salaf - Part 4: Issues Pertaining to Tashbeeh, Mushaabahah]]></title>        
-        <description><![CDATA[Translation and Commentary: Part 4
-
-Asrar Rashid wrote:
-
-Allaah, the Sublime, has negated from Himself any mithl (likeness) for Him and any shabeeh (resemblance) with Him, and He emphasized  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/zyscp-analysis-of-the-statement-of-asrar-rashid-birmingham-concerning-the-creed-of-the.cfm</link>
-		
-        <pubDate>Mon, 18 Apr 2011 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:00 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Analysis of the Statement of Asrar Rashid (Birmingham) Concerning the Creed of the Salaf - Part 5: The Salaf and Belief in the Uluww of Allaah]]></title>        
@@ -116,6 +102,20 @@ Hence it is affirmation of what has been related, upon what has been related, al
 		<link>//www.asharis.com/creed/articles/gbokn-analysis-of-the-statement-of-asrar-rashid-birmingham-concerning-the-creed-of-the.cfm</link>
 		
         <pubDate>Thu, 14 Apr 2011 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Analysis of the Statement of Asrar Rashid (Birmingham) Concerning the Creed of the Salaf - Part 4: Issues Pertaining to Tashbeeh, Mushaabahah]]></title>        
+        <description><![CDATA[Translation and Commentary: Part 4
+
+Asrar Rashid wrote:
+
+Allaah, the Sublime, has negated from Himself any mithl (likeness) for Him and any shabeeh (resemblance) with Him, and He emphasized  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/zyscp-analysis-of-the-statement-of-asrar-rashid-birmingham-concerning-the-creed-of-the.cfm</link>
+		
+        <pubDate>Mon, 18 Apr 2011 00:00:00 GMT</pubDate>
     </item>
 	
 

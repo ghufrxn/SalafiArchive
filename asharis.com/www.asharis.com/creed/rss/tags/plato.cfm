@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:33 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Aristotle of Stageira, Philo of Alexandria, Augustine of Hippo,  the Sabeans of Harraan, the Mu'tazilites of Basrah and Baghdad and the Jahmite Ash'ari Heretics of Today Claiming Orthodoxy- Part 1]]></title>        

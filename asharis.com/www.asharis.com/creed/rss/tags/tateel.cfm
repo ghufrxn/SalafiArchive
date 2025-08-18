@@ -7,19 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:27 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[The Debates of al-Jahm bin Safwan (Summary Execution 128H) With the Indian Materialist Philosophers And the Origins of Ta'teel Within the Ummah]]></title>        
-        <description><![CDATA[All praise is due to Allah and may the prayers and salutations be upon His Messenger to proceed:
-
-The content below was part of a previous longer article, we have reproduced it here on its own as this particular issue  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/upfkv-the-debates-of-al-jahm-bin-safwan-summary-execution-128h-with-the-indian-materia.cfm</link>
-		
-        <pubDate>Wed, 12 Aug 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:39 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[A Historical Outline of the Deen Instituted by the Jahmites Subsequently Adopted by the Mu'tazilah, Ash'ariyyah and Maturidiyyah]]></title>        
@@ -50,6 +38,18 @@ The content below was part of a previous longer article, we have reproduced it h
 		<link>//www.asharis.com/creed/articles/dhpom-a-historical-outline-of-the-deen-instituted-by-the-jahmites-subsequently-adopted.cfm</link>
 		
         <pubDate>Wed, 15 Jul 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[The Debates of al-Jahm bin Safwan (Summary Execution 128H) With the Indian Materialist Philosophers And the Origins of Ta'teel Within the Ummah]]></title>        
+        <description><![CDATA[All praise is due to Allah and may the prayers and salutations be upon His Messenger to proceed:
+
+The content below was part of a previous longer article, we have reproduced it here on its own as this particular issue  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/upfkv-the-debates-of-al-jahm-bin-safwan-summary-execution-128h-with-the-indian-materia.cfm</link>
+		
+        <pubDate>Wed, 12 Aug 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

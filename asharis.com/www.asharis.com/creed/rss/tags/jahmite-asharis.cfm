@@ -7,19 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:48 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[The Assertion of the Jahmite Ash'aris of Philadelphia In Light Of The Use of Explanatory Phrases in Creed By Ahl ul-Hadeeth]]></title>        
-        <description><![CDATA[In his lecture on the biography of Abu Hasan al-Ash'ari one amongst the Jahmite Ash'aris of Philadelphia said:
-
-In those foundations of the religion Ahl us-Sunnah have three madhhabs there are three madhhabs  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/darjp-the-assertion-of-the-jahmite-asharis-of-philadelphia-in-light-of-the-use-of-expl.cfm</link>
-		
-        <pubDate>Sun, 28 Jun 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:22 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[The Philadelphian Jahmite Ash'ari Scandals Of 2009: Regarding Ibn Taymiyyah, Allaah's Nuzool  and the Jahmee Invented Doubt Concerning Whether the Throne Becomes Unoccupied or Not]]></title>        
@@ -118,6 +106,16 @@ In those foundations of the religion Ahl us-Sunnah have three madhhabs there are
 		<link>//www.asharis.com/creed/articles/zrchw-the-philadelphian-jahmite-ashari-scandals-of-2009-regarding-ibn-taymiyyah-allaah.cfm</link>
 		
         <pubDate>Tue, 07 Jul 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[A Historical Outline of the Deen Instituted by the Jahmites Subsequently Adopted by the Mu'tazilah, Ash'ariyyah and Maturidiyyah]]></title>        
+        <description><![CDATA[All Praise is due to Allaah, we praise Him, seek His aid and His Forgiveness. We seek refuge in Allaah from the evils of our souls and the evils of our actions. Whomsoever Allaah guides there is none to misguide and  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/dhpom-a-historical-outline-of-the-deen-instituted-by-the-jahmites-subsequently-adopted.cfm</link>
+		
+        <pubDate>Wed, 15 Jul 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

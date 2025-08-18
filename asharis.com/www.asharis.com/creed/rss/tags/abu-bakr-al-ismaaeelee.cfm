@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:38 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Abu Bakr al-Ismaa'eelee (d. 371H) Delisted From the Spurious Lists Of So-Called 'Ash'ari' Scholars]]></title>        

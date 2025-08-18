@@ -7,21 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:54 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Destroying the Slander of Tajsim (Anthropomorphism) Against Ahl al-Sunnah wal-Jamaa'ah: Part 2 - Ahl al-Sunnah, Ibn Kullab, al-Ash'ari and the Early Kullabis, Ash'aris]]></title>        
-        <description><![CDATA[
-
-Introduction
-
-In the  of this series we established two different approaches, that of the Sunnah and  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/emuan-destroying-the-slander-of-tajsim-anthropomorphism-against-ahl-al-sunnah-wal-jama.cfm</link>
-		
-        <pubDate>Mon, 06 Dec 2010 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:25 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Destroying the Slander of Tajsim (Anthropomorphism) Against Ahl al-Sunnah wal-Jamaa'ah: Part 3 - The Mu'attilah and Mujassimah Share the Same Base and Foundation For Their Ta'teel and Tajseem]]></title>        
@@ -142,6 +128,20 @@ Introduction
 		<link>//www.asharis.com/creed/articles/xkolx-a-historical-outline-of-the-deen-of-the-jahmites-mutazilah-kullaabiyyah-karraami.cfm</link>
 		
         <pubDate>Wed, 23 Sep 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Destroying the Slander of Tajsim (Anthropomorphism) Against Ahl al-Sunnah wal-Jamaa'ah: Part 1 - Developing The Framework]]></title>        
+        <description><![CDATA[ 
+
+Introduction
+
+In all the various discussions that take place, in person, on blogs, forums and the likes, one of the greatest slanders made against  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/wlodz-destroying-the-slander-of-tajsim-anthropomorphism-against-ahl-al-sunnah-wal-jama.cfm</link>
+		
+        <pubDate>Fri, 03 Dec 2010 00:00:00 GMT</pubDate>
     </item>
 	
 

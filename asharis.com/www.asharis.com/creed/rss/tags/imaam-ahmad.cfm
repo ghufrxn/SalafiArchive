@@ -7,17 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:39 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Imaam Ahmad's Rational Proof (Against the Jahmites) For Establishing Allaah's Uluww (Allaah Being Above the Creation With His Essence)]]></title>        
-        <description><![CDATA[Refer also to: Ibn al-Qayyim: Five Questions To Pull The Very Foundations From Beneath the Negators of Allaah Being Above His Creation, Separate and Distinct From It  - [[url>http://www.asharis.com/creed/?veaet>read  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/vfrum-imaam-ahmads-rational-proof-against-the-jahmites-for-establishing-allaahs-uluww-.cfm</link>
-		
-        <pubDate>Tue, 15 Sep 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:19 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Ibn Taymiyyah Discussing Ibn al-Mubaarak And Imaam Ahmad on al-Hadd (Limit) And A Response to the Jahmite Ash'aris of Philadelphia]]></title>        
@@ -108,6 +98,16 @@ The basis for this doubt regarding Shaikh ul-Islaam is in fact a saying which ha
 		<link>//www.asharis.com/creed/articles/hybol-impaling-jahmee-doubts-ibn-taymiyyah-al-qadi-abu-yalaa-imaam-ahmad-and-the-issue.cfm</link>
 		
         <pubDate>Sat, 22 Aug 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Imaam Ahmad's Rational Proof (Against the Jahmites) For Establishing Allaah's Uluww (Allaah Being Above the Creation With His Essence)]]></title>        
+        <description><![CDATA[Refer also to: Ibn al-Qayyim: Five Questions To Pull The Very Foundations From Beneath the Negators of Allaah Being Above His Creation, Separate and Distinct From It  - [[url>http://www.asharis.com/creed/?veaet>read  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/vfrum-imaam-ahmads-rational-proof-against-the-jahmites-for-establishing-allaahs-uluww-.cfm</link>
+		
+        <pubDate>Tue, 15 Sep 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

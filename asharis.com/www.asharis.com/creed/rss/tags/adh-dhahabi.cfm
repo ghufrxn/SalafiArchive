@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:43 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Imaam adh-Dhahabee on Abdullaah bin Sa'eed bin Kullaab (d. 240H): The Founder of the Creed That Became Popularized Through Abu al-Hasan al-Ash'ari and the Early Ash'aris, Then Jahmified By the Later Ones]]></title>        

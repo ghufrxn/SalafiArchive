@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:06 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Fakhr al-Din al-Razi Annihilates and Demolishes the Foundation of the Jahmite Ash'ari Attacks Upon Ibn Taymiyyah and the Sunni Muslims: He Says All Factions Affirm 'Hawaadith' For Allaah Despite Denying It]]></title>        

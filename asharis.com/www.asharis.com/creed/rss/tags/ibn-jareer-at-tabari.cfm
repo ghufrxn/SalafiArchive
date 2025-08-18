@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:14 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Ibn Jareer at-Tabari (d. 310H) Sends the Jahmite Ash'aris Fleeing From Their Secret Hideouts: There is Only One Qur'an, Uncreated and Whoever Claims Otherwise Is a Cursed, Forsaken Kaafir]]></title>        

@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:28 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Recommended Text of Repentance for the Marifah (Jahmite) Ash'aris From Their Academic and Intellectual Fraud in Which They Were Caught Red-Handed]]></title>        

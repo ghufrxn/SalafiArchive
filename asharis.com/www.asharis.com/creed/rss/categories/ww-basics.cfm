@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:13:51 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[The Criterion For Considering a Scholar to Be an 'Ash'ari' And the Deceptive Long Lists of 'Ash'ari' Scholars Being Spread by Contemporary (Jahmite) Ash'aris]]></title>        

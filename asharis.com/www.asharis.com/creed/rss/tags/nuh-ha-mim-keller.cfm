@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:31 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Impaling Jahmee Doubts: An Open Invitation To Nuh Keller To Recant and Repent From His Ta'weel Frauds - The Attribute of Hands]]></title>        

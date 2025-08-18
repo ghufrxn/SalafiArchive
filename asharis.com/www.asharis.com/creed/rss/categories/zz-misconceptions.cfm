@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:01:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:13:52 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Ibn Taymiyyah Compared With the Philosophers: Exposing Abu Adam al-Naruiji's Academic Fraud - Part 1: Contextual Background and History of Falsafah and Kalam]]></title>        

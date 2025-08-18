@@ -7,19 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:53 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Impaling Jahmee Doubts: Does Ibn Taymiyyah Claim That Allaah Is 'Divisible' and 'Composite'? Outing the Jahmee Baleed Known As Abu Adam Naruiji - Part 1]]></title>        
-        <description><![CDATA[All praise is due to Allah and may the prayers and salutations be upon  His Messenger to proceed:
-
-This is the first in a series of "Sunni Answers to Jahmee Claims" - being an exposition of the frauds perpetrated  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/jqphd-impaling-jahmee-doubts-does-ibn-taymiyyah-claim-that-allaah-is-divisible-and-com.cfm</link>
-		
-        <pubDate>Mon, 03 Aug 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:57 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Impaling Jahmee Doubts: Does Ibn Taymiyyah Claim That Allaah Is 'Divisible' and 'Composite'? Outing the Jahmee Baleed Known As Abu Adam Naruiji - Part 2]]></title>        
@@ -78,6 +66,18 @@ In six previous articles we documented, exposed and sent to the dustbin of histo
 		<link>//www.asharis.com/creed/articles/cdaws-the-recommended-repentance-for-the-jahmee-baleed-abu-adam-naruiji-from-one-insta.cfm</link>
 		
         <pubDate>Tue, 08 Sep 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Impaling Jahmee Doubts: Does Ibn Taymiyyah Claim That Allaah Is 'Divisible' and 'Composite'? Outing the Jahmee Baleed Known As Abu Adam Naruiji - Part 1]]></title>        
+        <description><![CDATA[All praise is due to Allah and may the prayers and salutations be upon  His Messenger to proceed:
+
+This is the first in a series of "Sunni Answers to Jahmee Claims" - being an exposition of the frauds perpetrated  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/jqphd-impaling-jahmee-doubts-does-ibn-taymiyyah-claim-that-allaah-is-divisible-and-com.cfm</link>
+		
+        <pubDate>Mon, 03 Aug 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

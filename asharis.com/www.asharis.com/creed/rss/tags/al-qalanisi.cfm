@@ -7,17 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:39 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[The Creed of the Kullabi Asharis Preview: Part 1 - Nuh Keller's Great Lie Against Allah, His Book, His Mesenger, the Companions and the Early Mufassireen]]></title>        
-        <description><![CDATA[Nuh Keller's Great Lie Against Allah, His Book, His Messenger, His Companions and the Early Mufassireen. Analyzing Keller's fabrication against Ibn Abbas, Mujahid, Qatadah and others in relation to Allah's  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/kwhwm-the-creed-of-the-kullabi-asharis-preview-part-1---nuh-kellers-great-lie-against-.cfm</link>
-		
-        <pubDate>Fri, 29 Oct 2010 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:51 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[The Creed of the Kullabi Asharis Preview: Part 2 - Aqidah Books Authored by the Righteous Salaf and Deliberately Ignored by the Asharis]]></title>        
@@ -106,6 +96,16 @@
 		<link>//www.asharis.com/creed/articles/phqnn-the-creed-of-the-kullabi-asharis-preview-part-10---the-spurious-nasihah-dhahabiy.cfm</link>
 		
         <pubDate>Fri, 19 Nov 2010 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[The Creed of the Kullabi Asharis Preview: Part 11 - Concerning the Affirmation and Negation of Al-Hadd and the Doubts of the Jahmites]]></title>        
+        <description><![CDATA[Concerning the Affirmation and Negation of al-Hadd and the Doubts of the Jahmites From the talb&#299;s of the Jahmiyyah is their deceiving of the people regarding the words &#7717;add, and ta&#7717;d&#299;d,  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/ntgjrfu-concerning-the-affirmation-and-negation-of-al-hadd-and-the-doubts-of-the-jahmite.cfm</link>
+		
+        <pubDate>Fri, 22 Dec 2017 11:28:29 GMT</pubDate>
     </item>
 	
 

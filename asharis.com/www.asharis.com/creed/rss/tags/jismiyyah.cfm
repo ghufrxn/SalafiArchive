@@ -7,17 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:52 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Ash'ari Competition Corner: 1st Quiz - Test Your Knowledge of Jismiyyah]]></title>        
-        <description><![CDATA[We are pleased to announce a new competition section at , through which we wish to foster better understanding about the Ash'arite creed and its underlying foundations.  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/beyyw-ashari-competition-corner-1st-quiz---test-your-knowledge-of-jismiyyah.cfm</link>
-		
-        <pubDate>Sat, 26 Sep 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:24 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Imaam adh-Dhahabi on the Jahmites and the Later Mu'tazilite and Ash'arite Theologians Who Reject Allaah is Above The Heavens]]></title>        
@@ -76,6 +66,16 @@ Ash'ari Competition Corner: 1st Quiz - Test Your Knowledge of Jismiyyah
 		<link>//www.asharis.com/creed/articles/biozv-answers-to-ashari-competition-corner-1st-quiz---why-the-prophets-did-not-speak-t.cfm</link>
 		
         <pubDate>Wed, 14 Oct 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Ash'ari Competition Corner: 1st Quiz - Test Your Knowledge of Jismiyyah]]></title>        
+        <description><![CDATA[We are pleased to announce a new competition section at , through which we wish to foster better understanding about the Ash'arite creed and its underlying foundations.  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/beyyw-ashari-competition-corner-1st-quiz---test-your-knowledge-of-jismiyyah.cfm</link>
+		
+        <pubDate>Sat, 26 Sep 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

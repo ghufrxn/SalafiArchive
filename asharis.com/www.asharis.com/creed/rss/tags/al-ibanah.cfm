@@ -7,19 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:30 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Jahmite Intellectual Fraudsters Abu Bilal Maliki, Faqir, and Muhammad Fahmi on the Authorship of al-Ibanah by Abu al-Hasan al-Ash'ari - Part 2]]></title>        
-        <description><![CDATA[
-
-A faction of the Jahmites deceptively associating themselves with and tarnishing the good name of Abu al-Hasan al-Ash'ari have attempted to argue that al-Ibanah is not from the  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/uqxke-jahmite-intellectual-fraudsters-abu-bilal-maliki-faqir-and-muhammad-fahmi-on-the.cfm</link>
-		
-        <pubDate>Sat, 18 Sep 2010 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:47 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Jahmite Intellectual Fraudsters Abu Bilal Maliki, Faqir, and Muhammad Fahmi on the Authorship of al-Ibanah by Abu al-Hasan al-Ash'ari - Part 3]]></title>        
@@ -126,6 +114,18 @@ A faction of the Jahmites deceptively associating themselves with and tarnishing
 		<link>//www.asharis.com/creed/articles/fulju-jahmite-intellectual-fraudsters-abu-bilal-maliki-faqir-and-muhammad-fahmi-on-the.cfm</link>
 		
         <pubDate>Sat, 16 Oct 2010 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Ibn Asaakir's al-Tabyin, al-Ash'ari's al-Ibaanah and the Intellectual Frauds of Nuh Keller]]></title>        
+        <description><![CDATA[
+
+Nuh Keller is an academic fraudster - as we have proven without dispute and question  - and in this article we investigate another  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/mkboc-ibn-asaakirs-al-tabyin-al-asharis-al-ibaanah-and-the-intellectual-frauds-of-nuh-.cfm</link>
+		
+        <pubDate>Tue, 09 Nov 2010 00:00:00 GMT</pubDate>
     </item>
 	
 

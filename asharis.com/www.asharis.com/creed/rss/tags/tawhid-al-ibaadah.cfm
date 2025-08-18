@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:42 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[The Top Intellectual Frauds Perpetrated by Today's Jahmiyyah Posing as Followers of Abu al-Hasan al-Ash'ari - Part 3: Regarding the Classification of Tawhid and Tawhid al-Uloohiyyah, Tawhid al-Ibaadah]]></title>        

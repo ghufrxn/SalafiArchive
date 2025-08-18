@@ -7,17 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:04:25 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Abu al-Abbas al-Qalanisi (Contemporary of Abu Hasan al-Ash'ari): Allaah is Above His Throne With His Essence (But Without Contact)]]></title>        
-        <description><![CDATA[We have mentioned in numerous articles previously that the early Ash'ari scholars were different to the later Ash'ari scholars who took the path of the Jahmites and the Muta'zilites. The earlier Ash'aris were influenced  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/ihoxo-abu-al-abbas-al-qalanisi-contemporary-of-abu-hasan-al-ashari-allaah-is-above-his.cfm</link>
-		
-        <pubDate>Sun, 30 Aug 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:15:45 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Hafidh al-Bayhaqi (d. 458H): The Throne Is a (True and Real) Created Entity ]]></title>        
@@ -46,6 +36,16 @@
 		<link>//www.asharis.com/creed/articles/pehic-hafidh-al-bayhaqi-d-458h-the-throne-is-a-true-and-real-created-entity.cfm</link>
 		
         <pubDate>Sat, 29 Aug 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Abu al-Abbas al-Qalanisi (Contemporary of Abu Hasan al-Ash'ari): Allaah is Above His Throne With His Essence (But Without Contact)]]></title>        
+        <description><![CDATA[We have mentioned in numerous articles previously that the early Ash'ari scholars were different to the later Ash'ari scholars who took the path of the Jahmites and the Muta'zilites. The earlier Ash'aris were influenced  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/ihoxo-abu-al-abbas-al-qalanisi-contemporary-of-abu-hasan-al-ashari-allaah-is-above-his.cfm</link>
+		
+        <pubDate>Sun, 30 Aug 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

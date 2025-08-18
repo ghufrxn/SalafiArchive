@@ -7,19 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:30 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[Ibn Hajr al-Asqalani's Mention of the Ash'ari Sect By Name in Fath ul-Baaree - Part 4]]></title>        
-        <description><![CDATA[The Ash'aris of today claim that Ibn Hajr al-Asqalani (rahimahullaah) was a subscriber to the Ash'ari madhhab, and Ibn Hajr's name is often mentioned in a long list of those whom they claim were Ash'aris.
-
-The Ash'aris  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/vaztl-ibn-hajr-al-asqalanis-mention-of-the-ashari-sect-by-name-in-fath-ul-baaree---par.cfm</link>
-		
-        <pubDate>Sun, 05 Jul 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:14 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[Ibn Hajr, an-Nawawi and al-Qurtubi Refute the Kalam Theology of the Ash'arite Theologians And Their Claim Regarding the First Obligation]]></title>        
@@ -122,6 +110,18 @@ The Ash'aris  ...]]></description>
 		<link>//www.asharis.com/creed/articles/igaob-ibn-hajr-al-asqalanis-mention-of-the-ashari-sect-by-name-in-fath-ul-baaree---par.cfm</link>
 		
         <pubDate>Sat, 04 Jul 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Ibn Hajr al-Asqalani's Mention of the Ash'ari Sect By Name in Fath ul-Baaree - Part 4]]></title>        
+        <description><![CDATA[The Ash'aris of today claim that Ibn Hajr al-Asqalani (rahimahullaah) was a subscriber to the Ash'ari madhhab, and Ibn Hajr's name is often mentioned in a long list of those whom they claim were Ash'aris.
+
+The Ash'aris  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/vaztl-ibn-hajr-al-asqalanis-mention-of-the-ashari-sect-by-name-in-fath-ul-baaree---par.cfm</link>
+		
+        <pubDate>Sun, 05 Jul 2009 00:00:00 GMT</pubDate>
     </item>
 	
 

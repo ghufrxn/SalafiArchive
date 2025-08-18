@@ -7,17 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:05:59 GMT</lastBuildDate>
-
-    <item>
-	<title><![CDATA[The Usool of the Ash'ariyyah Are the Usool of the Mu'tazilah: Part 2 - Regarding the First Obligation Upon a Person Being Nadhar (Inspection) and Inference (Istidlaal)]]></title>        
-        <description><![CDATA[The generality of the Ash'aris hold that it is an obligation for each person to know the proofs for the existence of his Lord, through rational and observational proofs  and some of them (such as al-Baqillani) go to  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/sipld-the-usool-of-the-ashariyyah-are-the-usool-of-the-mutazilah-part-2---regarding-th.cfm</link>
-		
-        <pubDate>Sun, 27 Sep 2009 00:00:00 GMT</pubDate>
-    </item>
-	
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:27 GMT</lastBuildDate>
 
     <item>
 	<title><![CDATA[The American Chestnut Tree, The Willow Tree, Jahm Bin Safwan, The Mu'tazilah, Ibn Kullaab and the Early and Later Ash'aris - An Illustration]]></title>        
@@ -44,6 +34,46 @@ Bayaan Talbees al-Ash'ariyyah [al-Kullaabiyyah  ...]]></description>
 		<link>//www.asharis.com/creed/articles/eujbe-imaam-ul-haramayn-al-juwaynee-d-478h-we-agree-with-the-mutazilah-that-the-quran-.cfm</link>
 		
         <pubDate>Wed, 14 Oct 2009 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[How the Mu'tazilah Slapped the Ash'arites Into Intellectual Oblivion and Made Mockery of Their Intelligence - Between The Multiplicity of Attributes and the Doctrine of Kalaam Nafsee]]></title>        
+        <description><![CDATA[
+
+ Introduction
+
+First of all it is important to mention that where there are two opposing and warring factions, it is necessary to acknowledge and side with the  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/zjxdz-how-the-mutazilah-slapped-the-asharites-into-intellectual-oblivion-and-made-mock.cfm</link>
+		
+        <pubDate>Wed, 24 Nov 2010 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Aqidah Gems From Imam al-Tabari's Works! Part 2 - Refuting the Mu'tazilah on the Subject of the Attributes]]></title>        
+        <description><![CDATA[Imam al-Tabari Refuting the Mu'tazilah on the Subject of the Attributes With a Great Refutation!
+
+Another example that this shyster and fraudster tried to bring by clipping the speech of al-Tabari and  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/uzpzd-aqidah-gems-from-imam-al-tabaris-works-part-2---refuting-the-mutazilah-on-the-su.cfm</link>
+		
+        <pubDate>Tue, 04 Jan 2011 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[Cunning Rafidee Ibn Al-Mutahhir Mocks the Intellects of the Ash'aris, Ibn Taymiyyah Puts the Donkey in His Place]]></title>        
+        <description><![CDATA[
+
+Cunning Raafidee Games the Ash'aris
+
+In Minhaj al-Sunnah (tahqeeq Muhammad Rashaad Saalim, 3/352-353), Shaykh al-Islaam Ibn Taymiyyah  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/kveiwrt-cunning-rafidee-mocks-the-asharis-ibn-taymiyyah-puts-him-in-his-place.cfm</link>
+		
+        <pubDate>Sat, 28 Sep 2013 04:39:26 GMT</pubDate>
     </item>
 	
 
@@ -102,34 +132,6 @@ Inshaa'Allaah if you have been following all the various articles on the site, t
 		<link>//www.asharis.com/creed/articles/hcxqe-the-american-chestnut-tree-the-willow-tree-jahm-bin-safwan-the-mutazilah-ibn-kul.cfm</link>
 		
         <pubDate>Mon, 28 Sep 2009 00:00:00 GMT</pubDate>
-    </item>
-	
-
-    <item>
-	<title><![CDATA[Imaam ul-Haramayn al-Juwaynee (d. 478H): We Agree With the Mu'tazilah That the Qur'an is Created  - We Just Differ on a Matter of Wording Which Is On Account Of What Can We Call Allaah 'Mutakallim' (One Who Speaks) ]]></title>        
-        <description><![CDATA[All praise is due to Allaah and may the prayers and salutations be upon His Messenger, to proceed.
-
-
-
-Bayaan Talbees al-Ash'ariyyah [al-Kullaabiyyah  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/eujbe-imaam-ul-haramayn-al-juwaynee-d-478h-we-agree-with-the-mutazilah-that-the-quran-.cfm</link>
-		
-        <pubDate>Wed, 14 Oct 2009 00:00:00 GMT</pubDate>
-    </item>
-	
-
-    <item>
-	<title><![CDATA[How the Mu'tazilah Slapped the Ash'arites Into Intellectual Oblivion and Made Mockery of Their Intelligence - Between The Multiplicity of Attributes and the Doctrine of Kalaam Nafsee]]></title>        
-        <description><![CDATA[
-
- Introduction
-
-First of all it is important to mention that where there are two opposing and warring factions, it is necessary to acknowledge and side with the  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/zjxdz-how-the-mutazilah-slapped-the-asharites-into-intellectual-oblivion-and-made-mock.cfm</link>
-		
-        <pubDate>Wed, 24 Nov 2010 00:00:00 GMT</pubDate>
     </item>
 	
 

@@ -7,7 +7,45 @@
     <language>en-us</language>
     <copyright>Copyright 2025</copyright>
     <docs>http:////www.asharis.com/creed/rss.cfm</docs>
-    <lastBuildDate>Mon, 11 Aug 2025 07:06:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:16:40 GMT</lastBuildDate>
+
+    <item>
+	<title><![CDATA[The Ash'ari Creed and 20th Century Thinkers and Political Activists: Part 2a - The Aqidah of Taqi ud-Din an-Nabahani: The Divergent and Contradictory Doctrines of the Jahmiyyah, Qadariyyah and Mu'tazilah are all from the Islamic Aqidah]]></title>        
+        <description><![CDATA[Taqi ad-Din an-Nabahani's Profound Ignorance Regarding the Deviant Figureheads and Sects
+
+Under the heading "Philosopher Muslims" in his book "ash-Shakhsiyyah al-Islaamiyyah" (1/125), an-Nabahani writes:
+
+((img> ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/cgwhh-the-ashari-creed-and-20th-century-thinkers-and-political-activists-part-2a---the.cfm</link>
+		
+        <pubDate>Wed, 16 Jun 2010 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[The Ash'ari Creed and 20th Century Thinkers and Political Activists: Part 2b - The Aqidah of Taqi ud-Din an-Nabahani: The Intellect is the Absolute Foundation For the Islamic Aqidah]]></title>        
+        <description><![CDATA[Taqi ad-Din an-Nabahani: The Aql (Intellect) is the Absolute and Fundamental Foundation for the Islamic Aqidah
+
+We established in  that an-Nabahani  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/flral-the-ashari-creed-and-20th-century-thinkers-and-political-activists-part-2b---the.cfm</link>
+		
+        <pubDate>Wed, 16 Jun 2010 00:00:00 GMT</pubDate>
+    </item>
+	
+
+    <item>
+	<title><![CDATA[The Ash'ari Creed and 20th Century Thinkers and Political Activists: Part 2c - The Aqidah of Taqi ud-Din an-Nabahani: The Mu'tazili, Ash'ari Doctrine that the Akhbaar ul-Aahaad are Not Proof in Beliefs (Aqaa'id)]]></title>        
+        <description><![CDATA[Taqi ad-Din an-Nabahani: The Khabar ul-Aahaad is Not a Proof in Beliefs (Aqaa'id)
+
+The khabar ul-aahaad refers to the hadeeth which is not mutawaatir (definition will come later) and the bulk of the  ...]]></description>
+		
+		<link>//www.asharis.com/creed/articles/twzux-the-ashari-creed-and-20th-century-thinkers-and-political-activists-part-2c---the.cfm</link>
+		
+        <pubDate>Thu, 17 Jun 2010 00:00:00 GMT</pubDate>
+    </item>
+	
 
     <item>
 	<title><![CDATA[The Ash'ari Creed and 20th Century Thinkers and Political Activists: Part 2d - The Aqidah of Taqi ud-Din an-Nabahani: It is Haraam to Have I'tiqaad (Belief) in the Punishment of the Grave]]></title>        
@@ -78,44 +116,6 @@ Taqi ud-Din an-Nabahani defines eemaan (faith) with the standard definition prov
 		<link>//www.asharis.com/creed/articles/vncoz-the-ashari-creed-and-20th-century-thinkers-and-political-activists-part-2i---the.cfm</link>
 		
         <pubDate>Fri, 02 Jul 2010 00:00:00 GMT</pubDate>
-    </item>
-	
-
-    <item>
-	<title><![CDATA[The Ash'ari Creed and 20th Century Thinkers and Political Activists: Part 2a - The Aqidah of Taqi ud-Din an-Nabahani: The Divergent and Contradictory Doctrines of the Jahmiyyah, Qadariyyah and Mu'tazilah are all from the Islamic Aqidah]]></title>        
-        <description><![CDATA[Taqi ad-Din an-Nabahani's Profound Ignorance Regarding the Deviant Figureheads and Sects
-
-Under the heading "Philosopher Muslims" in his book "ash-Shakhsiyyah al-Islaamiyyah" (1/125), an-Nabahani writes:
-
-((img> ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/cgwhh-the-ashari-creed-and-20th-century-thinkers-and-political-activists-part-2a---the.cfm</link>
-		
-        <pubDate>Wed, 16 Jun 2010 00:00:00 GMT</pubDate>
-    </item>
-	
-
-    <item>
-	<title><![CDATA[The Ash'ari Creed and 20th Century Thinkers and Political Activists: Part 2b - The Aqidah of Taqi ud-Din an-Nabahani: The Intellect is the Absolute Foundation For the Islamic Aqidah]]></title>        
-        <description><![CDATA[Taqi ad-Din an-Nabahani: The Aql (Intellect) is the Absolute and Fundamental Foundation for the Islamic Aqidah
-
-We established in  that an-Nabahani  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/flral-the-ashari-creed-and-20th-century-thinkers-and-political-activists-part-2b---the.cfm</link>
-		
-        <pubDate>Wed, 16 Jun 2010 00:00:00 GMT</pubDate>
-    </item>
-	
-
-    <item>
-	<title><![CDATA[The Ash'ari Creed and 20th Century Thinkers and Political Activists: Part 2c - The Aqidah of Taqi ud-Din an-Nabahani: The Mu'tazili, Ash'ari Doctrine that the Akhbaar ul-Aahaad are Not Proof in Beliefs (Aqaa'id)]]></title>        
-        <description><![CDATA[Taqi ad-Din an-Nabahani: The Khabar ul-Aahaad is Not a Proof in Beliefs (Aqaa'id)
-
-The khabar ul-aahaad refers to the hadeeth which is not mutawaatir (definition will come later) and the bulk of the  ...]]></description>
-		
-		<link>//www.asharis.com/creed/articles/twzux-the-ashari-creed-and-20th-century-thinkers-and-political-activists-part-2c---the.cfm</link>
-		
-        <pubDate>Thu, 17 Jun 2010 00:00:00 GMT</pubDate>
     </item>
 	
 
